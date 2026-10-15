@@ -1,0 +1,16 @@
+import { Download, Printer, Trophy } from 'lucide-react'
+import type { Game } from '../game/schemas'
+import { rankings } from '../game/engine'
+import { csvResults, download } from '../game/storage'
+import { Back, Confetti } from './Shared'
+import { CHAPTERS, TEAM_COLORS } from '../data/constants'
+export function Results({ game, onBack, final }: { game: Game; onBack: () => void; final: boolean }) {
+  const ranked = rankings(game)
+  return <section className="page results-page">{final && <Confetti />}<div className="no-print"><Back onClick={onBack} /></div><header className="results-heading"><div className="trophy-orb"><Trophy size={48} /></div><p className="eyebrow">SDN SATRIA JAYA 01 · KELAS 5</p><h1>{final ? 'ENGLISH CHAMPION!' : 'Live Leaderboard'}</h1><p>{final ? 'Great teamwork. Amazing English. You did it!' : 'Setiap jawaban adalah langkah menuju juara.'}</p>{final && <h2 className="winner-name">{ranked.filter(t => t.rank === 1).map(t => t.name).join(' & ')}{ranked.filter(t => t.rank === 1).length > 1 && <small> · JUARA BERSAMA</small>}</h2>}</header><div className="leaderboard">{ranked.map(t => <div key={t.index} className={`leader-row ${t.rank === 1 ? 'first' : ''}`} style={{ '--team-color': TEAM_COLORS[t.index] } as React.CSSProperties}><strong className="rank">{t.rank <= 3 ? ['🥇', '🥈', '🥉'][t.rank - 1] : `#${t.rank}`}</strong><div className="grow"><h2>{t.name}</h2><p>{t.members} siswa · {t.rounds} ronde utama dimainkan</p></div><strong className="leader-score">{t.score}<small>POIN</small></strong></div>)}</div><p className="muted center">Skor seri mendapat peringkat yang sama. Tidak ada pemenang acak.</p><div className="actions center no-print"><button className="button" onClick={() => download('family100-results.csv', csvResults(game), 'text/csv;charset=utf-8')}><Download size={17} /> EXPORT RESULT · CSV</button><button className="button gold" onClick={() => window.print()}><Printer size={17} /> Cetak ringkasan</button></div>
+    <section className="reflection"><p className="eyebrow">BRING THE LEARNING HOME</p><h2>Let’s reflect together<span className="dot">.</span></h2><div className="reflection-grid">{[
+      { vocab: 'sweet · salty · sour · bitter · spicy', example: 'The cake is sweet. I like a bowl of bakso.', ask: 'Can you describe your favorite food?' },
+      { vocab: 'a glass of · a bottle of · a bowl of · a piece of · an ice cream cone', example: 'I want a glass of water, please.', ask: 'What would you like to order?' },
+      { vocab: 'price · money · buy · sell · thousand', example: 'How much is it? It is five thousand rupiahs.', ask: 'How do you ask about a price?' },
+    ].map((item, i) => <article className="reflection-card" key={i}><span>CHAPTER 0{i + 1}</span><h3>{CHAPTERS[i]}</h3><p><b>Vocabulary</b><br />{item.vocab}</p><blockquote>{item.example}</blockquote><p>{item.ask}</p></article>)}</div><div className="reflection-prompts"><h3>Talk with your team</h3><ol><li>What new words did you learn today?</li><li>Can you describe your favorite food?</li><li>How do you ask about a price?</li><li>Which chapter was the most challenging?</li><li>Did your team work well together?</li></ol><strong>Keep practicing, help your friends, and be proud of your progress! 🌟</strong><p>Terus berlatih, saling membantu, dan bangga dengan kemajuan kalian.</p></div></section>
+  </section>
+}
