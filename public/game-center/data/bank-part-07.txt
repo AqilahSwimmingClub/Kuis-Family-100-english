@@ -1,0 +1,5000 @@
+          "text": "room length",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "building height",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban sesuai materi How Tall Are You?; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-07-09",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "How Tall Are You?",
+      "type": "family100",
+      "question": "Which words describe hair colours?",
+      "answers": [
+        {
+          "text": "black",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "brown",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "blond",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "grey",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban sesuai materi How Tall Are You?; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-07-10",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "How Tall Are You?",
+      "type": "family100",
+      "question": "What sentences compare height?",
+      "answers": [
+        {
+          "text": "I am taller.",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "She is shorter.",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "We are the same height.",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "He is as tall as me.",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi How Tall Are You?; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-08-01",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "The Giraffe Is Taller Than the Deer",
+      "type": "family100",
+      "question": "Which adjectives can have -er added to compare?",
+      "answers": [
+        {
+          "text": "tall",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "short",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "fast",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "small",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi The Giraffe Is Taller Than the Deer; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-08-02",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "The Giraffe Is Taller Than the Deer",
+      "type": "family100",
+      "question": "Name four correct comparative adjectives.",
+      "answers": [
+        {
+          "text": "taller",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "smaller",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "faster",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "older",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban sesuai materi The Giraffe Is Taller Than the Deer; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-08-03",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "The Giraffe Is Taller Than the Deer",
+      "type": "family100",
+      "question": "What animals can be compared by size?",
+      "answers": [
+        {
+          "text": "elephant",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "giraffe",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "deer",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "rabbit",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban sesuai materi The Giraffe Is Taller Than the Deer; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-08-04",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "The Giraffe Is Taller Than the Deer",
+      "type": "family100",
+      "question": "What can you compare between two bicycles?",
+      "answers": [
+        {
+          "text": "speed",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "weight",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "size",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "price",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi The Giraffe Is Taller Than the Deer; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-08-05",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "The Giraffe Is Taller Than the Deer",
+      "type": "family100",
+      "question": "What can you compare between two trees?",
+      "answers": [
+        {
+          "text": "height",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "age",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "leaf size",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "trunk width",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban sesuai materi The Giraffe Is Taller Than the Deer; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-08-06",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "The Giraffe Is Taller Than the Deer",
+      "type": "family100",
+      "question": "What adjectives use “more” for comparison?",
+      "answers": [
+        {
+          "text": "more beautiful",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "more expensive",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "more interesting",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "more comfortable",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban sesuai materi The Giraffe Is Taller Than the Deer; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-08-07",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "The Giraffe Is Taller Than the Deer",
+      "type": "family100",
+      "question": "What are irregular comparative words?",
+      "answers": [
+        {
+          "text": "better",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "worse",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "more",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "less",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi The Giraffe Is Taller Than the Deer; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-08-08",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "The Giraffe Is Taller Than the Deer",
+      "type": "family100",
+      "question": "Give comparative sentences about animals.",
+      "answers": [
+        {
+          "text": "A giraffe is taller than a deer.",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "A rabbit is smaller than a horse.",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "A cheetah is faster than a turtle.",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "An elephant is heavier than a goat.",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban sesuai materi The Giraffe Is Taller Than the Deer; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-08-09",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "The Giraffe Is Taller Than the Deer",
+      "type": "family100",
+      "question": "Which words may follow “than” in a comparative sentence?",
+      "answers": [
+        {
+          "text": "me",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "you",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "him",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "her",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban sesuai materi The Giraffe Is Taller Than the Deer; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-08-10",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "The Giraffe Is Taller Than the Deer",
+      "type": "family100",
+      "question": "What can be compared between two bags?",
+      "answers": [
+        {
+          "text": "weight",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "size",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "colour",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "price",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi The Giraffe Is Taller Than the Deer; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-09-01",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "The Elephant Is the Biggest",
+      "type": "family100",
+      "question": "Name common superlative adjectives.",
+      "answers": [
+        {
+          "text": "biggest",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "smallest",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "tallest",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "fastest",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi The Elephant Is the Biggest; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-09-02",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "The Elephant Is the Biggest",
+      "type": "family100",
+      "question": "What words can end in -est?",
+      "answers": [
+        {
+          "text": "smallest",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "longest",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "shortest",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "youngest",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban sesuai materi The Elephant Is the Biggest; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-09-03",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "The Elephant Is the Biggest",
+      "type": "family100",
+      "question": "Name four irregular superlatives.",
+      "answers": [
+        {
+          "text": "best",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "worst",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "most",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "least",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban sesuai materi The Elephant Is the Biggest; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-09-04",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "The Elephant Is the Biggest",
+      "type": "family100",
+      "question": "Which things could be described as the biggest?",
+      "answers": [
+        {
+          "text": "elephant",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "building",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "ship",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "mountain",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi The Elephant Is the Biggest; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-09-05",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "The Elephant Is the Biggest",
+      "type": "family100",
+      "question": "What adjectives can use “most” as a superlative?",
+      "answers": [
+        {
+          "text": "most beautiful",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "most interesting",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "most expensive",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "most comfortable",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban sesuai materi The Elephant Is the Biggest; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-09-06",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "The Elephant Is the Biggest",
+      "type": "family100",
+      "question": "Which animals can you compare to find the fastest?",
+      "answers": [
+        {
+          "text": "cheetah",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "horse",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "deer",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "tiger",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban sesuai materi The Elephant Is the Biggest; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-09-07",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "The Elephant Is the Biggest",
+      "type": "family100",
+      "question": "What superlatives might describe a class competition?",
+      "answers": [
+        {
+          "text": "fastest",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "strongest",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "quickest",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "best",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi The Elephant Is the Biggest; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-09-08",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "The Elephant Is the Biggest",
+      "type": "family100",
+      "question": "What measurements can determine the tallest object?",
+      "answers": [
+        {
+          "text": "height in metres",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "height in centimetres",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "vertical distance",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "measured length",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban sesuai materi The Elephant Is the Biggest; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-09-09",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "The Elephant Is the Biggest",
+      "type": "family100",
+      "question": "Give examples of superlative phrases.",
+      "answers": [
+        {
+          "text": "the biggest animal",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "the tallest tree",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "the fastest runner",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "the smallest bag",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban sesuai materi The Elephant Is the Biggest; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-09-10",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "The Elephant Is the Biggest",
+      "type": "family100",
+      "question": "Which superlatives compare at least three things?",
+      "answers": [
+        {
+          "text": "largest",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "heaviest",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "oldest",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "youngest",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi The Elephant Is the Biggest; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-10-02",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 10,
+      "chapter_title": "I Like Playing Balap Karung",
+      "type": "family100",
+      "question": "Which activities do children play on Independence Day?",
+      "answers": [
+        {
+          "text": "sack race",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "cracker eating race",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "tug of war",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "spoon-and-marble race",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban sesuai materi I Like Playing Balap Karung; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-10-03",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 10,
+      "chapter_title": "I Like Playing Balap Karung",
+      "type": "family100",
+      "question": "Name sports you can say after “I like playing”.",
+      "answers": [
+        {
+          "text": "football",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "badminton",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "basketball",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "volleyball",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban sesuai materi I Like Playing Balap Karung; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-10-04",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 10,
+      "chapter_title": "I Like Playing Balap Karung",
+      "type": "family100",
+      "question": "Which expressions tell someone about your hobby?",
+      "answers": [
+        {
+          "text": "I like playing football.",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "I enjoy swimming.",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "My hobby is drawing.",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "I love cycling.",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi I Like Playing Balap Karung; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-10-05",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 10,
+      "chapter_title": "I Like Playing Balap Karung",
+      "type": "family100",
+      "question": "What words can describe a fun competition?",
+      "answers": [
+        {
+          "text": "exciting",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "fun",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "challenging",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "interesting",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban sesuai materi I Like Playing Balap Karung; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-10-06",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 10,
+      "chapter_title": "I Like Playing Balap Karung",
+      "type": "family100",
+      "question": "Which objects are useful in a sack race?",
+      "answers": [
+        {
+          "text": "sack",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "start line",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "finish line",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "whistle",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban sesuai materi I Like Playing Balap Karung; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-10-07",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 10,
+      "chapter_title": "I Like Playing Balap Karung",
+      "type": "family100",
+      "question": "Name months in the second half of the year.",
+      "answers": [
+        {
+          "text": "July",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "August",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "September",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "October",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi I Like Playing Balap Karung; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-10-08",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 10,
+      "chapter_title": "I Like Playing Balap Karung",
+      "type": "family100",
+      "question": "What can students do during a school celebration?",
+      "answers": [
+        {
+          "text": "sing",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "play games",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "join a race",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "dance",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban sesuai materi I Like Playing Balap Karung; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-10-09",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 10,
+      "chapter_title": "I Like Playing Balap Karung",
+      "type": "family100",
+      "question": "What English verbs describe game activities?",
+      "answers": [
+        {
+          "text": "run",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "jump",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "throw",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "catch",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban sesuai materi I Like Playing Balap Karung; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-10-10",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 10,
+      "chapter_title": "I Like Playing Balap Karung",
+      "type": "family100",
+      "question": "What can a referee do during a competition?",
+      "answers": [
+        {
+          "text": "start the race",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "check rules",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "announce results",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "stop unsafe play",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi I Like Playing Balap Karung; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-KA-01-01",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Berpikir Komputasi dalam Kehidupan",
+      "type": "family100",
+      "question": "Apa yang dilakukan pada tahap dekomposisi?",
+      "answers": [
+        {
+          "text": "membagi masalah besar",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "menemukan bagian kecil",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "menyusun submasalah",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "memeriksa hubungan bagian",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi Berpikir Komputasi dalam Kehidupan; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-KA-01-02",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Berpikir Komputasi dalam Kehidupan",
+      "type": "family100",
+      "question": "Contoh kegiatan yang perlu urutan langkah adalah ...",
+      "answers": [
+        {
+          "text": "mencuci tangan",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "menyikat gigi",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "memasak nasi",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menyiram tanaman",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban sesuai materi Berpikir Komputasi dalam Kehidupan; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-KA-01-03",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Berpikir Komputasi dalam Kehidupan",
+      "type": "family100",
+      "question": "Sebutkan contoh pola berulang dalam kehidupan.",
+      "answers": [
+        {
+          "text": "jadwal piket",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "pola ubin",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "urutan lampu lalu lintas",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "pola tepuk",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban sesuai materi Berpikir Komputasi dalam Kehidupan; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-KA-01-04",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Berpikir Komputasi dalam Kehidupan",
+      "type": "family100",
+      "question": "Mengapa algoritma harus jelas?",
+      "answers": [
+        {
+          "text": "mudah diikuti",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "mengurangi kesalahan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "mudah diperiksa",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "hasil dapat diprediksi",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi Berpikir Komputasi dalam Kehidupan; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-KA-01-05",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Berpikir Komputasi dalam Kehidupan",
+      "type": "family100",
+      "question": "Apa yang diperiksa saat menguji algoritma?",
+      "answers": [
+        {
+          "text": "urutan langkah",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "hasil akhir",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "kesalahan instruksi",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "kasus berbeda",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban sesuai materi Berpikir Komputasi dalam Kehidupan; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-KA-01-06",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Berpikir Komputasi dalam Kehidupan",
+      "type": "family100",
+      "question": "Sebutkan cara menggambarkan algoritma.",
+      "answers": [
+        {
+          "text": "teks langkah",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "diagram alir",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "simbol panah",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "pseudocode",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban sesuai materi Berpikir Komputasi dalam Kehidupan; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-KA-01-07",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Berpikir Komputasi dalam Kehidupan",
+      "type": "family100",
+      "question": "Apa yang dapat dilakukan jika solusi belum berhasil?",
+      "answers": [
+        {
+          "text": "uji ulang",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "perbaiki langkah",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "cek kesalahan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "coba contoh lain",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi Berpikir Komputasi dalam Kehidupan; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-KA-01-08",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Berpikir Komputasi dalam Kehidupan",
+      "type": "family100",
+      "question": "Sebutkan manfaat pengenalan pola.",
+      "answers": [
+        {
+          "text": "mengenali kemiripan",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "memprediksi urutan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "mempercepat solusi",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "mengurangi langkah",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban sesuai materi Berpikir Komputasi dalam Kehidupan; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-KA-01-09",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Berpikir Komputasi dalam Kehidupan",
+      "type": "family100",
+      "question": "Bagaimana menerapkan abstraksi?",
+      "answers": [
+        {
+          "text": "pilih informasi penting",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "abaikan rincian tidak relevan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "fokus pada tujuan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "sederhanakan masalah",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban sesuai materi Berpikir Komputasi dalam Kehidupan; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-KA-01-10",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Berpikir Komputasi dalam Kehidupan",
+      "type": "family100",
+      "question": "Contoh input dalam algoritma sehari-hari adalah ...",
+      "answers": [
+        {
+          "text": "jumlah barang",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "tujuan perjalanan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "nama pengguna",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "angka bilangan",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi Berpikir Komputasi dalam Kehidupan; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-KA-01-11",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Berpikir Komputasi dalam Kehidupan",
+      "type": "family100",
+      "question": "Contoh output sebuah algoritma adalah ...",
+      "answers": [
+        {
+          "text": "hasil penjumlahan",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "daftar tersortir",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "rute perjalanan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "pesan selesai",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban sesuai materi Berpikir Komputasi dalam Kehidupan; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-KA-01-12",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Berpikir Komputasi dalam Kehidupan",
+      "type": "family100",
+      "question": "Sebutkan ciri instruksi yang bisa diikuti komputer.",
+      "answers": [
+        {
+          "text": "jelas",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "terurut",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "tepat",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "tidak ambigu",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban sesuai materi Berpikir Komputasi dalam Kehidupan; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-KA-02-01",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Penggunaan Teknologi Digital",
+      "type": "family100",
+      "question": "Sebutkan contoh perangkat input komputer.",
+      "answers": [
+        {
+          "text": "keyboard",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "mouse",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "mikrofon",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "kamera",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi Penggunaan Teknologi Digital; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-KA-02-02",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Penggunaan Teknologi Digital",
+      "type": "family100",
+      "question": "Sebutkan contoh perangkat output komputer.",
+      "answers": [
+        {
+          "text": "monitor",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "speaker",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "printer",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "proyektor",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban sesuai materi Penggunaan Teknologi Digital; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-KA-02-03",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Penggunaan Teknologi Digital",
+      "type": "family100",
+      "question": "Apa yang termasuk perangkat penyimpanan data?",
+      "answers": [
+        {
+          "text": "flashdisk",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "SSD",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "hard disk",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "kartu memori",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban sesuai materi Penggunaan Teknologi Digital; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-KA-02-04",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Penggunaan Teknologi Digital",
+      "type": "family100",
+      "question": "Contoh penggunaan teknologi digital di sekolah adalah ...",
+      "answers": [
+        {
+          "text": "mencari informasi",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "mengetik tugas",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "presentasi",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "latihan interaktif",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi Penggunaan Teknologi Digital; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-KA-02-05",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Penggunaan Teknologi Digital",
+      "type": "family100",
+      "question": "Apa risiko membagikan kata sandi?",
+      "answers": [
+        {
+          "text": "akun dibajak",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "data dibaca orang lain",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "akun disalahgunakan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "privasi bocor",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban sesuai materi Penggunaan Teknologi Digital; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-KA-02-06",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Penggunaan Teknologi Digital",
+      "type": "family100",
+      "question": "Bagaimana menjaga keamanan data pribadi?",
+      "answers": [
+        {
+          "text": "pakai sandi kuat",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "jangan membagi OTP",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "keluar dari perangkat umum",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "perbarui perangkat lunak",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban sesuai materi Penggunaan Teknologi Digital; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-KA-02-07",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Penggunaan Teknologi Digital",
+      "type": "family100",
+      "question": "Data pribadi yang tidak boleh disebarluaskan sembarangan ialah ...",
+      "answers": [
+        {
+          "text": "alamat rumah",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "nomor telepon",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "kata sandi",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "nomor identitas",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi Penggunaan Teknologi Digital; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-KA-02-08",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Penggunaan Teknologi Digital",
+      "type": "family100",
+      "question": "Sebutkan perilaku aman saat menerima tautan tidak dikenal.",
+      "answers": [
+        {
+          "text": "jangan langsung klik",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "periksa pengirim",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "tanya orang dewasa",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "laporkan tautan mencurigakan",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban sesuai materi Penggunaan Teknologi Digital; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-KA-02-09",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Penggunaan Teknologi Digital",
+      "type": "family100",
+      "question": "Apa fungsi perangkat lunak?",
+      "answers": [
+        {
+          "text": "menjalankan aplikasi",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "mengolah data",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "menampilkan informasi",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "mengatur perangkat",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban sesuai materi Penggunaan Teknologi Digital; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-KA-02-10",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Penggunaan Teknologi Digital",
+      "type": "family100",
+      "question": "Contoh komunikasi digital adalah ...",
+      "answers": [
+        {
+          "text": "email",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "panggilan video",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "pesan instan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "kelas daring",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi Penggunaan Teknologi Digital; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-KA-02-11",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Penggunaan Teknologi Digital",
+      "type": "family100",
+      "question": "Tindakan bijak sebelum mengunggah foto teman ialah ...",
+      "answers": [
+        {
+          "text": "meminta izin",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "memeriksa privasi",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "memastikan tidak menyinggung",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "mempertimbangkan dampak",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban sesuai materi Penggunaan Teknologi Digital; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-KA-02-12",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Penggunaan Teknologi Digital",
+      "type": "family100",
+      "question": "Apa yang bisa dilakukan saat perangkat mengalami masalah?",
+      "answers": [
+        {
+          "text": "simpan pekerjaan",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "cek sambungan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "restart secara aman",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "minta bantuan guru",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban sesuai materi Penggunaan Teknologi Digital; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-KA-03-01",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Mengenal Kecerdasan Artifisial",
+      "type": "family100",
+      "question": "Contoh penerapan AI yang ditemui sehari-hari adalah ...",
+      "answers": [
+        {
+          "text": "rekomendasi video",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "penerjemah otomatis",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "filter spam",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "asisten suara",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi Mengenal Kecerdasan Artifisial; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-KA-03-02",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Mengenal Kecerdasan Artifisial",
+      "type": "family100",
+      "question": "AI dapat mengenali informasi jenis apa?",
+      "answers": [
+        {
+          "text": "gambar",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "suara",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "teks",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "pola data",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban sesuai materi Mengenal Kecerdasan Artifisial; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-KA-03-03",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Mengenal Kecerdasan Artifisial",
+      "type": "family100",
+      "question": "Apa saja yang perlu diperiksa pada jawaban AI?",
+      "answers": [
+        {
+          "text": "ketepatan fakta",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "sumber informasi",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "kesesuaian konteks",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "potensi bias",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban sesuai materi Mengenal Kecerdasan Artifisial; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-KA-03-04",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Mengenal Kecerdasan Artifisial",
+      "type": "family100",
+      "question": "Risiko memakai AI tanpa pemeriksaan adalah ...",
+      "answers": [
+        {
+          "text": "jawaban salah",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "informasi menyesatkan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "bias",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "ketergantungan berlebihan",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi Mengenal Kecerdasan Artifisial; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-KA-03-05",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Mengenal Kecerdasan Artifisial",
+      "type": "family100",
+      "question": "Bagaimana menggunakan AI secara bertanggung jawab?",
+      "answers": [
+        {
+          "text": "cek hasil",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "jaga privasi",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "jujur soal bantuan AI",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "ikuti arahan guru",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban sesuai materi Mengenal Kecerdasan Artifisial; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-KA-03-06",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Mengenal Kecerdasan Artifisial",
+      "type": "family100",
+      "question": "Sebutkan masukan yang bisa dipakai aplikasi navigasi.",
+      "answers": [
+        {
+          "text": "lokasi awal",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "tujuan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "kondisi jalan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "pilihan transportasi",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban sesuai materi Mengenal Kecerdasan Artifisial; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-KA-03-07",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Mengenal Kecerdasan Artifisial",
+      "type": "family100",
+      "question": "Keluaran aplikasi navigasi dapat berupa ...",
+      "answers": [
+        {
+          "text": "peta",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "rute",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "perkiraan waktu",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "petunjuk arah",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi Mengenal Kecerdasan Artifisial; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-KA-03-08",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Mengenal Kecerdasan Artifisial",
+      "type": "family100",
+      "question": "Mengapa data pelatihan AI penting?",
+      "answers": [
+        {
+          "text": "membentuk pola hasil",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "menentukan akurasi",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "mempengaruhi bias",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "memengaruhi cakupan contoh",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban sesuai materi Mengenal Kecerdasan Artifisial; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-KA-03-09",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Mengenal Kecerdasan Artifisial",
+      "type": "family100",
+      "question": "Apa perbedaan kemampuan manusia dan AI?",
+      "answers": [
+        {
+          "text": "manusia punya tanggung jawab moral",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "AI memproses data",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "manusia memahami konteks sosial",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "AI bisa salah",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban sesuai materi Mengenal Kecerdasan Artifisial; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-KA-03-10",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Mengenal Kecerdasan Artifisial",
+      "type": "family100",
+      "question": "Contoh tugas yang terbantu AI adalah ...",
+      "answers": [
+        {
+          "text": "menerjemahkan teks",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "mencari pola",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "memberi rekomendasi",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "mengubah suara jadi teks",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi Mengenal Kecerdasan Artifisial; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-KA-03-11",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Mengenal Kecerdasan Artifisial",
+      "type": "family100",
+      "question": "Apa yang harus dilakukan sebelum memasukkan data ke AI?",
+      "answers": [
+        {
+          "text": "periksa data sensitif",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "hapus identitas pribadi",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "cek izin",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "ikuti kebijakan guru",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban sesuai materi Mengenal Kecerdasan Artifisial; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-KA-03-12",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Mengenal Kecerdasan Artifisial",
+      "type": "family100",
+      "question": "Contoh AI untuk aksesibilitas adalah ...",
+      "answers": [
+        {
+          "text": "teks otomatis dari suara",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "pembaca teks",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "pengenal objek",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "terjemahan otomatis",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban sesuai materi Mengenal Kecerdasan Artifisial; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-KA-04-01",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Penerapan Klasifikasi pada Kecerdasan Artifisial",
+      "type": "family100",
+      "question": "Sebutkan benda yang dapat diklasifikasikan berdasarkan bahan.",
+      "answers": [
+        {
+          "text": "botol plastik",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "kaleng logam",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "kertas",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "kaca",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi Penerapan Klasifikasi pada Kecerdasan Artifisial; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-KA-04-03",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Penerapan Klasifikasi pada Kecerdasan Artifisial",
+      "type": "family100",
+      "question": "Contoh kategori sampah untuk klasifikasi adalah ...",
+      "answers": [
+        {
+          "text": "organik",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "kertas",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "plastik",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "logam",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban sesuai materi Penerapan Klasifikasi pada Kecerdasan Artifisial; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-KA-04-04",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Penerapan Klasifikasi pada Kecerdasan Artifisial",
+      "type": "family100",
+      "question": "Apa yang terjadi bila data masukan salah?",
+      "answers": [
+        {
+          "text": "hasil klasifikasi salah",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "prediksi keliru",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "rute tidak tepat",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "perlu koreksi data",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi Penerapan Klasifikasi pada Kecerdasan Artifisial; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-KA-04-05",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Penerapan Klasifikasi pada Kecerdasan Artifisial",
+      "type": "family100",
+      "question": "Mengapa contoh data perlu beragam?",
+      "answers": [
+        {
+          "text": "mewakili variasi",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "mengurangi bias",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "meningkatkan ketepatan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menangani kasus baru",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban sesuai materi Penerapan Klasifikasi pada Kecerdasan Artifisial; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-KA-04-06",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Penerapan Klasifikasi pada Kecerdasan Artifisial",
+      "type": "family100",
+      "question": "Langkah percobaan klasifikasi sederhana adalah ...",
+      "answers": [
+        {
+          "text": "kumpulkan data",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "tentukan ciri",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "kelompokkan data",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "periksa hasil",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban sesuai materi Penerapan Klasifikasi pada Kecerdasan Artifisial; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-KA-04-07",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Penerapan Klasifikasi pada Kecerdasan Artifisial",
+      "type": "family100",
+      "question": "Contoh objek yang dapat dikelompokkan berdasarkan fungsi adalah ...",
+      "answers": [
+        {
+          "text": "alat tulis",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "alat makan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "alat kebersihan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "alat olahraga",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi Penerapan Klasifikasi pada Kecerdasan Artifisial; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-KA-04-08",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Penerapan Klasifikasi pada Kecerdasan Artifisial",
+      "type": "family100",
+      "question": "Sebutkan sifat data yang baik untuk latihan klasifikasi.",
+      "answers": [
+        {
+          "text": "relevan",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "akurat",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "beragam",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "diberi label tepat",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban sesuai materi Penerapan Klasifikasi pada Kecerdasan Artifisial; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-KA-04-09",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Penerapan Klasifikasi pada Kecerdasan Artifisial",
+      "type": "family100",
+      "question": "Apa yang bisa diperiksa saat hasil klasifikasi berbeda?",
+      "answers": [
+        {
+          "text": "ciri masukan",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "label kategori",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "kualitas data",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "aturan pengelompokan",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban sesuai materi Penerapan Klasifikasi pada Kecerdasan Artifisial; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-KA-04-10",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Penerapan Klasifikasi pada Kecerdasan Artifisial",
+      "type": "family100",
+      "question": "Contoh informasi yang dipakai navigasi adalah ...",
+      "answers": [
+        {
+          "text": "titik awal",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "tujuan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "arah jalan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "hambatan lalu lintas",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi Penerapan Klasifikasi pada Kecerdasan Artifisial; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-KA-04-11",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Penerapan Klasifikasi pada Kecerdasan Artifisial",
+      "type": "family100",
+      "question": "Apa manfaat klasifikasi data?",
+      "answers": [
+        {
+          "text": "mempermudah pencarian",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "menata informasi",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "mengenali pola",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "membantu pengambilan keputusan",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban sesuai materi Penerapan Klasifikasi pada Kecerdasan Artifisial; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-KA-04-12",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Penerapan Klasifikasi pada Kecerdasan Artifisial",
+      "type": "family100",
+      "question": "Apa batasan sistem klasifikasi AI?",
+      "answers": [
+        {
+          "text": "bisa salah untuk data baru",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "tergantung data pelatihan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "bisa bias",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "perlu pemeriksaan manusia",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban sesuai materi Penerapan Klasifikasi pada Kecerdasan Artifisial; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-01-V01",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "What Delicious Bakso!",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “sweet” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "manis"
+        },
+        {
+          "label": "B",
+          "text": "pahit"
+        },
+        {
+          "label": "C",
+          "text": "kenyal"
+        },
+        {
+          "label": "D",
+          "text": "asin"
+        }
+      ],
+      "correct_answer": "A",
+      "correct_text": "manis",
+      "difficulty": "easy",
+      "explanation": "“sweet” berarti “manis”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-01-V02",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "What Delicious Bakso!",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “salty” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "asin"
+        },
+        {
+          "label": "B",
+          "text": "lezat"
+        },
+        {
+          "label": "C",
+          "text": "renyah"
+        },
+        {
+          "label": "D",
+          "text": "asam"
+        }
+      ],
+      "correct_answer": "A",
+      "correct_text": "asin",
+      "difficulty": "medium",
+      "explanation": "“salty” berarti “asin”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-01-V03",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "What Delicious Bakso!",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “sour” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "asam"
+        },
+        {
+          "label": "B",
+          "text": "panas"
+        },
+        {
+          "label": "C",
+          "text": "lembut"
+        },
+        {
+          "label": "D",
+          "text": "pedas"
+        }
+      ],
+      "correct_answer": "A",
+      "correct_text": "asam",
+      "difficulty": "hard",
+      "explanation": "“sour” berarti “asam”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-01-V04",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "What Delicious Bakso!",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “spicy” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "pahit"
+        },
+        {
+          "label": "B",
+          "text": "pedas"
+        },
+        {
+          "label": "C",
+          "text": "kenyal"
+        },
+        {
+          "label": "D",
+          "text": "dingin"
+        }
+      ],
+      "correct_answer": "B",
+      "correct_text": "pedas",
+      "difficulty": "easy",
+      "explanation": "“spicy” berarti “pedas”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-01-V05",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "What Delicious Bakso!",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “bitter” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "renyah"
+        },
+        {
+          "label": "B",
+          "text": "lezat"
+        },
+        {
+          "label": "C",
+          "text": "enak"
+        },
+        {
+          "label": "D",
+          "text": "pahit"
+        }
+      ],
+      "correct_answer": "D",
+      "correct_text": "pahit",
+      "difficulty": "medium",
+      "explanation": "“bitter” berarti “pahit”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-01-V06",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "What Delicious Bakso!",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “crispy” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "lembut"
+        },
+        {
+          "label": "B",
+          "text": "renyah"
+        },
+        {
+          "label": "C",
+          "text": "manis"
+        },
+        {
+          "label": "D",
+          "text": "panas"
+        }
+      ],
+      "correct_answer": "B",
+      "correct_text": "renyah",
+      "difficulty": "hard",
+      "explanation": "“crispy” berarti “renyah”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-01-V07",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "What Delicious Bakso!",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “soft” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "dingin"
+        },
+        {
+          "label": "B",
+          "text": "kenyal"
+        },
+        {
+          "label": "C",
+          "text": "lembut"
+        },
+        {
+          "label": "D",
+          "text": "asin"
+        }
+      ],
+      "correct_answer": "C",
+      "correct_text": "lembut",
+      "difficulty": "easy",
+      "explanation": "“soft” berarti “lembut”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-01-V08",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "What Delicious Bakso!",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “chewy” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "kenyal"
+        },
+        {
+          "label": "B",
+          "text": "asam"
+        },
+        {
+          "label": "C",
+          "text": "enak"
+        },
+        {
+          "label": "D",
+          "text": "lezat"
+        }
+      ],
+      "correct_answer": "A",
+      "correct_text": "kenyal",
+      "difficulty": "medium",
+      "explanation": "“chewy” berarti “kenyal”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-01-V09",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "What Delicious Bakso!",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “delicious” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "pedas"
+        },
+        {
+          "label": "B",
+          "text": "lezat"
+        },
+        {
+          "label": "C",
+          "text": "manis"
+        },
+        {
+          "label": "D",
+          "text": "panas"
+        }
+      ],
+      "correct_answer": "B",
+      "correct_text": "lezat",
+      "difficulty": "hard",
+      "explanation": "“delicious” berarti “lezat”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-01-V10",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "What Delicious Bakso!",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “hot” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "pahit"
+        },
+        {
+          "label": "B",
+          "text": "dingin"
+        },
+        {
+          "label": "C",
+          "text": "panas"
+        },
+        {
+          "label": "D",
+          "text": "asin"
+        }
+      ],
+      "correct_answer": "C",
+      "correct_text": "panas",
+      "difficulty": "easy",
+      "explanation": "“hot” berarti “panas”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-01-V11",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "What Delicious Bakso!",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “cold” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "enak"
+        },
+        {
+          "label": "B",
+          "text": "dingin"
+        },
+        {
+          "label": "C",
+          "text": "asam"
+        },
+        {
+          "label": "D",
+          "text": "renyah"
+        }
+      ],
+      "correct_answer": "B",
+      "correct_text": "dingin",
+      "difficulty": "medium",
+      "explanation": "“cold” berarti “dingin”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-01-V12",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "What Delicious Bakso!",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “tasty” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "enak"
+        },
+        {
+          "label": "B",
+          "text": "pedas"
+        },
+        {
+          "label": "C",
+          "text": "lembut"
+        },
+        {
+          "label": "D",
+          "text": "manis"
+        }
+      ],
+      "correct_answer": "A",
+      "correct_text": "enak",
+      "difficulty": "hard",
+      "explanation": "“tasty” berarti “enak”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-02-V01",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "I Want an Ice Cream Cone",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “a glass of water” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "sebotol susu"
+        },
+        {
+          "label": "B",
+          "text": "sepotong kue"
+        },
+        {
+          "label": "C",
+          "text": "sekotak susu"
+        },
+        {
+          "label": "D",
+          "text": "segelas air"
+        }
+      ],
+      "correct_answer": "D",
+      "correct_text": "segelas air",
+      "difficulty": "easy",
+      "explanation": "“a glass of water” berarti “segelas air”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-02-V02",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "I Want an Ice Cream Cone",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “a bottle of milk” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "sebungkus biskuit"
+        },
+        {
+          "label": "B",
+          "text": "semangkuk sup"
+        },
+        {
+          "label": "C",
+          "text": "secangkir teh"
+        },
+        {
+          "label": "D",
+          "text": "sebotol susu"
+        }
+      ],
+      "correct_answer": "D",
+      "correct_text": "sebotol susu",
+      "difficulty": "medium",
+      "explanation": "“a bottle of milk” berarti “sebotol susu”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-02-V03",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "I Want an Ice Cream Cone",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “a bowl of soup” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "semangkuk sup"
+        },
+        {
+          "label": "B",
+          "text": "seiris roti"
+        },
+        {
+          "label": "C",
+          "text": "sepiring nasi"
+        },
+        {
+          "label": "D",
+          "text": "es krim dalam kerucut"
+        }
+      ],
+      "correct_answer": "A",
+      "correct_text": "semangkuk sup",
+      "difficulty": "hard",
+      "explanation": "“a bowl of soup” berarti “semangkuk sup”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-02-V04",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "I Want an Ice Cream Cone",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “a slice of bread” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "sekotak susu"
+        },
+        {
+          "label": "B",
+          "text": "sepotong kue"
+        },
+        {
+          "label": "C",
+          "text": "sepotong roti utuh"
+        },
+        {
+          "label": "D",
+          "text": "seiris roti"
+        }
+      ],
+      "correct_answer": "D",
+      "correct_text": "seiris roti",
+      "difficulty": "easy",
+      "explanation": "“a slice of bread” berarti “seiris roti”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-02-V05",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "I Want an Ice Cream Cone",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “a piece of cake” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "secangkir teh"
+        },
+        {
+          "label": "B",
+          "text": "sebungkus biskuit"
+        },
+        {
+          "label": "C",
+          "text": "sepotong kue"
+        },
+        {
+          "label": "D",
+          "text": "sesendok gula"
+        }
+      ],
+      "correct_answer": "C",
+      "correct_text": "sepotong kue",
+      "difficulty": "medium",
+      "explanation": "“a piece of cake” berarti “sepotong kue”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-02-V06",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "I Want an Ice Cream Cone",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “a cup of tea” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "es krim dalam kerucut"
+        },
+        {
+          "label": "B",
+          "text": "secangkir teh"
+        },
+        {
+          "label": "C",
+          "text": "sepiring nasi"
+        },
+        {
+          "label": "D",
+          "text": "segelas air"
+        }
+      ],
+      "correct_answer": "B",
+      "correct_text": "secangkir teh",
+      "difficulty": "hard",
+      "explanation": "“a cup of tea” berarti “secangkir teh”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-02-V07",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "I Want an Ice Cream Cone",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “a plate of rice” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "sepotong roti utuh"
+        },
+        {
+          "label": "B",
+          "text": "sekotak susu"
+        },
+        {
+          "label": "C",
+          "text": "sebotol susu"
+        },
+        {
+          "label": "D",
+          "text": "sepiring nasi"
+        }
+      ],
+      "correct_answer": "D",
+      "correct_text": "sepiring nasi",
+      "difficulty": "easy",
+      "explanation": "“a plate of rice” berarti “sepiring nasi”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-02-V08",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "I Want an Ice Cream Cone",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “a carton of milk” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "semangkuk sup"
+        },
+        {
+          "label": "B",
+          "text": "sekotak susu"
+        },
+        {
+          "label": "C",
+          "text": "sesendok gula"
+        },
+        {
+          "label": "D",
+          "text": "sebungkus biskuit"
+        }
+      ],
+      "correct_answer": "B",
+      "correct_text": "sekotak susu",
+      "difficulty": "medium",
+      "explanation": "“a carton of milk” berarti “sekotak susu”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-02-V09",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "I Want an Ice Cream Cone",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “a packet of biscuits” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "es krim dalam kerucut"
+        },
+        {
+          "label": "B",
+          "text": "sebungkus biskuit"
+        },
+        {
+          "label": "C",
+          "text": "seiris roti"
+        },
+        {
+          "label": "D",
+          "text": "segelas air"
+        }
+      ],
+      "correct_answer": "B",
+      "correct_text": "sebungkus biskuit",
+      "difficulty": "hard",
+      "explanation": "“a packet of biscuits” berarti “sebungkus biskuit”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-02-V10",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "I Want an Ice Cream Cone",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “an ice cream cone” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "sebotol susu"
+        },
+        {
+          "label": "B",
+          "text": "sepotong roti utuh"
+        },
+        {
+          "label": "C",
+          "text": "sepotong kue"
+        },
+        {
+          "label": "D",
+          "text": "es krim dalam kerucut"
+        }
+      ],
+      "correct_answer": "D",
+      "correct_text": "es krim dalam kerucut",
+      "difficulty": "easy",
+      "explanation": "“an ice cream cone” berarti “es krim dalam kerucut”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-02-V11",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "I Want an Ice Cream Cone",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “a loaf of bread” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "semangkuk sup"
+        },
+        {
+          "label": "B",
+          "text": "sesendok gula"
+        },
+        {
+          "label": "C",
+          "text": "sepotong roti utuh"
+        },
+        {
+          "label": "D",
+          "text": "secangkir teh"
+        }
+      ],
+      "correct_answer": "C",
+      "correct_text": "sepotong roti utuh",
+      "difficulty": "medium",
+      "explanation": "“a loaf of bread” berarti “sepotong roti utuh”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-02-V12",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "I Want an Ice Cream Cone",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “a spoonful of sugar” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "segelas air"
+        },
+        {
+          "label": "B",
+          "text": "sesendok gula"
+        },
+        {
+          "label": "C",
+          "text": "sepiring nasi"
+        },
+        {
+          "label": "D",
+          "text": "seiris roti"
+        }
+      ],
+      "correct_answer": "B",
+      "correct_text": "sesendok gula",
+      "difficulty": "hard",
+      "explanation": "“a spoonful of sugar” berarti “sesendok gula”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-03-V01",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "How Much Is It?",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “How much is it?” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "struk pembayaran"
+        },
+        {
+          "label": "B",
+          "text": "Berapa harganya?"
+        },
+        {
+          "label": "C",
+          "text": "harga"
+        },
+        {
+          "label": "D",
+          "text": "mahal"
+        }
+      ],
+      "correct_answer": "B",
+      "correct_text": "Berapa harganya?",
+      "difficulty": "easy",
+      "explanation": "“How much is it?” berarti “Berapa harganya?”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-03-V02",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "How Much Is It?",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “price” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "harga"
+        },
+        {
+          "label": "B",
+          "text": "uang kembalian"
+        },
+        {
+          "label": "C",
+          "text": "kasir"
+        },
+        {
+          "label": "D",
+          "text": "biaya"
+        }
+      ],
+      "correct_answer": "A",
+      "correct_text": "harga",
+      "difficulty": "medium",
+      "explanation": "“price” berarti “harga”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-03-V03",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "How Much Is It?",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “change” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "pelanggan"
+        },
+        {
+          "label": "B",
+          "text": "uang kembalian"
+        },
+        {
+          "label": "C",
+          "text": "murah"
+        },
+        {
+          "label": "D",
+          "text": "uang tunai"
+        }
+      ],
+      "correct_answer": "B",
+      "correct_text": "uang kembalian",
+      "difficulty": "hard",
+      "explanation": "“change” berarti “uang kembalian”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-03-V04",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "How Much Is It?",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “cheap” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "mahal"
+        },
+        {
+          "label": "B",
+          "text": "struk pembayaran"
+        },
+        {
+          "label": "C",
+          "text": "membeli"
+        },
+        {
+          "label": "D",
+          "text": "murah"
+        }
+      ],
+      "correct_answer": "D",
+      "correct_text": "murah",
+      "difficulty": "easy",
+      "explanation": "“cheap” berarti “murah”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-03-V05",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "How Much Is It?",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “expensive” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "biaya"
+        },
+        {
+          "label": "B",
+          "text": "menjual"
+        },
+        {
+          "label": "C",
+          "text": "mahal"
+        },
+        {
+          "label": "D",
+          "text": "kasir"
+        }
+      ],
+      "correct_answer": "C",
+      "correct_text": "mahal",
+      "difficulty": "medium",
+      "explanation": "“expensive” berarti “mahal”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-03-V06",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "How Much Is It?",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “cashier” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "kasir"
+        },
+        {
+          "label": "B",
+          "text": "Berapa harganya?"
+        },
+        {
+          "label": "C",
+          "text": "uang tunai"
+        },
+        {
+          "label": "D",
+          "text": "pelanggan"
+        }
+      ],
+      "correct_answer": "A",
+      "correct_text": "kasir",
+      "difficulty": "hard",
+      "explanation": "“cashier” berarti “kasir”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-03-V07",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "How Much Is It?",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “customer” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "struk pembayaran"
+        },
+        {
+          "label": "B",
+          "text": "pelanggan"
+        },
+        {
+          "label": "C",
+          "text": "membeli"
+        },
+        {
+          "label": "D",
+          "text": "harga"
+        }
+      ],
+      "correct_answer": "B",
+      "correct_text": "pelanggan",
+      "difficulty": "easy",
+      "explanation": "“customer” berarti “pelanggan”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-03-V08",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "How Much Is It?",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “receipt” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "struk pembayaran"
+        },
+        {
+          "label": "B",
+          "text": "biaya"
+        },
+        {
+          "label": "C",
+          "text": "uang kembalian"
+        },
+        {
+          "label": "D",
+          "text": "menjual"
+        }
+      ],
+      "correct_answer": "A",
+      "correct_text": "struk pembayaran",
+      "difficulty": "medium",
+      "explanation": "“receipt” berarti “struk pembayaran”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-03-V09",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "How Much Is It?",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “cost” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Berapa harganya?"
+        },
+        {
+          "label": "B",
+          "text": "murah"
+        },
+        {
+          "label": "C",
+          "text": "biaya"
+        },
+        {
+          "label": "D",
+          "text": "uang tunai"
+        }
+      ],
+      "correct_answer": "C",
+      "correct_text": "biaya",
+      "difficulty": "hard",
+      "explanation": "“cost” berarti “biaya”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-03-V10",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "How Much Is It?",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “cash” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "harga"
+        },
+        {
+          "label": "B",
+          "text": "mahal"
+        },
+        {
+          "label": "C",
+          "text": "membeli"
+        },
+        {
+          "label": "D",
+          "text": "uang tunai"
+        }
+      ],
+      "correct_answer": "D",
+      "correct_text": "uang tunai",
+      "difficulty": "easy",
+      "explanation": "“cash” berarti “uang tunai”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-03-V11",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "How Much Is It?",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “buy” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "uang kembalian"
+        },
+        {
+          "label": "B",
+          "text": "menjual"
+        },
+        {
+          "label": "C",
+          "text": "kasir"
+        },
+        {
+          "label": "D",
+          "text": "membeli"
+        }
+      ],
+      "correct_answer": "D",
+      "correct_text": "membeli",
+      "difficulty": "medium",
+      "explanation": "“buy” berarti “membeli”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-03-V12",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "How Much Is It?",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “sell” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "pelanggan"
+        },
+        {
+          "label": "B",
+          "text": "menjual"
+        },
+        {
+          "label": "C",
+          "text": "Berapa harganya?"
+        },
+        {
+          "label": "D",
+          "text": "murah"
+        }
+      ],
+      "correct_answer": "B",
+      "correct_text": "menjual",
+      "difficulty": "hard",
+      "explanation": "“sell” berarti “menjual”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-04-V01",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "I've Got a Stomachache",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “headache” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "sakit kepala"
+        },
+        {
+          "label": "B",
+          "text": "sakit gigi"
+        },
+        {
+          "label": "C",
+          "text": "hidung berair"
+        },
+        {
+          "label": "D",
+          "text": "batuk"
+        }
+      ],
+      "correct_answer": "A",
+      "correct_text": "sakit kepala",
+      "difficulty": "easy",
+      "explanation": "“headache” berarti “sakit kepala”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-04-V02",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "I've Got a Stomachache",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “toothache” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "demam"
+        },
+        {
+          "label": "B",
+          "text": "sakit perut"
+        },
+        {
+          "label": "C",
+          "text": "sakit gigi"
+        },
+        {
+          "label": "D",
+          "text": "bersin"
+        }
+      ],
+      "correct_answer": "C",
+      "correct_text": "sakit gigi",
+      "difficulty": "medium",
+      "explanation": "“toothache” berarti “sakit gigi”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-04-V03",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "I've Got a Stomachache",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “stomachache” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "sakit tenggorokan"
+        },
+        {
+          "label": "B",
+          "text": "sakit telinga"
+        },
+        {
+          "label": "C",
+          "text": "sakit perut"
+        },
+        {
+          "label": "D",
+          "text": "beristirahat"
+        }
+      ],
+      "correct_answer": "C",
+      "correct_text": "sakit perut",
+      "difficulty": "hard",
+      "explanation": "“stomachache” berarti “sakit perut”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-04-V04",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "I've Got a Stomachache",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “earache” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "sakit telinga"
+        },
+        {
+          "label": "B",
+          "text": "dokter"
+        },
+        {
+          "label": "C",
+          "text": "hidung berair"
+        },
+        {
+          "label": "D",
+          "text": "batuk"
+        }
+      ],
+      "correct_answer": "A",
+      "correct_text": "sakit telinga",
+      "difficulty": "easy",
+      "explanation": "“earache” berarti “sakit telinga”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-04-V05",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "I've Got a Stomachache",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “cough” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "bersin"
+        },
+        {
+          "label": "B",
+          "text": "Semoga lekas sembuh!"
+        },
+        {
+          "label": "C",
+          "text": "demam"
+        },
+        {
+          "label": "D",
+          "text": "batuk"
+        }
+      ],
+      "correct_answer": "D",
+      "correct_text": "batuk",
+      "difficulty": "medium",
+      "explanation": "“cough” berarti “batuk”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-04-V06",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "I've Got a Stomachache",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “fever” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "beristirahat"
+        },
+        {
+          "label": "B",
+          "text": "sakit tenggorokan"
+        },
+        {
+          "label": "C",
+          "text": "sakit kepala"
+        },
+        {
+          "label": "D",
+          "text": "demam"
+        }
+      ],
+      "correct_answer": "D",
+      "correct_text": "demam",
+      "difficulty": "hard",
+      "explanation": "“fever” berarti “demam”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-04-V07",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "I've Got a Stomachache",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “sore throat” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "sakit tenggorokan"
+        },
+        {
+          "label": "B",
+          "text": "dokter"
+        },
+        {
+          "label": "C",
+          "text": "hidung berair"
+        },
+        {
+          "label": "D",
+          "text": "sakit gigi"
+        }
+      ],
+      "correct_answer": "A",
+      "correct_text": "sakit tenggorokan",
+      "difficulty": "easy",
+      "explanation": "“sore throat” berarti “sakit tenggorokan”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-04-V08",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "I've Got a Stomachache",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “runny nose” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "sakit perut"
+        },
+        {
+          "label": "B",
+          "text": "Semoga lekas sembuh!"
+        },
+        {
+          "label": "C",
+          "text": "bersin"
+        },
+        {
+          "label": "D",
+          "text": "hidung berair"
+        }
+      ],
+      "correct_answer": "D",
+      "correct_text": "hidung berair",
+      "difficulty": "medium",
+      "explanation": "“runny nose” berarti “hidung berair”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-04-V09",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "I've Got a Stomachache",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “sneeze” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "sakit kepala"
+        },
+        {
+          "label": "B",
+          "text": "bersin"
+        },
+        {
+          "label": "C",
+          "text": "beristirahat"
+        },
+        {
+          "label": "D",
+          "text": "sakit telinga"
+        }
+      ],
+      "correct_answer": "B",
+      "correct_text": "bersin",
+      "difficulty": "hard",
+      "explanation": "“sneeze” berarti “bersin”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-04-V10",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "I've Got a Stomachache",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “rest” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "sakit gigi"
+        },
+        {
+          "label": "B",
+          "text": "dokter"
+        },
+        {
+          "label": "C",
+          "text": "beristirahat"
+        },
+        {
+          "label": "D",
+          "text": "batuk"
+        }
+      ],
+      "correct_answer": "C",
+      "correct_text": "beristirahat",
+      "difficulty": "easy",
+      "explanation": "“rest” berarti “beristirahat”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-04-V11",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "I've Got a Stomachache",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “doctor” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "dokter"
+        },
+        {
+          "label": "B",
+          "text": "demam"
+        },
+        {
+          "label": "C",
+          "text": "sakit perut"
+        },
+        {
+          "label": "D",
+          "text": "Semoga lekas sembuh!"
+        }
+      ],
+      "correct_answer": "A",
+      "correct_text": "dokter",
+      "difficulty": "medium",
+      "explanation": "“doctor” berarti “dokter”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-04-V12",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "I've Got a Stomachache",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “Get well soon!” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "sakit telinga"
+        },
+        {
+          "label": "B",
+          "text": "sakit tenggorokan"
+        },
+        {
+          "label": "C",
+          "text": "Semoga lekas sembuh!"
+        },
+        {
+          "label": "D",
+          "text": "sakit kepala"
+        }
+      ],
+      "correct_answer": "C",
+      "correct_text": "Semoga lekas sembuh!",
+      "difficulty": "hard",
+      "explanation": "“Get well soon!” berarti “Semoga lekas sembuh!”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-05-V01",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "What a Nice Skirt!",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “skirt” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "rok"
+        },
+        {
+          "label": "B",
+          "text": "celana panjang"
+        },
+        {
+          "label": "C",
+          "text": "topi"
+        },
+        {
+          "label": "D",
+          "text": "sweter"
+        }
+      ],
+      "correct_answer": "A",
+      "correct_text": "rok",
+      "difficulty": "easy",
+      "explanation": "“skirt” berarti “rok”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-05-V02",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "What a Nice Skirt!",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “trousers” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "celana panjang"
+        },
+        {
+          "label": "B",
+          "text": "kemeja"
+        },
+        {
+          "label": "C",
+          "text": "kaus kaki"
+        },
+        {
+          "label": "D",
+          "text": "sepatu"
+        }
+      ],
+      "correct_answer": "A",
+      "correct_text": "celana panjang",
+      "difficulty": "medium",
+      "explanation": "“trousers” berarti “celana panjang”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-05-V03",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "What a Nice Skirt!",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “shirt” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "ikat pinggang"
+        },
+        {
+          "label": "B",
+          "text": "jaket"
+        },
+        {
+          "label": "C",
+          "text": "kemeja"
+        },
+        {
+          "label": "D",
+          "text": "syal"
+        }
+      ],
+      "correct_answer": "C",
+      "correct_text": "kemeja",
+      "difficulty": "hard",
+      "explanation": "“shirt” berarti “kemeja”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-05-V04",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "What a Nice Skirt!",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “jacket” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "sweter"
+        },
+        {
+          "label": "B",
+          "text": "gaun"
+        },
+        {
+          "label": "C",
+          "text": "jaket"
+        },
+        {
+          "label": "D",
+          "text": "topi"
+        }
+      ],
+      "correct_answer": "C",
+      "correct_text": "jaket",
+      "difficulty": "easy",
+      "explanation": "“jacket” berarti “jaket”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-05-V05",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "What a Nice Skirt!",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “hat” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "topi"
+        },
+        {
+          "label": "B",
+          "text": "sepatu"
+        },
+        {
+          "label": "C",
+          "text": "kaus kaki"
+        },
+        {
+          "label": "D",
+          "text": "seragam"
+        }
+      ],
+      "correct_answer": "A",
+      "correct_text": "topi",
+      "difficulty": "medium",
+      "explanation": "“hat” berarti “topi”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-05-V06",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "What a Nice Skirt!",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “shoes” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "sepatu"
+        },
+        {
+          "label": "B",
+          "text": "ikat pinggang"
+        },
+        {
+          "label": "C",
+          "text": "rok"
+        },
+        {
+          "label": "D",
+          "text": "syal"
+        }
+      ],
+      "correct_answer": "A",
+      "correct_text": "sepatu",
+      "difficulty": "hard",
+      "explanation": "“shoes” berarti “sepatu”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-05-V07",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "What a Nice Skirt!",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “scarf” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "syal"
+        },
+        {
+          "label": "B",
+          "text": "gaun"
+        },
+        {
+          "label": "C",
+          "text": "sweter"
+        },
+        {
+          "label": "D",
+          "text": "celana panjang"
+        }
+      ],
+      "correct_answer": "A",
+      "correct_text": "syal",
+      "difficulty": "easy",
+      "explanation": "“scarf” berarti “syal”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-05-V08",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "What a Nice Skirt!",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “sweater” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "kaus kaki"
+        },
+        {
+          "label": "B",
+          "text": "sweter"
+        },
+        {
+          "label": "C",
+          "text": "seragam"
+        },
+        {
+          "label": "D",
+          "text": "kemeja"
+        }
+      ],
+      "correct_answer": "B",
+      "correct_text": "sweter",
+      "difficulty": "medium",
+      "explanation": "“sweater” berarti “sweter”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-05-V09",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "What a Nice Skirt!",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “socks” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "rok"
+        },
+        {
+          "label": "B",
+          "text": "kaus kaki"
+        },
+        {
+          "label": "C",
+          "text": "ikat pinggang"
+        },
+        {
+          "label": "D",
+          "text": "jaket"
+        }
+      ],
+      "correct_answer": "B",
+      "correct_text": "kaus kaki",
+      "difficulty": "hard",
+      "explanation": "“socks” berarti “kaus kaki”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-05-V10",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "What a Nice Skirt!",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “belt” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "gaun"
+        },
+        {
+          "label": "B",
+          "text": "celana panjang"
+        },
+        {
+          "label": "C",
+          "text": "ikat pinggang"
+        },
+        {
+          "label": "D",
+          "text": "topi"
+        }
+      ],
+      "correct_answer": "C",
+      "correct_text": "ikat pinggang",
+      "difficulty": "easy",
+      "explanation": "“belt” berarti “ikat pinggang”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-05-V11",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "What a Nice Skirt!",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “dress” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "gaun"
+        },
+        {
+          "label": "B",
+          "text": "sepatu"
+        },
+        {
+          "label": "C",
+          "text": "seragam"
+        },
+        {
+          "label": "D",
+          "text": "kemeja"
+        }
+      ],
+      "correct_answer": "A",
+      "correct_text": "gaun",
+      "difficulty": "medium",
+      "explanation": "“dress” berarti “gaun”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-05-V12",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "What a Nice Skirt!",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “uniform” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "jaket"
+        },
+        {
+          "label": "B",
+          "text": "syal"
+        },
+        {
+          "label": "C",
+          "text": "rok"
+        },
+        {
+          "label": "D",
+          "text": "seragam"
+        }
+      ],
+      "correct_answer": "D",
+      "correct_text": "seragam",
+      "difficulty": "hard",
+      "explanation": "“uniform” berarti “seragam”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-06-V01",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Parts of Our Body That Work Together",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “eyes” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "mata"
+        },
+        {
+          "label": "B",
+          "text": "lutut"
+        },
+        {
+          "label": "C",
+          "text": "telinga"
+        },
+        {
+          "label": "D",
+          "text": "gigi"
+        }
+      ],
+      "correct_answer": "A",
+      "correct_text": "mata",
+      "difficulty": "easy",
+      "explanation": "“eyes” berarti “mata”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-06-V02",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Parts of Our Body That Work Together",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “ears” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "paru-paru"
+        },
+        {
+          "label": "B",
+          "text": "telinga"
+        },
+        {
+          "label": "C",
+          "text": "jari tangan"
+        },
+        {
+          "label": "D",
+          "text": "hidung"
+        }
+      ],
+      "correct_answer": "B",
+      "correct_text": "telinga",
+      "difficulty": "medium",
+      "explanation": "“ears” berarti “telinga”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-06-V03",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Parts of Our Body That Work Together",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “nose” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "siku"
+        },
+        {
+          "label": "B",
+          "text": "lidah"
+        },
+        {
+          "label": "C",
+          "text": "hidung"
+        },
+        {
+          "label": "D",
+          "text": "jantung"
+        }
+      ],
+      "correct_answer": "C",
+      "correct_text": "hidung",
+      "difficulty": "hard",
+      "explanation": "“nose” berarti “hidung”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-06-V04",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Parts of Our Body That Work Together",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “tongue” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "lidah"
+        },
+        {
+          "label": "B",
+          "text": "lambung"
+        },
+        {
+          "label": "C",
+          "text": "lutut"
+        },
+        {
+          "label": "D",
+          "text": "gigi"
+        }
+      ],
+      "correct_answer": "A",
+      "correct_text": "lidah",
+      "difficulty": "easy",
+      "explanation": "“tongue” berarti “lidah”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-06-V05",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Parts of Our Body That Work Together",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “teeth” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "paru-paru"
+        },
+        {
+          "label": "B",
+          "text": "jari tangan"
+        },
+        {
+          "label": "C",
+          "text": "kulit"
+        },
+        {
+          "label": "D",
+          "text": "gigi"
+        }
+      ],
+      "correct_answer": "D",
+      "correct_text": "gigi",
+      "difficulty": "medium",
+      "explanation": "“teeth” berarti “gigi”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-06-V06",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Parts of Our Body That Work Together",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “fingers” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "jari tangan"
+        },
+        {
+          "label": "B",
+          "text": "mata"
+        },
+        {
+          "label": "C",
+          "text": "jantung"
+        },
+        {
+          "label": "D",
+          "text": "siku"
+        }
+      ],
+      "correct_answer": "A",
+      "correct_text": "jari tangan",
+      "difficulty": "hard",
+      "explanation": "“fingers” berarti “jari tangan”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-06-V07",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Parts of Our Body That Work Together",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “elbow” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "telinga"
+        },
+        {
+          "label": "B",
+          "text": "lambung"
+        },
+        {
+          "label": "C",
+          "text": "lutut"
+        },
+        {
+          "label": "D",
+          "text": "siku"
+        }
+      ],
+      "correct_answer": "D",
+      "correct_text": "siku",
+      "difficulty": "easy",
+      "explanation": "“elbow” berarti “siku”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-06-V08",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Parts of Our Body That Work Together",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “knee” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "paru-paru"
+        },
+        {
+          "label": "B",
+          "text": "kulit"
+        },
+        {
+          "label": "C",
+          "text": "hidung"
+        },
+        {
+          "label": "D",
+          "text": "lutut"
+        }
+      ],
+      "correct_answer": "D",
+      "correct_text": "lutut",
+      "difficulty": "medium",
+      "explanation": "“knee” berarti “lutut”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-06-V09",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Parts of Our Body That Work Together",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “lungs” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "lidah"
+        },
+        {
+          "label": "B",
+          "text": "paru-paru"
+        },
+        {
+          "label": "C",
+          "text": "mata"
+        },
+        {
+          "label": "D",
+          "text": "jantung"
+        }
+      ],
+      "correct_answer": "B",
+      "correct_text": "paru-paru",
+      "difficulty": "hard",
+      "explanation": "“lungs” berarti “paru-paru”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-06-V10",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Parts of Our Body That Work Together",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “heart” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "lambung"
+        },
+        {
+          "label": "B",
+          "text": "gigi"
+        },
+        {
+          "label": "C",
+          "text": "jantung"
+        },
+        {
+          "label": "D",
+          "text": "telinga"
+        }
+      ],
+      "correct_answer": "C",
+      "correct_text": "jantung",
+      "difficulty": "easy",
+      "explanation": "“heart” berarti “jantung”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-06-V11",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Parts of Our Body That Work Together",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “stomach” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "lambung"
+        },
+        {
+          "label": "B",
