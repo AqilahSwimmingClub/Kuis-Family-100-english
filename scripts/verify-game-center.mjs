@@ -16,4 +16,4 @@ const html=readFileSync(dir+'index.html','utf8');
 const script=html.match(/<script>([\s\S]*?)<\/script>/)?.[1];
 assert.ok(script,'game script missing');
 new Function(script);
-console.log('PASS: 1,091 questions, 7 subjects, 49 chapters, unique IDs, valid Game Center JS syntax');
+process.stdout.write('PASS: 1,091 questions, 7 subjects, 49 chapters, unique IDs, valid Game Center JS syntax\n');
