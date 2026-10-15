@@ -1,6 +1,17 @@
-# FAMILY 100 — ENGLISH CHALLENGE
+# FAMILY 100 — EDUCATIONAL GAME CENTER
 
-Game refleksi Bahasa Inggris **SDN SATRIA JAYA 01 · KELAS 5 · Kurikulum Merdeka · Tahun Pelajaran 2026/2027**. Guru mengoperasikan satu perangkat, siswa menjawab lisan dalam lima kelompok beranggota 6–7 orang.
+Refleksi pembelajaran **SDN SATRIA JAYA 01 · KELAS 5 · Tahun Pelajaran 2026/2027**. Homepage bertema putih memperkenalkan tujuh mata pelajaran, 49 bab/unit, dan 1.091 soal. Guru mengoperasikan perangkat, siswa berdiskusi dan menjawab bersama.
+
+## Pilihan permainan
+
+- `/`: homepage umum dengan statistik yang diturunkan dari bank soal asli saat Vite berjalan/build; halaman ini tidak mengunduh seluruh bank soal.
+- `/game-center/`: pilih mata pelajaran, bab/unit, jumlah soal, dan 2–12 kelompok. Family 100, pilihan ganda, serta jawaban singkat tersedia. Guru tetap memandu pemilihan tim; catatan kesempatan bukan jaminan rotasi otomatis.
+- `/game-center/?subject=Matematika`: membuka pengaturan dengan satu mapel terpilih. Semua kartu mapel memakai parameter yang sama, sesuai nama mapel dalam data.
+- `/game-center/?resume=1`: memulihkan progres lokal yang valid; jika belum ada, menampilkan pengaturan. Progres rusak tidak dihapus.
+- `/game-center/?view=bank`: telusuri soal dengan pencarian, filter mapel/jenis, pagination, serta jawaban/pembahasan yang dibuka secara manual.
+- `/?mode=english`: English Challenge lama tetap tersedia dengan skor, timer, editor, impor/ekspor, dan penyimpanan aslinya.
+
+Data Game Center tetap berada dalam delapan berkas `public/game-center/data/bank-part-*.txt`. Homepage memakai ringkasan kecil yang dihasilkan `vite.config.ts`; tidak ada salinan bank soal untuk homepage. Animasi ikon menghormati reduced motion. Tidak ada backend atau secret baru.
 
 ## Menjalankan
 
@@ -20,7 +31,7 @@ npm run preview
 
 `npm run test:e2e` menjalankan pengujian Chromium; otomatis memakai `/usr/bin/chromium` jika tersedia, atau tentukan `CHROMIUM_PATH`. Jika belum ada browser, persiapan: `PLAYWRIGHT_BROWSERS_PATH=/tmp/family100-browsers npx playwright install chromium`; gunakan variabel yang sama ketika menjalankan test. Cache npm berada di `/tmp/family100-npm-cache`, bukan source aplikasi.
 
-## Cara bermain
+## Cara bermain English Challenge
 
 1. START GAME membuka pengaturan nama/anggota lima tim dan urutan soal. Mulai permainan setelah siap.
 2. Giliran utama mengikuti Team 1–5 berulang: 30 soal bawaan memberikan tepat enam ronde per tim. Bank kustom dengan jumlah kelipatan lima juga dapat dimainkan.
@@ -30,7 +41,7 @@ npm run preview
 6. Timer berhenti saat pause dan tidak berjalan di luar layar permainan. Saat habis, tekan ulang timer untuk melanjutkan penilaian. Tanpa batas waktu tersedia di Settings. Steal mendapat timer baru.
 7. Layar akhir menampilkan ENGLISH CHAMPION!, peringkat bersama untuk skor seri, dan refleksi tiga bab. Tidak ada pemilihan juara acak.
 
-## Fitur guru dan data
+## Fitur guru dan data English Challenge
 
 - Bank berisi 30 soal berbeda, sepuluh per bab: Food and Taste, Food Quantities, Prices and Shopping. Semua jawaban total 100 poin; bobot merupakan desain permainan edukasi, bukan survei.
 - Editor soal mendukung tambah, edit, hapus, serta impor/ekspor bank JSON. Setiap soal: `id`, `chapter` (1–3), `en`, `idn`, `answers` (4–6 objek `{text, points}`), `explanation`, `competency`. ID unik, teks tidak kosong, poin bilangan bulat positif dan total 100. Ekspor bank bawaan menjadi contoh format.

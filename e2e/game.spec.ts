@@ -1,7 +1,7 @@
 import { expect, test } from '@playwright/test'
 test.beforeEach(async ({ page }) => {
   page.on('dialog', dialog => dialog.accept())
-  await page.goto('/')
+  await page.goto('/?mode=english')
 })
 async function start(page: import('@playwright/test').Page) {
   await page.getByRole('button', { name: /START GAME/ }).click()
