@@ -18,3 +18,5 @@ An independent read-only review identified oversized undo snapshots, show-all be
 Build emits two upstream Zod comment-annotation notices; Rollup removes those comments and produces a successful bundle. npm reports upstream package deprecation notices for ESLint 9 and whatwg-encoding. These are dependency notices, not failed application checks. No TLS, signature or checksum verification was disabled. Playwright's browser download destination was denied by network policy; the existing system Chromium was used successfully without changing network policy.
 
 No Vercel deployment or fresh-task environment snapshot restoration has been performed. The checked-in `vercel.json` sets the Vite build and `dist` output. No runtime secrets are required. The reusable cloud install script and startup instructions were saved as a draft; publication remains a separate user action in environment settings.
+
+Initial application commit `a9a1b41` was successfully pushed to `origin/main` using the existing HTTPS Git authentication. Repository changes are limited to this project.
