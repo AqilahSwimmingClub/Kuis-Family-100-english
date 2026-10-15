@@ -1,0 +1,5000 @@
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0119",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Mengeksplorasi Ritme dalam Objek di Sekitar Kita",
+      "type": "family100",
+      "question": "Sebutkan benda di sekitar yang memiliki pola berulang.",
+      "answers": [
+        {
+          "text": "ubin",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "batik",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "pagar",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "jendela",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "anyaman",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0120",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Mengeksplorasi Ritme dalam Objek di Sekitar Kita",
+      "type": "family100",
+      "question": "Sebutkan cara menciptakan ritme pada gambar.",
+      "answers": [
+        {
+          "text": "mengulang bentuk",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "mengulang garis",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "mengulang warna",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "mengatur jarak",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "mengubah ukuran secara teratur",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0121",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Mengeksplorasi Ritme dalam Objek di Sekitar Kita",
+      "type": "family100",
+      "question": "Sebutkan unsur yang dapat disusun berselang-seling.",
+      "answers": [
+        {
+          "text": "warna",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "garis",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "bidang",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "bentuk",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "motif",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0122",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Mengeksplorasi Ritme dalam Objek di Sekitar Kita",
+      "type": "family100",
+      "question": "Sebutkan manfaat membuat sketsa pola sebelum berkarya.",
+      "answers": [
+        {
+          "text": "merencanakan komposisi",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "menjaga keteraturan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "menguji motif",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menghemat bahan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "memudahkan revisi",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0123",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Menggambar Objek dengan Proporsi dan Komposisi",
+      "type": "family100",
+      "question": "Sebutkan hal yang diperhatikan saat menggambar objek.",
+      "answers": [
+        {
+          "text": "proporsi",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "komposisi",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "ukuran",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "posisi",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "detail",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0124",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Menggambar Objek dengan Proporsi dan Komposisi",
+      "type": "family100",
+      "question": "Sebutkan objek yang dapat digambar dari pengamatan langsung.",
+      "answers": [
+        {
+          "text": "gelas",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "botol",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "buah",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "kursi",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "vas",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0125",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Menggambar Objek dengan Proporsi dan Komposisi",
+      "type": "family100",
+      "question": "Sebutkan cara menunjukkan benda berada di depan benda lain.",
+      "answers": [
+        {
+          "text": "tumpang tindih",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "ukuran relatif",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "letak lebih rendah",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "detail lebih jelas",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "kontras warna",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0126",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Menggambar Objek dengan Proporsi dan Komposisi",
+      "type": "family100",
+      "question": "Sebutkan alat untuk membuat sketsa objek.",
+      "answers": [
+        {
+          "text": "pensil",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "buku gambar",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "penghapus",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "penggaris",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "papan alas",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0127",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Menggambar Objek dengan Proporsi dan Komposisi",
+      "type": "family100",
+      "question": "Sebutkan tahapan menggambar objek sederhana.",
+      "answers": [
+        {
+          "text": "mengamati",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "menentukan komposisi",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "membuat sketsa",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menambahkan detail",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menyempurnakan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0128",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Menggambar Objek dengan Proporsi dan Komposisi",
+      "type": "family100",
+      "question": "Sebutkan ciri komposisi gambar yang baik.",
+      "answers": [
+        {
+          "text": "objek tidak terpotong",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "ruang seimbang",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "fokus jelas",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "ukuran proporsional",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "posisi serasi",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0129",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Mengeksplorasi Simpul dan Berkarya Makrame",
+      "type": "family100",
+      "question": "Sebutkan bahan atau alat untuk berkarya makrame.",
+      "answers": [
+        {
+          "text": "tali katun",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "tali kur",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "gunting",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "penggaris",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "papan penjepit",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0130",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Mengeksplorasi Simpul dan Berkarya Makrame",
+      "type": "family100",
+      "question": "Sebutkan teknik simpul yang umum dipakai pada makrame.",
+      "answers": [
+        {
+          "text": "simpul kepala burung",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "simpul datar",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "simpul setengah",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "simpul spiral",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "simpul pengikat",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0131",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Mengeksplorasi Simpul dan Berkarya Makrame",
+      "type": "family100",
+      "question": "Sebutkan contoh produk makrame.",
+      "answers": [
+        {
+          "text": "gantungan kunci",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "gelang",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "hiasan dinding",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "gantungan pot",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "tas",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0132",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Mengeksplorasi Simpul dan Berkarya Makrame",
+      "type": "family100",
+      "question": "Sebutkan hal yang perlu dijaga saat membuat simpul.",
+      "answers": [
+        {
+          "text": "kekencangan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "keteraturan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "panjang tali",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "arah simpul",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "kerapian",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0133",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Mengeksplorasi Simpul dan Berkarya Makrame",
+      "type": "family100",
+      "question": "Sebutkan langkah awal sebelum membuat karya makrame.",
+      "answers": [
+        {
+          "text": "memilih desain",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "menyiapkan alat",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "memotong tali",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "mengukur panjang",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menyiapkan tempat kerja",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0134",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Mengeksplorasi dan Berkarya Anyaman",
+      "type": "family100",
+      "question": "Sebutkan bahan alam untuk membuat anyaman.",
+      "answers": [
+        {
+          "text": "bambu",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "rotan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "daun pandan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "daun kelapa",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "mendong",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0135",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Mengeksplorasi dan Berkarya Anyaman",
+      "type": "family100",
+      "question": "Sebutkan bahan buatan yang bisa dianyam.",
+      "answers": [
+        {
+          "text": "pita plastik",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "kertas warna",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "sedotan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "pita kain",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "tali sintetis",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0136",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Mengeksplorasi dan Berkarya Anyaman",
+      "type": "family100",
+      "question": "Sebutkan produk anyaman sehari-hari.",
+      "answers": [
+        {
+          "text": "tikar",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "keranjang",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "tas",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "topi",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "wadah",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0137",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Mengeksplorasi dan Berkarya Anyaman",
+      "type": "family100",
+      "question": "Sebutkan tindakan agar anyaman rapi.",
+      "answers": [
+        {
+          "text": "potong bahan sama lebar",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "susun pola",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "atur jarak",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "kencangkan selang-seling",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "rapikan ujung",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0138",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Mengeksplorasi dan Berkarya Anyaman",
+      "type": "family100",
+      "question": "Sebutkan istilah atau pola terkait anyaman.",
+      "answers": [
+        {
+          "text": "lungsin",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "pakan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "selang-seling",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "pola satu-satu",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "pola dua-dua",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0139",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Berkarya Seni Rupa dari Limbah",
+      "type": "family100",
+      "question": "Sebutkan bahan limbah yang dapat dijadikan karya seni.",
+      "answers": [
+        {
+          "text": "kardus",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "koran",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "botol plastik",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "kaleng",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "kain perca",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0140",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Berkarya Seni Rupa dari Limbah",
+      "type": "family100",
+      "question": "Sebutkan contoh karya seni dari bahan bekas.",
+      "answers": [
+        {
+          "text": "kolase",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "mozaik",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "patung",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "hiasan dinding",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "tempat pensil",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0141",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Berkarya Seni Rupa dari Limbah",
+      "type": "family100",
+      "question": "Sebutkan langkah membuat karya seni dari barang bekas.",
+      "answers": [
+        {
+          "text": "memilah bahan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "membersihkan bahan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "membuat rancangan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "merakit",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "merapikan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0142",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Berkarya Seni Rupa dari Limbah",
+      "type": "family100",
+      "question": "Sebutkan alat bantu untuk membuat karya dari limbah.",
+      "answers": [
+        {
+          "text": "gunting",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "lem",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "penggaris",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "kuas",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "pensil",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0143",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Berkarya Seni Rupa dari Limbah",
+      "type": "family100",
+      "question": "Sebutkan prinsip keamanan ketika berkarya dari limbah.",
+      "answers": [
+        {
+          "text": "gunakan bahan bersih",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "hindari benda tajam",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "gunakan alat sesuai fungsi",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "cuci tangan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "minta pendampingan saat memakai alat tajam",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0144",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Aku yang Unik",
+      "type": "family100",
+      "question": "Sebutkan contoh kata sifat untuk menggambarkan diri.",
+      "answers": [
+        {
+          "text": "ramah",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "tekun",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "jujur",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "ceria",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "sabar",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0145",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Aku yang Unik",
+      "type": "family100",
+      "question": "Sebutkan contoh keunikan seseorang.",
+      "answers": [
+        {
+          "text": "hobi",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "bakat",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "kebiasaan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "kesukaan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "cara belajar",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0146",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Aku yang Unik",
+      "type": "family100",
+      "question": "Sebutkan unsur dalam perkenalan diri.",
+      "answers": [
+        {
+          "text": "nama",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "asal",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "hobi",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "cita-cita",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "kesukaan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0147",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Aku yang Unik",
+      "type": "family100",
+      "question": "Sebutkan sikap ketika teman memperkenalkan dirinya.",
+      "answers": [
+        {
+          "text": "mendengarkan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "menghargai",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "tidak mengejek",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "memberi tanggapan sopan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "bertanya bergantian",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0148",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Aku yang Unik",
+      "type": "family100",
+      "question": "Sebutkan jenis informasi yang dapat dijelaskan dalam paragraf deskripsi orang.",
+      "answers": [
+        {
+          "text": "penampilan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "kebiasaan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "sifat",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "kegemaran",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "kemampuan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0149",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Buku Jendela Dunia",
+      "type": "family100",
+      "question": "Sebutkan jenis buku fiksi.",
+      "answers": [
+        {
+          "text": "dongeng",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "novel",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "cerpen",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "fabel",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "cerita fantasi",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0150",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Buku Jendela Dunia",
+      "type": "family100",
+      "question": "Sebutkan contoh buku nonfiksi.",
+      "answers": [
+        {
+          "text": "ensiklopedia",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "biografi",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "buku pelajaran",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "atlas",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "buku panduan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0151",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Buku Jendela Dunia",
+      "type": "family100",
+      "question": "Sebutkan unsur dalam cerita fiksi.",
+      "answers": [
+        {
+          "text": "tokoh",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "latar",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "alur",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "tema",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "amanat",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0152",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Buku Jendela Dunia",
+      "type": "family100",
+      "question": "Sebutkan bagian identitas buku.",
+      "answers": [
+        {
+          "text": "judul",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "penulis",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "penerbit",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "tahun terbit",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "ISBN",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0153",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Buku Jendela Dunia",
+      "type": "family100",
+      "question": "Sebutkan kegiatan yang bisa dilakukan setelah membaca buku.",
+      "answers": [
+        {
+          "text": "merangkum",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "menceritakan kembali",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "menulis ulasan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "berdiskusi",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "mencatat kosakata",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0154",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Buku Jendela Dunia",
+      "type": "family100",
+      "question": "Sebutkan manfaat membaca buku.",
+      "answers": [
+        {
+          "text": "menambah pengetahuan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "memperkaya kosakata",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "melatih imajinasi",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "meningkatkan konsentrasi",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "memperluas wawasan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0155",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Ekspresi Diri Melalui Hobi",
+      "type": "family100",
+      "question": "Sebutkan jenis hobi yang bisa diceritakan dalam teks.",
+      "answers": [
+        {
+          "text": "membaca",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "melukis",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "berenang",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "berkebun",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "memasak",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0156",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Ekspresi Diri Melalui Hobi",
+      "type": "family100",
+      "question": "Sebutkan unsur yang diperlukan saat menulis cerita pengalaman hobi.",
+      "answers": [
+        {
+          "text": "waktu",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "tempat",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "tokoh",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "kegiatan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "perasaan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0157",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Ekspresi Diri Melalui Hobi",
+      "type": "family100",
+      "question": "Sebutkan hal yang membuat cerita pengalaman menarik.",
+      "answers": [
+        {
+          "text": "urutan jelas",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "detail suasana",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "pilihan kata tepat",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "konflik sederhana",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "penutup berkesan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0158",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Ekspresi Diri Melalui Hobi",
+      "type": "family100",
+      "question": "Sebutkan kata penghubung urutan waktu.",
+      "answers": [
+        {
+          "text": "pertama",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "kemudian",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "setelah itu",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "selanjutnya",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "akhirnya",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0159",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Ekspresi Diri Melalui Hobi",
+      "type": "family100",
+      "question": "Sebutkan manfaat menekuni hobi.",
+      "answers": [
+        {
+          "text": "mengasah keterampilan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "mengurangi bosan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "menemukan bakat",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "melatih disiplin",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menambah teman",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0160",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Belajar Berwirausaha",
+      "type": "family100",
+      "question": "Sebutkan contoh kegiatan usaha sederhana.",
+      "answers": [
+        {
+          "text": "berjualan makanan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "kerajinan tangan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "menjual tanaman",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "jasa cuci sepeda",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "berjualan minuman",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0161",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Belajar Berwirausaha",
+      "type": "family100",
+      "question": "Sebutkan informasi penting dalam iklan produk.",
+      "answers": [
+        {
+          "text": "nama produk",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "harga",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "manfaat",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "gambar",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "kontak",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0162",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Belajar Berwirausaha",
+      "type": "family100",
+      "question": "Sebutkan hal yang perlu dihitung ketika berjualan.",
+      "answers": [
+        {
+          "text": "modal",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "harga jual",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "jumlah barang",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "biaya produksi",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "keuntungan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0163",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Belajar Berwirausaha",
+      "type": "family100",
+      "question": "Sebutkan sikap baik dalam berwirausaha.",
+      "answers": [
+        {
+          "text": "jujur",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "ramah",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "teliti",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "bertanggung jawab",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "kreatif",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0164",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Belajar Berwirausaha",
+      "type": "family100",
+      "question": "Sebutkan langkah melakukan wawancara pedagang.",
+      "answers": [
+        {
+          "text": "menyiapkan pertanyaan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "meminta izin",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "menyapa",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "bertanya sopan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "mencatat jawaban",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0165",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Menjadi Warga Dunia",
+      "type": "family100",
+      "question": "Sebutkan sarana komunikasi dengan orang di tempat jauh.",
+      "answers": [
+        {
+          "text": "surat",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "email",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "telepon",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "video call",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "pesan instan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0166",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Menjadi Warga Dunia",
+      "type": "family100",
+      "question": "Sebutkan informasi yang dapat dijumpai dalam berita internasional.",
+      "answers": [
+        {
+          "text": "tempat",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "waktu",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "peristiwa",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "tokoh",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "penyebab",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0167",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Menjadi Warga Dunia",
+      "type": "family100",
+      "question": "Sebutkan sikap ketika berkomunikasi dengan budaya berbeda.",
+      "answers": [
+        {
+          "text": "sopan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "terbuka",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "tidak mengejek",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "mendengarkan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menghormati",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0168",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Menjadi Warga Dunia",
+      "type": "family100",
+      "question": "Sebutkan manfaat mempelajari bahasa lain.",
+      "answers": [
+        {
+          "text": "berkomunikasi",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "memahami budaya",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "membaca informasi",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menambah teman",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "belajar dari berbagai sumber",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0169",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Menjadi Warga Dunia",
+      "type": "family100",
+      "question": "Sebutkan cara memeriksa kebenaran informasi dari internet.",
+      "answers": [
+        {
+          "text": "cek sumber",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "cek tanggal",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "bandingkan sumber",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "periksa bukti",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "tanya guru",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0170",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Cinta Indonesia",
+      "type": "family100",
+      "question": "Sebutkan hal yang membuat seseorang bangga terhadap Indonesia.",
+      "answers": [
+        {
+          "text": "keberagaman budaya",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "bahasa Indonesia",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "alam",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "nusa dan bangsa",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "prestasi bangsa",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0171",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Cinta Indonesia",
+      "type": "family100",
+      "question": "Sebutkan warisan budaya Indonesia.",
+      "answers": [
+        {
+          "text": "batik",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "angklung",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "wayang",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "gamelan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "tari saman",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0172",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Cinta Indonesia",
+      "type": "family100",
+      "question": "Sebutkan ciri teks deskripsi tentang tempat wisata.",
+      "answers": [
+        {
+          "text": "lokasi",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "suasana",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "keunikan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "fasilitas",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "kesan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0173",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Cinta Indonesia",
+      "type": "family100",
+      "question": "Sebutkan contoh makanan tradisional Indonesia.",
+      "answers": [
+        {
+          "text": "rendang",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "gudeg",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "pempek",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "papeda",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "sate",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0174",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Cinta Indonesia",
+      "type": "family100",
+      "question": "Sebutkan cara menunjukkan cinta tanah air.",
+      "answers": [
+        {
+          "text": "menjaga lingkungan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "menghormati budaya",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "memakai bahasa santun",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "belajar sungguh-sungguh",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menjaga persatuan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0175",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "Sayangi Bumi",
+      "type": "family100",
+      "question": "Sebutkan masalah lingkungan yang dapat dilaporkan dalam teks.",
+      "answers": [
+        {
+          "text": "sampah plastik",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "banjir",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "polusi udara",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "air tercemar",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "penebangan liar",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0176",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "Sayangi Bumi",
+      "type": "family100",
+      "question": "Sebutkan bentuk ajakan pada poster lingkungan.",
+      "answers": [
+        {
+          "text": "hemat air",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "tanam pohon",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "kurangi plastik",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "pilah sampah",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "jangan buang sampah sembarangan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0177",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "Sayangi Bumi",
+      "type": "family100",
+      "question": "Sebutkan unsur poster yang menarik.",
+      "answers": [
+        {
+          "text": "judul singkat",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "gambar",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "warna kontras",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "pesan jelas",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "huruf terbaca",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0178",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "Sayangi Bumi",
+      "type": "family100",
+      "question": "Sebutkan langkah menulis laporan pengamatan lingkungan.",
+      "answers": [
+        {
+          "text": "tentukan objek",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "amati",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "catat data",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "susun laporan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "buat kesimpulan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0179",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "Sayangi Bumi",
+      "type": "family100",
+      "question": "Sebutkan contoh tindakan melindungi bumi.",
+      "answers": [
+        {
+          "text": "hemat energi",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "naik transportasi umum",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "kompos",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menanam pohon",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menggunakan ulang barang",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0180",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "Bergerak Bersama",
+      "type": "family100",
+      "question": "Sebutkan cara kerja sama dalam kelompok.",
+      "answers": [
+        {
+          "text": "membagi tugas",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "mendengarkan pendapat",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "saling membantu",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menepati kesepakatan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menyelesaikan konflik",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0181",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "Bergerak Bersama",
+      "type": "family100",
+      "question": "Sebutkan kegiatan gotong royong di sekolah.",
+      "answers": [
+        {
+          "text": "piket kelas",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "membersihkan halaman",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "menata perpustakaan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menanam pohon",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menyiapkan acara",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0182",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "Bergerak Bersama",
+      "type": "family100",
+      "question": "Sebutkan unsur laporan kegiatan.",
+      "answers": [
+        {
+          "text": "judul",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "tujuan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "waktu",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "pelaksanaan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "hasil",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0183",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "Bergerak Bersama",
+      "type": "family100",
+      "question": "Sebutkan sikap saat menyampaikan pendapat dalam diskusi.",
+      "answers": [
+        {
+          "text": "sopan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "jelas",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "berdasarkan alasan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "tidak memotong pembicaraan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menghargai tanggapan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0184",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "Bergerak Bersama",
+      "type": "family100",
+      "question": "Sebutkan kata yang berkaitan dengan kolaborasi.",
+      "answers": [
+        {
+          "text": "kerja sama",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "tanggung jawab",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "musyawarah",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "solidaritas",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "partisipasi",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0185",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Pancasila dalam Kehidupanku",
+      "type": "family100",
+      "question": "Sebutkan lima sila Pancasila melalui kata kuncinya.",
+      "answers": [
+        {
+          "text": "ketuhanan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "kemanusiaan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "persatuan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "kerakyatan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "keadilan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0186",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Pancasila dalam Kehidupanku",
+      "type": "family100",
+      "question": "Sebutkan contoh perilaku sesuai sila pertama.",
+      "answers": [
+        {
+          "text": "beribadah sesuai agama",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "menghormati ibadah teman",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "tidak memaksakan agama",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menjaga toleransi",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "bersyukur",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0187",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Pancasila dalam Kehidupanku",
+      "type": "family100",
+      "question": "Sebutkan contoh perilaku sesuai sila kedua.",
+      "answers": [
+        {
+          "text": "menolong teman",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "tidak merundung",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "menghormati sesama",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "bersikap adil",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "peduli orang sakit",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0188",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Pancasila dalam Kehidupanku",
+      "type": "family100",
+      "question": "Sebutkan contoh perilaku sesuai sila ketiga.",
+      "answers": [
+        {
+          "text": "gotong royong",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "cinta tanah air",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "menjaga persatuan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menghargai perbedaan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "tidak bertengkar",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0189",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Pancasila dalam Kehidupanku",
+      "type": "family100",
+      "question": "Sebutkan cara menerapkan musyawarah di kelas.",
+      "answers": [
+        {
+          "text": "mendengar pendapat",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "bergiliran bicara",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "mencari mufakat",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menghormati keputusan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "tidak memaksakan kehendak",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0190",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Pancasila dalam Kehidupanku",
+      "type": "family100",
+      "question": "Sebutkan contoh perilaku adil di sekolah.",
+      "answers": [
+        {
+          "text": "bergiliran fasilitas",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "tidak pilih kasih",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "membagi tugas setara",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menaati aturan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menolong yang membutuhkan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0191",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Norma dalam Kehidupanku",
+      "type": "family100",
+      "question": "Sebutkan empat jenis norma yang dipelajari.",
+      "answers": [
+        {
+          "text": "norma agama",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "norma kesusilaan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "norma kesopanan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "norma hukum",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0192",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Norma dalam Kehidupanku",
+      "type": "family100",
+      "question": "Sebutkan contoh kewajiban siswa di sekolah.",
+      "answers": [
+        {
+          "text": "belajar",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "menaati tata tertib",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "menjaga kebersihan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menghormati guru",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menjaga fasilitas",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0193",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Norma dalam Kehidupanku",
+      "type": "family100",
+      "question": "Sebutkan contoh hak siswa di sekolah.",
+      "answers": [
+        {
+          "text": "mendapat pembelajaran",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "merasa aman",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "bertanya",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "memakai fasilitas sesuai aturan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menyampaikan pendapat",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0194",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Norma dalam Kehidupanku",
+      "type": "family100",
+      "question": "Sebutkan perilaku sesuai norma kesopanan.",
+      "answers": [
+        {
+          "text": "mengucapkan salam",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "berbicara santun",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "meminta izin",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "antre",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menghormati orang lain",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0195",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Norma dalam Kehidupanku",
+      "type": "family100",
+      "question": "Sebutkan contoh perilaku yang melanggar aturan sekolah.",
+      "answers": [
+        {
+          "text": "terlambat tanpa alasan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "merusak fasilitas",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "menyontek",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "membuang sampah sembarangan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "merundung",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0196",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Norma dalam Kehidupanku",
+      "type": "family100",
+      "question": "Sebutkan manfaat menaati norma.",
+      "answers": [
+        {
+          "text": "hidup tertib",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "merasa aman",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "saling menghargai",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "mengurangi konflik",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menumbuhkan tanggung jawab",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0197",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Keragaman Budaya Indonesiaku",
+      "type": "family100",
+      "question": "Sebutkan contoh keberagaman budaya Indonesia.",
+      "answers": [
+        {
+          "text": "bahasa daerah",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "rumah adat",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "tarian daerah",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "pakaian adat",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "makanan tradisional",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0198",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Keragaman Budaya Indonesiaku",
+      "type": "family100",
+      "question": "Sebutkan sikap menghargai keberagaman.",
+      "answers": [
+        {
+          "text": "tidak mengejek",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "mau belajar",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "bertoleransi",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "bersikap sopan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "bertanya dengan hormat",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0199",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Keragaman Budaya Indonesiaku",
+      "type": "family100",
+      "question": "Sebutkan contoh kegiatan mengenal budaya daerah.",
+      "answers": [
+        {
+          "text": "festival budaya",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "kunjungan museum",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "pertunjukan tari",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "pameran budaya",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "mewawancarai budayawan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0200",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Keragaman Budaya Indonesiaku",
+      "type": "family100",
+      "question": "Sebutkan hal yang mempersatukan warga Indonesia.",
+      "answers": [
+        {
+          "text": "Pancasila",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "bahasa Indonesia",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "bendera merah putih",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "Bhinneka Tunggal Ika",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "gotong royong",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0201",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Keragaman Budaya Indonesiaku",
+      "type": "family100",
+      "question": "Sebutkan upaya melestarikan budaya lokal.",
+      "answers": [
+        {
+          "text": "belajar bahasa daerah",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "mengikuti kesenian tradisional",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "mempelajari makanan khas",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "merawat situs budaya",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "mengajarkan permainan tradisional",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0202",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Aku dan Lingkungan Sekitarku",
+      "type": "family100",
+      "question": "Sebutkan contoh lingkungan tempat kita beraktivitas.",
+      "answers": [
+        {
+          "text": "rumah",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "sekolah",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "pasar",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "taman",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "perpustakaan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0203",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Aku dan Lingkungan Sekitarku",
+      "type": "family100",
+      "question": "Sebutkan peran warga dalam menjaga lingkungan.",
+      "answers": [
+        {
+          "text": "piket",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "kerja bakti",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "membuang sampah sesuai tempat",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menghemat air",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menanam pohon",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0204",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Aku dan Lingkungan Sekitarku",
+      "type": "family100",
+      "question": "Sebutkan fasilitas umum yang perlu dijaga bersama.",
+      "answers": [
+        {
+          "text": "jalan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "jembatan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "taman",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "halte",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "perpustakaan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0205",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Aku dan Lingkungan Sekitarku",
+      "type": "family100",
+      "question": "Sebutkan sikap dalam kegiatan warga.",
+      "answers": [
+        {
+          "text": "gotong royong",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "toleransi",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "tanggung jawab",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "musyawarah",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "peduli",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0206",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Aku dan Lingkungan Sekitarku",
+      "type": "family100",
+      "question": "Sebutkan contoh keputusan bersama di lingkungan.",
+      "answers": [
+        {
+          "text": "jadwal kerja bakti",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "aturan kebersihan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "lokasi tempat sampah",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "jadwal ronda",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "pemakaian aula",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0207",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Berpikir Komputasi dalam Kehidupan",
+      "type": "family100",
+      "question": "Sebutkan empat unsur berpikir komputasional.",
+      "answers": [
+        {
+          "text": "dekomposisi",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "pengenalan pola",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "abstraksi",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "algoritma",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0208",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Berpikir Komputasi dalam Kehidupan",
+      "type": "family100",
+      "question": "Sebutkan contoh masalah yang dapat dipecah menjadi langkah kecil.",
+      "answers": [
+        {
+          "text": "menyiapkan tas",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "memasak nasi",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "mencuci tangan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menata kelas",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "merencanakan rute",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0209",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Berpikir Komputasi dalam Kehidupan",
+      "type": "family100",
+      "question": "Sebutkan ciri algoritma yang baik.",
+      "answers": [
+        {
+          "text": "jelas",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "berurutan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "dapat dijalankan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "memiliki tujuan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "terbatas langkahnya",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0210",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Berpikir Komputasi dalam Kehidupan",
+      "type": "family100",
+      "question": "Sebutkan contoh pola berulang dalam kehidupan sehari-hari.",
+      "answers": [
+        {
+          "text": "pola ubin",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "urutan warna lampu",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "jadwal piket",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "motif batik",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "irama tepuk",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0211",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Berpikir Komputasi dalam Kehidupan",
+      "type": "family100",
+      "question": "Sebutkan langkah memecahkan masalah secara terencana.",
+      "answers": [
+        {
+          "text": "pahami masalah",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "pecah tugas",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "cari pola",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "susun langkah",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "uji hasil",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0212",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Berpikir Komputasi dalam Kehidupan",
+      "type": "family100",
+      "question": "Sebutkan cara memeriksa algoritma sederhana.",
+      "answers": [
+        {
+          "text": "jalankan langkah",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "cek urutan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "uji kasus",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "temukan kesalahan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "perbaiki instruksi",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0213",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Penggunaan Teknologi Digital",
+      "type": "family100",
+      "question": "Sebutkan perangkat komputer digital.",
+      "answers": [
+        {
+          "text": "laptop",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "tablet",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "komputer desktop",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "smartphone",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "smartwatch",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0214",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Penggunaan Teknologi Digital",
+      "type": "family100",
+      "question": "Sebutkan perangkat masukan komputer.",
+      "answers": [
+        {
+          "text": "keyboard",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "mouse",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "mikrofon",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "scanner",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "kamera",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0215",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Penggunaan Teknologi Digital",
+      "type": "family100",
+      "question": "Sebutkan perangkat keluaran komputer.",
+      "answers": [
+        {
+          "text": "monitor",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "printer",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "speaker",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "proyektor",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "headphone",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0216",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Penggunaan Teknologi Digital",
+      "type": "family100",
+      "question": "Sebutkan contoh data pribadi yang perlu dilindungi.",
+      "answers": [
+        {
+          "text": "kata sandi",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "alamat rumah",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "nomor telepon",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "foto identitas",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "kode OTP",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0217",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Penggunaan Teknologi Digital",
+      "type": "family100",
+      "question": "Sebutkan kebiasaan aman saat memakai internet.",
+      "answers": [
+        {
+          "text": "gunakan sandi kuat",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "jangan bagikan OTP",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "cek tautan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "keluar dari akun umum",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "minta bantuan orang dewasa",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0218",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Penggunaan Teknologi Digital",
+      "type": "family100",
+      "question": "Sebutkan contoh kegiatan memakai teknologi digital.",
+      "answers": [
+        {
+          "text": "belajar daring",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "membuat presentasi",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "mengirim email",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "mencari informasi",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menggambar digital",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0219",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Mengenal Kecerdasan Artifisial",
+      "type": "family100",
+      "question": "Sebutkan contoh pemanfaatan AI dalam kehidupan.",
+      "answers": [
+        {
+          "text": "penerjemah otomatis",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "rekomendasi video",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "asisten suara",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "pengenalan wajah",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "navigasi rute",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0220",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Mengenal Kecerdasan Artifisial",
+      "type": "family100",
+      "question": "Sebutkan kemampuan AI yang sering digunakan.",
+      "answers": [
+        {
+          "text": "mengenali gambar",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "mengenali suara",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "menerjemahkan teks",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menemukan pola",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "memberi rekomendasi",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0221",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Mengenal Kecerdasan Artifisial",
+      "type": "family100",
+      "question": "Sebutkan contoh data yang dapat diproses AI.",
+      "answers": [
+        {
+          "text": "gambar",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "teks",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "suara",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "angka",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "video",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0222",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Mengenal Kecerdasan Artifisial",
+      "type": "family100",
+      "question": "Sebutkan hal yang perlu diperiksa ketika AI memberi jawaban.",
+      "answers": [
+        {
+          "text": "ketepatan informasi",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "sumber",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "kesesuaian konteks",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "bias",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "privasi",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0223",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Mengenal Kecerdasan Artifisial",
+      "type": "family100",
+      "question": "Sebutkan manfaat sistem navigasi digital.",
+      "answers": [
+        {
+          "text": "menentukan rute",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "mencari lokasi",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "memperkirakan perjalanan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "melihat kondisi jalan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "memberi alternatif jalan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0224",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Mengenal Kecerdasan Artifisial",
+      "type": "family100",
+      "question": "Sebutkan contoh penggunaan AI yang perlu didampingi orang dewasa.",
+      "answers": [
+        {
+          "text": "unggah foto pribadi",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "bagikan lokasi",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "menggunakan chatbot publik",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "memberi data keluarga",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menerima saran kesehatan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0225",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Penerapan Klasifikasi pada Kecerdasan Artifisial",
+      "type": "family100",
+      "question": "Sebutkan contoh data yang bisa dikelompokkan melalui klasifikasi.",
+      "answers": [
+        {
+          "text": "gambar hewan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "jenis sampah",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "buah",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "warna",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "daun",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0226",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Penerapan Klasifikasi pada Kecerdasan Artifisial",
+      "type": "family100",
+      "question": "Sebutkan tahapan sederhana proses klasifikasi.",
+      "answers": [
+        {
+          "text": "kumpulkan data",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "tentukan ciri",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "beri label",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "kelompokkan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "periksa hasil",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0227",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Penerapan Klasifikasi pada Kecerdasan Artifisial",
+      "type": "family100",
+      "question": "Sebutkan ciri untuk mengelompokkan buah.",
+      "answers": [
+        {
+          "text": "warna",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "ukuran",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "bentuk",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "rasa",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "biji",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0228",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Penerapan Klasifikasi pada Kecerdasan Artifisial",
+      "type": "family100",
+      "question": "Sebutkan dampak data masukan buruk pada sistem AI.",
+      "answers": [
+        {
+          "text": "prediksi keliru",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "hasil bias",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "salah klasifikasi",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "rekomendasi keliru",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "performa menurun",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0229",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Penerapan Klasifikasi pada Kecerdasan Artifisial",
+      "type": "family100",
+      "question": "Sebutkan penggunaan klasifikasi AI sehari-hari.",
+      "answers": [
+        {
+          "text": "filter spam",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "pengenalan gambar",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "pemilahan foto",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "pendeteksi objek",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "klasifikasi dokumen",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0230",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Penerapan Klasifikasi pada Kecerdasan Artifisial",
+      "type": "family100",
+      "question": "Sebutkan informasi yang dapat dipakai sistem navigasi.",
+      "answers": [
+        {
+          "text": "peta digital",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "lokasi tujuan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "posisi GPS",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "kondisi jalan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "jarak",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "M5-0001",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Bilangan Cacah Sampai 100.000",
+      "subtopic": "place values",
+      "type": "multiple_choice",
+      "question": "Berapa nilai angka pada tempat satuan dari bilangan 18.672?",
+      "correct_answer": "2",
+      "difficulty": "easy",
+      "points": 10,
+      "explanation": "Angka pada tempat tersebut adalah 2; nilainya 2 × 1.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "0"
+        },
+        {
+          "label": "B",
+          "text": "5"
+        },
+        {
+          "label": "C",
+          "text": "2"
+        },
+        {
+          "label": "D",
+          "text": "3"
+        }
+      ],
+      "correct_option": "C"
+    },
+    {
+      "id": "M5-0002",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Bilangan Cacah Sampai 100.000",
+      "subtopic": "place values",
+      "type": "multiple_choice",
+      "question": "Hitung 21781 + 503.",
+      "correct_answer": "22284",
+      "difficulty": "medium",
+      "points": 20,
+      "explanation": "21781 + 503 = 22284.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "22285"
+        },
+        {
+          "label": "B",
+          "text": "22282"
+        },
+        {
+          "label": "C",
+          "text": "22284"
+        },
+        {
+          "label": "D",
+          "text": "24512"
+        }
+      ],
+      "correct_option": "C"
+    },
+    {
+      "id": "M5-0003",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Bilangan Cacah Sampai 100.000",
+      "subtopic": "place values",
+      "type": "multiple_choice",
+      "question": "Hitung 24890 − 520.",
+      "correct_answer": "24370",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "24890 − 520 = 24370.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "24371"
+        },
+        {
+          "label": "B",
+          "text": "26807"
+        },
+        {
+          "label": "C",
+          "text": "24368"
+        },
+        {
+          "label": "D",
+          "text": "24370"
+        }
+      ],
+      "correct_option": "D"
+    },
+    {
+      "id": "M5-0004",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Bilangan Cacah Sampai 100.000",
+      "subtopic": "place values",
+      "type": "multiple_choice",
+      "question": "Berapa nilai angka pada tempat ribuan dari bilangan 27.999?",
+      "correct_answer": "7000",
+      "difficulty": "easy",
+      "points": 10,
+      "explanation": "Angka pada tempat tersebut adalah 7; nilainya 7 × 1000.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "7000"
+        },
+        {
+          "label": "B",
+          "text": "6998"
+        },
+        {
+          "label": "C",
+          "text": "7001"
+        },
+        {
+          "label": "D",
+          "text": "7700"
+        }
+      ],
+      "correct_option": "A"
+    },
+    {
+      "id": "M5-0005",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Bilangan Cacah Sampai 100.000",
+      "subtopic": "place values",
+      "type": "multiple_choice",
+      "question": "Hitung 31108 + 204.",
+      "correct_answer": "31312",
+      "difficulty": "medium",
+      "points": 20,
+      "explanation": "31108 + 204 = 31312.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "31310"
+        },
+        {
+          "label": "B",
+          "text": "31312"
+        },
+        {
+          "label": "C",
+          "text": "34443"
+        },
+        {
+          "label": "D",
+          "text": "31313"
+        }
+      ],
+      "correct_option": "B"
+    },
+    {
+      "id": "M5-0006",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Bilangan Cacah Sampai 100.000",
+      "subtopic": "place values",
+      "type": "multiple_choice",
+      "question": "Hitung 34217 − 1039.",
+      "correct_answer": "33178",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "34217 − 1039 = 33178.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "36495"
+        },
+        {
+          "label": "B",
+          "text": "33178"
+        },
+        {
+          "label": "C",
+          "text": "33176"
+        },
+        {
+          "label": "D",
+          "text": "33179"
+        }
+      ],
+      "correct_option": "B"
+    },
+    {
+      "id": "M5-0007",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Bilangan Cacah Sampai 100.000",
+      "subtopic": "place values",
+      "type": "multiple_choice",
+      "question": "Berapa nilai angka pada tempat puluhan dari bilangan 37.326?",
+      "correct_answer": "20",
+      "difficulty": "easy",
+      "points": 10,
+      "explanation": "Angka pada tempat tersebut adalah 2; nilainya 2 × 10.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "23"
+        },
+        {
+          "label": "B",
+          "text": "21"
+        },
+        {
+          "label": "C",
+          "text": "18"
+        },
+        {
+          "label": "D",
+          "text": "20"
+        }
+      ],
+      "correct_option": "D"
+    },
+    {
+      "id": "M5-0008",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Bilangan Cacah Sampai 100.000",
+      "subtopic": "place values",
+      "type": "multiple_choice",
+      "question": "Hitung 40435 + 855.",
+      "correct_answer": "41290",
+      "difficulty": "medium",
+      "points": 20,
+      "explanation": "40435 + 855 = 41290.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "41288"
+        },
+        {
+          "label": "B",
+          "text": "45419"
+        },
+        {
+          "label": "C",
+          "text": "41291"
+        },
+        {
+          "label": "D",
+          "text": "41290"
+        }
+      ],
+      "correct_option": "D"
+    },
+    {
+      "id": "M5-0009",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Bilangan Cacah Sampai 100.000",
+      "subtopic": "place values",
+      "type": "multiple_choice",
+      "question": "Hitung 43544 − 1558.",
+      "correct_answer": "41986",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "43544 − 1558 = 41986.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "41986"
+        },
+        {
+          "label": "B",
+          "text": "41987"
+        },
+        {
+          "label": "C",
+          "text": "46184"
+        },
+        {
+          "label": "D",
+          "text": "41984"
+        }
+      ],
+      "correct_option": "A"
+    },
+    {
+      "id": "M5-0010",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Bilangan Cacah Sampai 100.000",
+      "subtopic": "place values",
+      "type": "multiple_choice",
+      "question": "Berapa nilai angka pada tempat puluh ribuan dari bilangan 46.653?",
+      "correct_answer": "40000",
+      "difficulty": "easy",
+      "points": 10,
+      "explanation": "Angka pada tempat tersebut adalah 4; nilainya 4 × 10000.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "44000"
+        },
+        {
+          "label": "B",
+          "text": "39998"
+        },
+        {
+          "label": "C",
+          "text": "40000"
+        },
+        {
+          "label": "D",
+          "text": "40001"
+        }
+      ],
+      "correct_option": "C"
+    },
+    {
+      "id": "M5-0011",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Bilangan Cacah Sampai 100.000",
+      "subtopic": "place values",
+      "type": "multiple_choice",
+      "question": "Hitung 49762 + 556.",
+      "correct_answer": "50318",
+      "difficulty": "medium",
+      "points": 20,
+      "explanation": "49762 + 556 = 50318.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "55349"
+        },
+        {
+          "label": "B",
+          "text": "50319"
+        },
+        {
+          "label": "C",
+          "text": "50316"
+        },
+        {
+          "label": "D",
+          "text": "50318"
+        }
+      ],
+      "correct_option": "D"
+    },
+    {
+      "id": "M5-0012",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Bilangan Cacah Sampai 100.000",
+      "subtopic": "place values",
+      "type": "multiple_choice",
+      "question": "Hitung 52871 − 2077.",
+      "correct_answer": "50794",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "52871 − 2077 = 50794.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "50795"
+        },
+        {
+          "label": "B",
+          "text": "50792"
+        },
+        {
+          "label": "C",
+          "text": "50794"
+        },
+        {
+          "label": "D",
+          "text": "55873"
+        }
+      ],
+      "correct_option": "C"
+    },
+    {
+      "id": "M5-0013",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Bilangan Cacah Sampai 100.000",
+      "subtopic": "place values",
+      "type": "multiple_choice",
+      "question": "Berapa nilai angka pada tempat ratusan dari bilangan 55.980?",
+      "correct_answer": "900",
+      "difficulty": "easy",
+      "points": 10,
+      "explanation": "Angka pada tempat tersebut adalah 9; nilainya 9 × 100.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "898"
+        },
+        {
+          "label": "B",
+          "text": "900"
+        },
+        {
+          "label": "C",
+          "text": "901"
+        },
+        {
+          "label": "D",
+          "text": "990"
+        }
+      ],
+      "correct_option": "B"
+    },
+    {
+      "id": "M5-0014",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Bilangan Cacah Sampai 100.000",
+      "subtopic": "place values",
+      "type": "multiple_choice",
+      "question": "Hitung 59089 + 257.",
+      "correct_answer": "59346",
+      "difficulty": "medium",
+      "points": 20,
+      "explanation": "59089 + 257 = 59346.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "59347"
+        },
+        {
+          "label": "B",
+          "text": "65280"
+        },
+        {
+          "label": "C",
