@@ -1,0 +1,5000 @@
+        "komposisi",
+        "irama"
+      ],
+      "correct_option": 0,
+      "answer": "tekstur",
+      "difficulty": "easy",
+      "explanation": "Tekstur menjelaskan karakter permukaan benda.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B01-M04",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Unsur dan Prinsip Seni Rupa di Sekitar Kita",
+      "type": "multiple_choice",
+      "question": "Jika dua sisi gambar memiliki bobot visual seimbang, prinsip yang tampak adalah ...",
+      "options": [
+        "penekanan",
+        "keseimbangan",
+        "kontras",
+        "gradasi"
+      ],
+      "correct_option": 1,
+      "answer": "keseimbangan",
+      "difficulty": "medium",
+      "explanation": "Keseimbangan berkaitan dengan sebaran bobot visual.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B01-M05",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Unsur dan Prinsip Seni Rupa di Sekitar Kita",
+      "type": "multiple_choice",
+      "question": "Daerah rata dua dimensi yang dibatasi garis disebut ...",
+      "options": [
+        "ruang",
+        "volume",
+        "bidang",
+        "tekstur"
+      ],
+      "correct_option": 2,
+      "answer": "bidang",
+      "difficulty": "hard",
+      "explanation": "Bidang memiliki panjang dan lebar.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B01-M06",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Unsur dan Prinsip Seni Rupa di Sekitar Kita",
+      "type": "multiple_choice",
+      "question": "Pada karya, satu bentuk dibuat lebih menonjol untuk menarik perhatian. Prinsip ini disebut ...",
+      "options": [
+        "penekanan",
+        "kesatuan",
+        "pengulangan",
+        "simetri"
+      ],
+      "correct_option": 0,
+      "answer": "penekanan",
+      "difficulty": "easy",
+      "explanation": "Penekanan menciptakan pusat perhatian.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B01-M07",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Unsur dan Prinsip Seni Rupa di Sekitar Kita",
+      "type": "multiple_choice",
+      "question": "Warna hijau dapat diperoleh dari pencampuran ...",
+      "options": [
+        "merah dan kuning",
+        "biru dan kuning",
+        "merah dan biru",
+        "hitam dan putih"
+      ],
+      "correct_option": 1,
+      "answer": "biru dan kuning",
+      "difficulty": "medium",
+      "explanation": "Dalam pencampuran pigmen sederhana, biru dan kuning menghasilkan hijau.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B01-M08",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Unsur dan Prinsip Seni Rupa di Sekitar Kita",
+      "type": "multiple_choice",
+      "question": "Mengapa unsur seni rupa dipelajari sebelum membuat karya?",
+      "options": [
+        "agar tidak perlu mengamati objek",
+        "agar memahami bahan penyusun karya",
+        "agar semua gambar sama",
+        "agar berhenti mencoba teknik baru"
+      ],
+      "correct_option": 1,
+      "answer": "agar memahami bahan penyusun karya",
+      "difficulty": "hard",
+      "explanation": "Unsur rupa membantu mengamati dan menyusun karya.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B02-F02",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Mengeksplorasi Ritme dalam Objek di Sekitar Kita",
+      "type": "family100",
+      "question": "Sebutkan unsur rupa yang dapat diulang untuk membentuk ritme.",
+      "answers": [
+        {
+          "text": "garis",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "warna",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "bentuk",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "bidang",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 2.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B02-F03",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Mengeksplorasi Ritme dalam Objek di Sekitar Kita",
+      "type": "family100",
+      "question": "Sebutkan contoh pola pengulangan bentuk sederhana.",
+      "answers": [
+        {
+          "text": "lingkaran berulang",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "segitiga berulang",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "persegi berulang",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "garis berulang",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 2.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B02-F04",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Mengeksplorasi Ritme dalam Objek di Sekitar Kita",
+      "type": "family100",
+      "question": "Sebutkan cara membuat ritme visual menjadi bervariasi.",
+      "answers": [
+        {
+          "text": "mengubah ukuran",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "mengubah jarak",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "mengganti warna",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "mengubah arah",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 2.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B02-F05",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Mengeksplorasi Ritme dalam Objek di Sekitar Kita",
+      "type": "family100",
+      "question": "Sebutkan benda alam yang memperlihatkan pola berulang.",
+      "answers": [
+        {
+          "text": "susunan daun",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "sisik ikan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "ruas bambu",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "pola kulit nanas",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 2.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B02-F06",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Mengeksplorasi Ritme dalam Objek di Sekitar Kita",
+      "type": "family100",
+      "question": "Sebutkan bahan yang dapat digunakan untuk latihan menggambar pola.",
+      "answers": [
+        {
+          "text": "kertas gambar",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "kertas kotak",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "kertas warna",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "karton",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 2.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B02-F07",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Mengeksplorasi Ritme dalam Objek di Sekitar Kita",
+      "type": "family100",
+      "question": "Sebutkan cara mengamati ritme pada motif kain.",
+      "answers": [
+        {
+          "text": "perhatikan urutan bentuk",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "perhatikan jarak motif",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "perhatikan warna",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "perhatikan arah motif",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 2.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B02-F08",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Mengeksplorasi Ritme dalam Objek di Sekitar Kita",
+      "type": "family100",
+      "question": "Sebutkan contoh rangkaian warna yang dapat diulang.",
+      "answers": [
+        {
+          "text": "merah-biru",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "kuning-hijau",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "biru-putih",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "merah-kuning",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 2.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B02-F09",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Mengeksplorasi Ritme dalam Objek di Sekitar Kita",
+      "type": "family100",
+      "question": "Sebutkan yang dapat dilakukan agar pola tidak tampak monoton.",
+      "answers": [
+        {
+          "text": "membuat selang-seling",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "menciptakan variasi ukuran",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "mengubah arah garis",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "mengubah warna",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 2.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B02-F10",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Mengeksplorasi Ritme dalam Objek di Sekitar Kita",
+      "type": "family100",
+      "question": "Sebutkan tempat menemukan pola berulang di sekolah.",
+      "answers": [
+        {
+          "text": "lantai kelas",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "pagar sekolah",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "koridor",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "dinding bermotif",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 2.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B02-M01",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Mengeksplorasi Ritme dalam Objek di Sekitar Kita",
+      "type": "multiple_choice",
+      "question": "Motif A-B-A-B menunjukkan ...",
+      "options": [
+        "gradasi acak",
+        "pengulangan selang-seling",
+        "gambar tanpa pola",
+        "proporsi tubuh"
+      ],
+      "correct_option": 1,
+      "answer": "pengulangan selang-seling",
+      "difficulty": "medium",
+      "explanation": "Ritme visual dapat terbentuk dari pengulangan teratur.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B02-M02",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Mengeksplorasi Ritme dalam Objek di Sekitar Kita",
+      "type": "multiple_choice",
+      "question": "Motif lingkaran muncul dengan jarak sama berulang. Yang paling tampak adalah prinsip ...",
+      "options": [
+        "ritme",
+        "perspektif",
+        "tekstur",
+        "proporsi"
+      ],
+      "correct_option": 0,
+      "answer": "ritme",
+      "difficulty": "hard",
+      "explanation": "Pengulangan membentuk irama visual.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B02-M03",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Mengeksplorasi Ritme dalam Objek di Sekitar Kita",
+      "type": "multiple_choice",
+      "question": "Pola merah-kuning-merah-kuning, berikutnya adalah ...",
+      "options": [
+        "hijau",
+        "merah",
+        "biru",
+        "ungu"
+      ],
+      "correct_option": 1,
+      "answer": "merah",
+      "difficulty": "easy",
+      "explanation": "Pola berselang-seling berulang dari awal.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B02-M04",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Mengeksplorasi Ritme dalam Objek di Sekitar Kita",
+      "type": "multiple_choice",
+      "question": "Ritme visual berbeda dari irama musik karena ritme visual dikenali terutama melalui ...",
+      "options": [
+        "pendengaran",
+        "penglihatan",
+        "penciuman",
+        "perasa"
+      ],
+      "correct_option": 1,
+      "answer": "penglihatan",
+      "difficulty": "medium",
+      "explanation": "Unsur rupa dilihat dengan mata.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B02-M05",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Mengeksplorasi Ritme dalam Objek di Sekitar Kita",
+      "type": "multiple_choice",
+      "question": "Mengatur jarak yang tidak sama antarbentuk dapat menciptakan ...",
+      "options": [
+        "variasi ritme",
+        "hilangnya semua bentuk",
+        "warna baru",
+        "tekstur nyata"
+      ],
+      "correct_option": 0,
+      "answer": "variasi ritme",
+      "difficulty": "hard",
+      "explanation": "Variasi jarak mengubah kesan pengulangan.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B02-M06",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Mengeksplorasi Ritme dalam Objek di Sekitar Kita",
+      "type": "multiple_choice",
+      "question": "Pada kain bermotif bentuk segitiga berulang, unsur utama pembentuk ritme ialah ...",
+      "options": [
+        "bau",
+        "bentuk",
+        "suara",
+        "berat"
+      ],
+      "correct_option": 1,
+      "answer": "bentuk",
+      "difficulty": "easy",
+      "explanation": "Pengulangan bentuk membangun pola visual.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B02-M07",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Mengeksplorasi Ritme dalam Objek di Sekitar Kita",
+      "type": "multiple_choice",
+      "question": "Yang paling tepat dilakukan sebelum menggambar pola dari lingkungan ialah ...",
+      "options": [
+        "mengamati pola sekitar",
+        "langsung membuang kertas",
+        "menutup seluruh gambar",
+        "menghapus semua contoh"
+      ],
+      "correct_option": 0,
+      "answer": "mengamati pola sekitar",
+      "difficulty": "medium",
+      "explanation": "Pengamatan membantu menemukan bentuk dan urutan pola.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B02-M08",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Mengeksplorasi Ritme dalam Objek di Sekitar Kita",
+      "type": "multiple_choice",
+      "question": "Pengulangan semakin kecil dari kiri ke kanan merupakan contoh variasi ...",
+      "options": [
+        "arah cahaya",
+        "ukuran",
+        "bau",
+        "suara"
+      ],
+      "correct_option": 1,
+      "answer": "ukuran",
+      "difficulty": "hard",
+      "explanation": "Perubahan ukuran menciptakan ritme progresif.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B03-F01",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Menggambar Objek dengan Proporsi dan Komposisi",
+      "type": "family100",
+      "question": "Sebutkan benda yang cocok dijadikan objek gambar pengamatan.",
+      "answers": [
+        {
+          "text": "botol",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "gelas",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "kotak pensil",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "tanaman",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 3.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B03-F02",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Menggambar Objek dengan Proporsi dan Komposisi",
+      "type": "family100",
+      "question": "Sebutkan hal yang diperhatikan saat menggambar proporsi objek.",
+      "answers": [
+        {
+          "text": "tinggi",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "lebar",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "perbandingan ukuran",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "jarak antarbagian",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 3.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B03-F03",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Menggambar Objek dengan Proporsi dan Komposisi",
+      "type": "family100",
+      "question": "Sebutkan cara menata objek agar komposisinya lebih baik.",
+      "answers": [
+        {
+          "text": "mengatur posisi",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "mengatur jarak",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "memilih sudut pandang",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menentukan pusat perhatian",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 3.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B03-F04",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Menggambar Objek dengan Proporsi dan Komposisi",
+      "type": "family100",
+      "question": "Sebutkan alat untuk menggambar bentuk dari pengamatan.",
+      "answers": [
+        {
+          "text": "pensil",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "penghapus",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "kertas gambar",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "penggaris",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 3.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B03-F05",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Menggambar Objek dengan Proporsi dan Komposisi",
+      "type": "family100",
+      "question": "Sebutkan bentuk dasar yang sering ditemukan pada objek gambar.",
+      "answers": [
+        {
+          "text": "kubus",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "balok",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "tabung",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "bola",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 3.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B03-F06",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Menggambar Objek dengan Proporsi dan Komposisi",
+      "type": "family100",
+      "question": "Sebutkan cara menunjukkan benda dekat dan jauh dalam gambar.",
+      "answers": [
+        {
+          "text": "perbedaan ukuran",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "posisi tumpang tindih",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "letak lebih tinggi atau rendah",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "perbedaan detail",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 3.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B03-F07",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Menggambar Objek dengan Proporsi dan Komposisi",
+      "type": "family100",
+      "question": "Sebutkan contoh objek dengan bentuk silinder atau tabung.",
+      "answers": [
+        {
+          "text": "kaleng",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "gelas",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "botol",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "pot bunga",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 3.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B03-F08",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Menggambar Objek dengan Proporsi dan Komposisi",
+      "type": "family100",
+      "question": "Sebutkan contoh objek geometris yang mudah digambar.",
+      "answers": [
+        {
+          "text": "kotak",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "bola",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "kerucut",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "tabung",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 3.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B03-F09",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Menggambar Objek dengan Proporsi dan Komposisi",
+      "type": "family100",
+      "question": "Sebutkan hal yang perlu diperbaiki ketika gambar miring tidak sesuai objek.",
+      "answers": [
+        {
+          "text": "garis sumbu",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "kemiringan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "posisi objek",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "perbandingan sisi",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 3.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B03-F10",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Menggambar Objek dengan Proporsi dan Komposisi",
+      "type": "family100",
+      "question": "Sebutkan aspek yang bisa dinilai dari gambar hasil pengamatan.",
+      "answers": [
+        {
+          "text": "proporsi",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "komposisi",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "kerapian",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "kemiripan bentuk",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 3.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B03-M01",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Menggambar Objek dengan Proporsi dan Komposisi",
+      "type": "multiple_choice",
+      "question": "Perbandingan ukuran bagian objek dengan keseluruhannya disebut ...",
+      "options": [
+        "tekstur",
+        "proporsi",
+        "ritme",
+        "pola"
+      ],
+      "correct_option": 1,
+      "answer": "proporsi",
+      "difficulty": "medium",
+      "explanation": "Proporsi menyatakan hubungan ukuran antarbagiannya.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B03-M02",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Menggambar Objek dengan Proporsi dan Komposisi",
+      "type": "multiple_choice",
+      "question": "Penataan letak beberapa objek dalam gambar disebut ...",
+      "options": [
+        "komposisi",
+        "tekstur",
+        "warna primer",
+        "anyaman"
+      ],
+      "correct_option": 0,
+      "answer": "komposisi",
+      "difficulty": "hard",
+      "explanation": "Komposisi mengatur susunan objek.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B03-M03",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Menggambar Objek dengan Proporsi dan Komposisi",
+      "type": "multiple_choice",
+      "question": "Benda berbentuk bola paling dekat dengan bentuk dasar ...",
+      "options": [
+        "kubus",
+        "tabung",
+        "bola",
+        "balok"
+      ],
+      "correct_option": 2,
+      "answer": "bola",
+      "difficulty": "easy",
+      "explanation": "Bentuk dasarnya adalah bola.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B03-M04",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Menggambar Objek dengan Proporsi dan Komposisi",
+      "type": "multiple_choice",
+      "question": "Jika gelas tergambar lebih tinggi daripada botol padahal objek aslinya lebih pendek, yang perlu diperbaiki ialah ...",
+      "options": [
+        "proporsi",
+        "warna kertas",
+        "jenis lem",
+        "tekstur meja"
+      ],
+      "correct_option": 0,
+      "answer": "proporsi",
+      "difficulty": "medium",
+      "explanation": "Perbandingan tinggi harus sesuai pengamatan.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B03-M05",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Menggambar Objek dengan Proporsi dan Komposisi",
+      "type": "multiple_choice",
+      "question": "Untuk membandingkan tinggi dua objek, alat yang dapat membantu ialah ...",
+      "options": [
+        "penggaris",
+        "kuas kering",
+        "lem",
+        "wadah cat"
+      ],
+      "correct_option": 0,
+      "answer": "penggaris",
+      "difficulty": "hard",
+      "explanation": "Penggaris membantu memperkirakan ukuran.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B03-M06",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Menggambar Objek dengan Proporsi dan Komposisi",
+      "type": "multiple_choice",
+      "question": "Menggambar dari objek nyata sebaiknya diawali dengan ...",
+      "options": [
+        "mengamati bentuk dan ukurannya",
+        "memilih warna sembarangan",
+        "menghapus sketsa",
+        "memotong gambar"
+      ],
+      "correct_option": 0,
+      "answer": "mengamati bentuk dan ukurannya",
+      "difficulty": "easy",
+      "explanation": "Pengamatan membantu menyusun bentuk yang proporsional.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B03-M07",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Menggambar Objek dengan Proporsi dan Komposisi",
+      "type": "multiple_choice",
+      "question": "Ketika dua objek digambar terlalu bertumpuk tanpa sengaja, aspek yang perlu diperiksa ialah ...",
+      "options": [
+        "komposisi",
+        "tekstur",
+        "warna primer",
+        "jenis kertas"
+      ],
+      "correct_option": 0,
+      "answer": "komposisi",
+      "difficulty": "medium",
+      "explanation": "Komposisi mengatur hubungan ruang antarbenda.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B03-M08",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Menggambar Objek dengan Proporsi dan Komposisi",
+      "type": "multiple_choice",
+      "question": "Pada sketsa awal, garis tipis lebih berguna karena ...",
+      "options": [
+        "mudah diperbaiki",
+        "tidak bisa dihapus",
+        "selalu terlihat gelap",
+        "menghilangkan bentuk"
+      ],
+      "correct_option": 0,
+      "answer": "mudah diperbaiki",
+      "difficulty": "hard",
+      "explanation": "Garis tipis memudahkan revisi.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B04-F01",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Mengeksplorasi Simpul dan Berkarya Makrame",
+      "type": "family100",
+      "question": "Sebutkan bahan yang dapat digunakan untuk karya makrame.",
+      "answers": [
+        {
+          "text": "tali katun",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "tali kur",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "benang tebal",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "tali rami",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 4.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B04-F02",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Mengeksplorasi Simpul dan Berkarya Makrame",
+      "type": "family100",
+      "question": "Sebutkan alat bantu saat membuat kerajinan makrame.",
+      "answers": [
+        {
+          "text": "gunting",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "papan alas",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "meteran",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "penjepit",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 4.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B04-F03",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Mengeksplorasi Simpul dan Berkarya Makrame",
+      "type": "family100",
+      "question": "Sebutkan bentuk karya sederhana dengan teknik makrame.",
+      "answers": [
+        {
+          "text": "gantungan kunci",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "gelang",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "hiasan dinding",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "gantungan pot",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 4.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B04-F04",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Mengeksplorasi Simpul dan Berkarya Makrame",
+      "type": "family100",
+      "question": "Sebutkan langkah persiapan sebelum membuat simpul makrame.",
+      "answers": [
+        {
+          "text": "ukur tali",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "potong tali",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "siapkan pola",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "ikat tali pada penyangga",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 4.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B04-F05",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Mengeksplorasi Simpul dan Berkarya Makrame",
+      "type": "family100",
+      "question": "Sebutkan hal yang perlu diperhatikan agar simpul rapi.",
+      "answers": [
+        {
+          "text": "ketegangan tali",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "kesamaan jarak",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "urutan simpul",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "panjang ujung tali",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 4.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B04-F06",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Mengeksplorasi Simpul dan Berkarya Makrame",
+      "type": "family100",
+      "question": "Sebutkan kebiasaan aman saat menggunakan alat makrame.",
+      "answers": [
+        {
+          "text": "gunakan gunting hati-hati",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "rapikan meja",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "simpan gunting dengan benar",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "ikuti petunjuk guru",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 4.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B04-F07",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Mengeksplorasi Simpul dan Berkarya Makrame",
+      "type": "family100",
+      "question": "Sebutkan manfaat latihan mengikat simpul bagi siswa.",
+      "answers": [
+        {
+          "text": "melatih ketelitian",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "melatih kesabaran",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "melatih koordinasi tangan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "melatih kreativitas",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 4.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B04-F08",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Mengeksplorasi Simpul dan Berkarya Makrame",
+      "type": "family100",
+      "question": "Sebutkan tempat yang cocok untuk memajang karya makrame.",
+      "answers": [
+        {
+          "text": "dinding kamar",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "papan pameran",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "ruang kelas",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "ruang tamu",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 4.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B04-F09",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Mengeksplorasi Simpul dan Berkarya Makrame",
+      "type": "family100",
+      "question": "Sebutkan cara mengatasi simpul yang keliru.",
+      "answers": [
+        {
+          "text": "buka simpul",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "periksa pola",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "rapikan tali",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "ulang dengan perlahan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 4.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B04-F10",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Mengeksplorasi Simpul dan Berkarya Makrame",
+      "type": "family100",
+      "question": "Sebutkan ciri karya makrame yang dikerjakan rapi.",
+      "answers": [
+        {
+          "text": "simpul kuat",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "jarak teratur",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "ujung tali rapi",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "pola konsisten",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 4.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B04-M01",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Mengeksplorasi Simpul dan Berkarya Makrame",
+      "type": "multiple_choice",
+      "question": "Makrame adalah teknik membuat karya terutama dengan ...",
+      "options": [
+        "mengikat simpul tali",
+        "membakar kertas",
+        "mengukir batu",
+        "mencetak tinta"
+      ],
+      "correct_option": 0,
+      "answer": "mengikat simpul tali",
+      "difficulty": "medium",
+      "explanation": "Karya makrame dibentuk dari rangkaian simpul.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B04-M02",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Mengeksplorasi Simpul dan Berkarya Makrame",
+      "type": "multiple_choice",
+      "question": "Alat yang tepat untuk memotong tali makrame adalah ...",
+      "options": [
+        "gunting",
+        "penggaris kayu",
+        "kuas",
+        "penghapus"
+      ],
+      "correct_option": 0,
+      "answer": "gunting",
+      "difficulty": "hard",
+      "explanation": "Gunakan gunting secara hati-hati.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B04-M03",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Mengeksplorasi Simpul dan Berkarya Makrame",
+      "type": "multiple_choice",
+      "question": "Sebelum memotong tali sesuai pola, sebaiknya ...",
+      "options": [
+        "mengukur panjang yang dibutuhkan",
+        "mengacak semua ukuran",
+        "langsung membuang tali",
+        "merendam semua alat"
+      ],
+      "correct_option": 0,
+      "answer": "mengukur panjang yang dibutuhkan",
+      "difficulty": "easy",
+      "explanation": "Pengukuran mencegah kekurangan bahan.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B04-M04",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Mengeksplorasi Simpul dan Berkarya Makrame",
+      "type": "multiple_choice",
+      "question": "Jika simpul terlalu longgar, akibatnya ...",
+      "options": [
+        "pola mudah berubah",
+        "warna berubah sendiri",
+        "tali menjadi kertas",
+        "panjang selalu bertambah"
+      ],
+      "correct_option": 0,
+      "answer": "pola mudah berubah",
+      "difficulty": "medium",
+      "explanation": "Kekencangan simpul berpengaruh pada bentuk karya.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B04-M05",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Mengeksplorasi Simpul dan Berkarya Makrame",
+      "type": "multiple_choice",
+      "question": "Saat memakai gunting, tindakan paling aman ialah ...",
+      "options": [
+        "menyerahkan bagian gagang kepada teman",
+        "melempar ke teman",
+        "menaruh terbuka di tepi meja",
+        "berlari sambil membawa gunting"
+      ],
+      "correct_option": 0,
+      "answer": "menyerahkan bagian gagang kepada teman",
+      "difficulty": "hard",
+      "explanation": "Bagian gagang diberikan ketika menyerahkan gunting.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B04-M06",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Mengeksplorasi Simpul dan Berkarya Makrame",
+      "type": "multiple_choice",
+      "question": "Kerajinan yang paling sesuai dibuat dengan teknik simpul adalah ...",
+      "options": [
+        "gantungan pot",
+        "vas keramik bakar",
+        "gambar cat air",
+        "ukiran batu"
+      ],
+      "correct_option": 0,
+      "answer": "gantungan pot",
+      "difficulty": "easy",
+      "explanation": "Gantungan pot dapat dibuat dari rangkaian simpul.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B04-M07",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Mengeksplorasi Simpul dan Berkarya Makrame",
+      "type": "multiple_choice",
+      "question": "Pola simpul yang diulang dapat menghasilkan ...",
+      "options": [
+        "ritme visual",
+        "suara keras",
+        "listrik",
+        "bau harum"
+      ],
+      "correct_option": 0,
+      "answer": "ritme visual",
+      "difficulty": "medium",
+      "explanation": "Pengulangan simpul membentuk pola teratur.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B04-M08",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Mengeksplorasi Simpul dan Berkarya Makrame",
+      "type": "multiple_choice",
+      "question": "Cara tepat memperbaiki simpul yang salah ialah ...",
+      "options": [
+        "melepas dan mengulangnya",
+        "menyembunyikan tanpa mengecek",
+        "memotong seluruh karya langsung",
+        "membasahi semua simpul"
+      ],
+      "correct_option": 0,
+      "answer": "melepas dan mengulangnya",
+      "difficulty": "hard",
+      "explanation": "Simpul perlu dicek dan diperbaiki.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B05-F01",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Mengeksplorasi dan Berkarya Anyaman",
+      "type": "family100",
+      "question": "Sebutkan bahan yang dapat digunakan untuk latihan menganyam.",
+      "answers": [
+        {
+          "text": "kertas warna",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "daun pandan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "pita",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "bilah bambu",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 5.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B05-F02",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Mengeksplorasi dan Berkarya Anyaman",
+      "type": "family100",
+      "question": "Sebutkan alat untuk membuat anyaman dari kertas.",
+      "answers": [
+        {
+          "text": "gunting",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "penggaris",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "pensil",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "lem",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 5.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B05-F03",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Mengeksplorasi dan Berkarya Anyaman",
+      "type": "family100",
+      "question": "Sebutkan langkah awal membuat anyaman kertas.",
+      "answers": [
+        {
+          "text": "tentukan pola",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "siapkan dua warna kertas",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "buat irisan pada alas",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "potong jalur anyaman",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 5.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B05-F04",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Mengeksplorasi dan Berkarya Anyaman",
+      "type": "family100",
+      "question": "Sebutkan pola warna yang dapat dibuat pada anyaman kertas.",
+      "answers": [
+        {
+          "text": "selang-seling dua warna",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "warna berulang tiga jenis",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "pola terang-gelap",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "pola satu warna dominan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 5.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B05-F05",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Mengeksplorasi dan Berkarya Anyaman",
+      "type": "family100",
+      "question": "Sebutkan benda yang bisa dibuat dengan teknik anyaman.",
+      "answers": [
+        {
+          "text": "tikar",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "keranjang",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "kipas",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "wadah",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 5.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B05-F06",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Mengeksplorasi dan Berkarya Anyaman",
+      "type": "family100",
+      "question": "Sebutkan hal penting saat menyusun jalur anyaman.",
+      "answers": [
+        {
+          "text": "atas-bawah bergantian",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "jarak antarjalur",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "kerapian tepi",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "ketegangan bahan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 5.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B05-F07",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Mengeksplorasi dan Berkarya Anyaman",
+      "type": "family100",
+      "question": "Sebutkan manfaat keterampilan menganyam bagi siswa.",
+      "answers": [
+        {
+          "text": "ketelitian",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "kesabaran",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "koordinasi tangan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "kreativitas",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 5.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B05-F08",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Mengeksplorasi dan Berkarya Anyaman",
+      "type": "family100",
+      "question": "Sebutkan bahan alami yang bisa menjadi bahan anyaman.",
+      "answers": [
+        {
+          "text": "bambu",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "rotan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "pandan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "lontar",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 5.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B05-F09",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Mengeksplorasi dan Berkarya Anyaman",
+      "type": "family100",
+      "question": "Sebutkan ciri anyaman yang baik.",
+      "answers": [
+        {
+          "text": "rapat",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "pola teratur",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "tidak mudah lepas",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "tepi rapi",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 5.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B05-F10",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Mengeksplorasi dan Berkarya Anyaman",
+      "type": "family100",
+      "question": "Sebutkan langkah menjaga keselamatan saat membuat anyaman.",
+      "answers": [
+        {
+          "text": "gunakan gunting dengan benar",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "jaga jarak tangan dari pisau",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "rapikan sisa potongan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "ikuti arahan guru",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 5.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B05-M01",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Mengeksplorasi dan Berkarya Anyaman",
+      "type": "multiple_choice",
+      "question": "Prinsip dasar anyaman yang umum adalah ...",
+      "options": [
+        "jalur atas dan bawah bergantian",
+        "garis semuanya sejajar tanpa silang",
+        "hanya menempel warna",
+        "mewarnai kertas basah"
+      ],
+      "correct_option": 0,
+      "answer": "jalur atas dan bawah bergantian",
+      "difficulty": "medium",
+      "explanation": "Anyaman dibangun dari jalur yang saling menyilang.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B05-M02",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Mengeksplorasi dan Berkarya Anyaman",
+      "type": "multiple_choice",
+      "question": "Bahan yang paling mudah dipakai pemula untuk latihan anyaman adalah ...",
+      "options": [
+        "kertas warna",
+        "kaca pecah",
+        "besi tajam",
+        "batu besar"
+      ],
+      "correct_option": 0,
+      "answer": "kertas warna",
+      "difficulty": "hard",
+      "explanation": "Potongan kertas relatif mudah dianyam.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B05-M03",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Mengeksplorasi dan Berkarya Anyaman",
+      "type": "multiple_choice",
+      "question": "Alat untuk membuat irisan pada kertas anyaman adalah ...",
+      "options": [
+        "gunting dengan pengawasan",
+        "kuas",
+        "penghapus",
+        "kapur tulis"
+      ],
+      "correct_option": 0,
+      "answer": "gunting dengan pengawasan",
+      "difficulty": "easy",
+      "explanation": "Gunting harus dipakai sesuai aturan keselamatan.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B05-M04",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Mengeksplorasi dan Berkarya Anyaman",
+      "type": "multiple_choice",
+      "question": "Jika jalur anyaman terlalu renggang, sebaiknya ...",
+      "options": [
+        "rapatkan jalur dengan hati-hati",
+        "buang semua pola",
+        "putuskan semua jalur",
+        "tumpuk lem berlebihan"
+      ],
+      "correct_option": 0,
+      "answer": "rapatkan jalur dengan hati-hati",
+      "difficulty": "medium",
+      "explanation": "Jalur rapat menghasilkan anyaman lebih rapi.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B05-M05",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Mengeksplorasi dan Berkarya Anyaman",
+      "type": "multiple_choice",
+      "question": "Dalam pola satu atas satu bawah, langkah berikutnya setelah atas ialah ...",
+      "options": [
+        "bawah",
+        "atas lagi",
+        "putus",
+        "lepas seluruhnya"
+      ],
+      "correct_option": 0,
+      "answer": "bawah",
+      "difficulty": "hard",
+      "explanation": "Pola dasar anyaman berselang-seling.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B05-M06",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Mengeksplorasi dan Berkarya Anyaman",
+      "type": "multiple_choice",
+      "question": "Bahan alami untuk kerajinan anyam antara lain ...",
+      "options": [
+        "rotan",
+        "plastik murni baru",
+        "besi beton",
+        "kaca"
+      ],
+      "correct_option": 0,
+      "answer": "rotan",
+      "difficulty": "easy",
+      "explanation": "Rotan sering digunakan sebagai bahan anyaman.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B05-M07",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Mengeksplorasi dan Berkarya Anyaman",
+      "type": "multiple_choice",
+      "question": "Benda yang dapat dibuat dengan anyaman adalah ...",
+      "options": [
+        "keranjang",
+        "buku tulis cetak",
+        "lukisan minyak",
+        "patung batu pahat"
+      ],
+      "correct_option": 0,
+      "answer": "keranjang",
+      "difficulty": "medium",
+      "explanation": "Keranjang dapat dibuat dengan teknik menganyam.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B05-M08",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Mengeksplorasi dan Berkarya Anyaman",
+      "type": "multiple_choice",
+      "question": "Bagian pinggir anyaman perlu dirapikan supaya ...",
+      "options": [
+        "jalur tidak mudah lepas",
+        "warna menjadi transparan",
+        "semua jalur hilang",
+        "bahan berubah logam"
+      ],
+      "correct_option": 0,
+      "answer": "jalur tidak mudah lepas",
+      "difficulty": "hard",
+      "explanation": "Penyelesaian tepi menjaga susunan anyaman.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B06-F01",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Berkarya Seni Rupa dari Limbah",
+      "type": "family100",
+      "question": "Sebutkan contoh limbah rumah tangga yang bersih untuk karya seni.",
+      "answers": [
+        {
+          "text": "botol plastik",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "kardus",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "kertas bekas",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "tutup botol",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 6.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B06-F02",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Berkarya Seni Rupa dari Limbah",
+      "type": "family100",
+      "question": "Sebutkan contoh produk seni dari bahan bekas.",
+      "answers": [
+        {
+          "text": "kolase",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "mozaik",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "hiasan dinding",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "patung sederhana",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 6.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B06-F03",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Berkarya Seni Rupa dari Limbah",
+      "type": "family100",
+      "question": "Sebutkan alat bantu untuk berkarya dari limbah rumah tangga.",
+      "answers": [
+        {
+          "text": "gunting",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "lem",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "penggaris",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "pensil",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 6.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B06-F04",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Berkarya Seni Rupa dari Limbah",
+      "type": "family100",
+      "question": "Sebutkan langkah aman sebelum memakai barang bekas.",
+      "answers": [
+        {
+          "text": "pilah bahan",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "cuci bahan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "keringkan bahan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "periksa bagian tajam",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 6.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B06-F05",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Berkarya Seni Rupa dari Limbah",
+      "type": "family100",
+      "question": "Sebutkan prinsip ramah lingkungan yang berkaitan dengan penggunaan limbah.",
+      "answers": [
+        {
+          "text": "reduce",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "reuse",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "recycle",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "repair",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 6.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B06-F06",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Berkarya Seni Rupa dari Limbah",
+      "type": "family100",
+      "question": "Sebutkan manfaat mengolah limbah menjadi karya.",
+      "answers": [
+        {
+          "text": "mengurangi sampah",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "melatih kreativitas",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "menambah nilai guna",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "membiasakan peduli lingkungan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 6.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B06-F07",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Berkarya Seni Rupa dari Limbah",
+      "type": "family100",
+      "question": "Sebutkan bahan bekas yang cocok untuk kolase.",
+      "answers": [
+        {
+          "text": "majalah bekas",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "koran bekas",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "kertas bungkus",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "potongan karton",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 6.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B06-F08",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Berkarya Seni Rupa dari Limbah",
+      "type": "family100",
+      "question": "Sebutkan benda yang dapat dibuat dari kardus bekas.",
+      "answers": [
+        {
+          "text": "bingkai foto",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "kotak pensil",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "miniatur rumah",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "hiasan meja",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 6.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B06-F09",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Berkarya Seni Rupa dari Limbah",
+      "type": "family100",
+      "question": "Sebutkan cara membuat karya daur ulang lebih menarik.",
+      "answers": [
+        {
+          "text": "kombinasikan warna",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "atur komposisi",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "pilih bentuk",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "rapikan sambungan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 6.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B06-F10",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Berkarya Seni Rupa dari Limbah",
+      "type": "family100",
+      "question": "Sebutkan cara mengelola sisa bahan setelah berkarya.",
+      "answers": [
+        {
+          "text": "pilah sampah",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "gunakan ulang potongan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "buang pada tempatnya",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "bersihkan meja",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 6.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B06-M01",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Berkarya Seni Rupa dari Limbah",
+      "type": "multiple_choice",
+      "question": "Menggunakan botol bekas menjadi pot tanaman merupakan contoh ...",
+      "options": [
+        "reuse",
+        "membuang sampah sembarangan",
+        "pembakaran sampah",
+        "pencemaran"
+      ],
+      "correct_option": 0,
+      "answer": "reuse",
+      "difficulty": "medium",
+      "explanation": "Reuse berarti menggunakan kembali barang.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B06-M02",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Berkarya Seni Rupa dari Limbah",
+      "type": "multiple_choice",
+      "question": "Langkah pertama sebelum berkarya dari kemasan bekas ialah ...",
+      "options": [
+        "membersihkan dan memeriksa keamanannya",
+        "langsung memotong tanpa memeriksa",
+        "mencampur dengan limbah berbahaya",
+        "membakar semua kemasan"
+      ],
+      "correct_option": 0,
+      "answer": "membersihkan dan memeriksa keamanannya",
+      "difficulty": "hard",
+      "explanation": "Bahan harus bersih dan aman digunakan.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B06-M03",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Berkarya Seni Rupa dari Limbah",
+      "type": "multiple_choice",
+      "question": "Susun potongan kertas bekas yang ditempel membentuk gambar disebut ...",
+      "options": [
+        "kolase",
+        "makrame",
+        "anyaman rotan",
+        "ukiran batu"
+      ],
+      "correct_option": 0,
+      "answer": "kolase",
+      "difficulty": "easy",
+      "explanation": "Kolase memakai potongan bahan yang ditempel.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B06-M04",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Berkarya Seni Rupa dari Limbah",
+      "type": "multiple_choice",
+      "question": "Bahan bekas yang paling aman untuk latihan kolase kelas adalah ...",
+      "options": [
+        "potongan kertas bersih",
+        "pecahan kaca",
+        "kaleng bertepi tajam",
+        "limbah medis"
+      ],
+      "correct_option": 0,
+      "answer": "potongan kertas bersih",
+      "difficulty": "medium",
+      "explanation": "Pilih bahan yang tidak tajam dan bersih.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B06-M05",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Berkarya Seni Rupa dari Limbah",
+      "type": "multiple_choice",
+      "question": "Sisa potongan kertas setelah prakarya sebaiknya ...",
+      "options": [
+        "dipilah untuk digunakan kembali atau didaur ulang",
+        "dibuang ke selokan",
+        "dibakar dalam kelas",
+        "ditebar di lantai"
+      ],
+      "correct_option": 0,
+      "answer": "dipilah untuk digunakan kembali atau didaur ulang",
+      "difficulty": "hard",
+      "explanation": "Pemilahan mengurangi sampah.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B06-M06",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Berkarya Seni Rupa dari Limbah",
+      "type": "multiple_choice",
+      "question": "Alasan penting membuat rancangan sebelum menempel bahan adalah ...",
+      "options": [
+        "agar komposisi terencana",
+        "agar tidak perlu alat",
+        "agar bahan menjadi baru",
+        "agar gambar tidak dapat diubah"
+      ],
+      "correct_option": 0,
+      "answer": "agar komposisi terencana",
+      "difficulty": "easy",
+      "explanation": "Rancangan memandu penempatan bahan.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B06-M07",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Berkarya Seni Rupa dari Limbah",
+      "type": "multiple_choice",
+      "question": "Perbedaan reuse dan recycle adalah ...",
+      "options": [
+        "reuse memakai kembali sedangkan recycle mengolah menjadi bahan atau produk baru",
+        "keduanya selalu dibakar",
+        "reuse berarti membuang",
+        "recycle berarti menyimpan di laci"
+      ],
+      "correct_option": 0,
+      "answer": "reuse memakai kembali sedangkan recycle mengolah menjadi bahan atau produk baru",
+      "difficulty": "medium",
+      "explanation": "Reuse memanfaatkan kembali tanpa pengolahan besar; recycle memproses ulang.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B06-M08",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Berkarya Seni Rupa dari Limbah",
+      "type": "multiple_choice",
+      "question": "Benda tajam pada kemasan bekas sebaiknya ...",
+      "options": [
+        "tidak dipakai siswa tanpa penanganan aman",
+        "langsung dipegang tanpa alas",
+        "dilempar ke teman",
+        "dipotong dengan tangan kosong"
+      ],
+      "correct_option": 0,
+      "answer": "tidak dipakai siswa tanpa penanganan aman",
+      "difficulty": "hard",
+      "explanation": "Keselamatan menjadi prioritas bahan limbah.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "F5-ADD-EN-01-01",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "What Delicious Bakso!",
+      "type": "family100",
+      "question": "Which fruits can taste sour?",
+      "answers": [
+        {
+          "text": "lemon",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "lime",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "green mango",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "tamarind",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi What Delicious Bakso!; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-01-02",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "What Delicious Bakso!",
+      "type": "family100",
+      "question": "Which snacks may taste salty?",
+      "answers": [
+        {
+          "text": "chips",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "crackers",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "pretzels",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "popcorn",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban sesuai materi What Delicious Bakso!; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-01-03",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "What Delicious Bakso!",
+      "type": "family100",
+      "question": "Which foods are usually served hot?",
+      "answers": [
+        {
+          "text": "soup",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "bakso",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "porridge",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "noodles",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban sesuai materi What Delicious Bakso!; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-01-04",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "What Delicious Bakso!",
+      "type": "family100",
+      "question": "What foods are commonly fried?",
+      "answers": [
+        {
+          "text": "fried rice",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "fried chicken",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "fried tofu",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "fried fish",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi What Delicious Bakso!; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-01-05",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "What Delicious Bakso!",
+      "type": "family100",
+      "question": "Which drinks can be sweet?",
+      "answers": [
+        {
+          "text": "milkshake",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "fruit juice",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "sweet tea",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "hot chocolate",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban sesuai materi What Delicious Bakso!; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-01-06",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "What Delicious Bakso!",
+      "type": "family100",
+      "question": "What English words can describe food texture?",
+      "answers": [
+        {
+          "text": "crispy",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "soft",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "chewy",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "crunchy",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban sesuai materi What Delicious Bakso!; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-01-07",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "What Delicious Bakso!",
+      "type": "family100",
+      "question": "Which ingredients make food sweet?",
+      "answers": [
+        {
+          "text": "sugar",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "honey",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "syrup",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "caramel",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi What Delicious Bakso!; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-01-08",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "What Delicious Bakso!",
+      "type": "family100",
+      "question": "Name foods that may taste bitter.",
+      "answers": [
+        {
+          "text": "bitter melon",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "dark chocolate",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "coffee",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "some leafy greens",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban sesuai materi What Delicious Bakso!; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-01-09",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "What Delicious Bakso!",
+      "type": "family100",
+      "question": "Name four English sentences to describe a dish.",
+      "answers": [
+        {
+          "text": "It is sweet.",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "It is spicy.",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "It is salty.",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "It is delicious.",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban sesuai materi What Delicious Bakso!; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-01-10",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "What Delicious Bakso!",
+      "type": "family100",
+      "question": "What sweet foods can be served as dessert?",
+      "answers": [
+        {
+          "text": "pudding",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "ice cream",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "cake",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "fruit salad",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi What Delicious Bakso!; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-02-01",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "I Want an Ice Cream Cone",
+      "type": "family100",
+      "question": "What can you drink from a glass?",
+      "answers": [
+        {
+          "text": "water",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "milk",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "juice",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "tea",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi I Want an Ice Cream Cone; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-02-02",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "I Want an Ice Cream Cone",
+      "type": "family100",
+      "question": "What foods can be served in a bowl?",
+      "answers": [
+        {
+          "text": "soup",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "noodles",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "porridge",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "cereal",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban sesuai materi I Want an Ice Cream Cone; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-02-03",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "I Want an Ice Cream Cone",
+      "type": "family100",
+      "question": "What foods can be counted in slices?",
+      "answers": [
+        {
+          "text": "bread",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "pizza",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "cake",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "cheese",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban sesuai materi I Want an Ice Cream Cone; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-02-04",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "I Want an Ice Cream Cone",
+      "type": "family100",
+      "question": "What drinks may be sold in bottles?",
+      "answers": [
+        {
+          "text": "water",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "juice",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "milk",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "tea",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi I Want an Ice Cream Cone; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-02-05",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "I Want an Ice Cream Cone",
+      "type": "family100",
+      "question": "What foods may be sold in packets?",
+      "answers": [
+        {
+          "text": "biscuits",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "chips",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "instant noodles",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "crackers",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban sesuai materi I Want an Ice Cream Cone; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-02-06",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "I Want an Ice Cream Cone",
+      "type": "family100",
+      "question": "Name containers used for drinks.",
+      "answers": [
+        {
+          "text": "glass",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "cup",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "bottle",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "carton",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban sesuai materi I Want an Ice Cream Cone; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-02-07",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "I Want an Ice Cream Cone",
+      "type": "family100",
+      "question": "Name containers used for takeaway food.",
+      "answers": [
+        {
+          "text": "box",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "bag",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "container",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "paper wrapper",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi I Want an Ice Cream Cone; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-02-08",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "I Want an Ice Cream Cone",
+      "type": "family100",
+      "question": "What English quantities describe pieces of food?",
+      "answers": [
+        {
+          "text": "a slice",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "a piece",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "a bowlful",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "a plateful",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban sesuai materi I Want an Ice Cream Cone; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-02-09",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "I Want an Ice Cream Cone",
+      "type": "family100",
+      "question": "Name foods you might order by the piece.",
+      "answers": [
+        {
+          "text": "donut",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "cookie",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "banana",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "muffin",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban sesuai materi I Want an Ice Cream Cone; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-02-10",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "I Want an Ice Cream Cone",
+      "type": "family100",
+      "question": "What words complete “a ___ of water”?",
+      "answers": [
+        {
+          "text": "glass",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "bottle",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "cup",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "jug",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi I Want an Ice Cream Cone; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-03-01",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "How Much Is It?",
+      "type": "family100",
+      "question": "What questions could a customer ask in a shop?",
+      "answers": [
+        {
+          "text": "How much is it?",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "How much are these?",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "Do you have milk?",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "Can I have one?",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi How Much Is It?; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-03-02",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "How Much Is It?",
+      "type": "family100",
+      "question": "Which English words relate to money?",
+      "answers": [
+        {
+          "text": "price",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "change",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "cash",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "cost",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban sesuai materi How Much Is It?; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-03-03",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "How Much Is It?",
+      "type": "family100",
+      "question": "Which items might be sold at a school canteen?",
+      "answers": [
+        {
+          "text": "bread",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "water",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "rice",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "fruit",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban sesuai materi How Much Is It?; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-03-04",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "How Much Is It?",
+      "type": "family100",
+      "question": "Name four numbers commonly used when reading prices.",
+      "answers": [
+        {
+          "text": "ten",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "twenty",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "fifty",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "one hundred",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi How Much Is It?; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-03-05",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "How Much Is It?",
+      "type": "family100",
+      "question": "What can a cashier do?",
+      "answers": [
+        {
+          "text": "tell the price",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "take payment",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "give change",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "give a receipt",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban sesuai materi How Much Is It?; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-03-06",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "How Much Is It?",
+      "type": "family100",
+      "question": "How can a customer pay for food?",
+      "answers": [
+        {
+          "text": "cash",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "bank card",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "QR payment",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "e-wallet",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban sesuai materi How Much Is It?; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-03-07",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "How Much Is It?",
+      "type": "family100",
+      "question": "What expressions can you say after buying something?",
+      "answers": [
+        {
+          "text": "Thank you.",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "Here is the money.",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "Keep the change.",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "Have a nice day.",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi How Much Is It?; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-03-08",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "How Much Is It?",
+      "type": "family100",
+      "question": "What items can have a price tag?",
+      "answers": [
+        {
+          "text": "bag",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "book",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "shirt",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "pencil",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban sesuai materi How Much Is It?; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-03-09",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "How Much Is It?",
+      "type": "family100",
+      "question": "What words can describe prices?",
+      "answers": [
+        {
+          "text": "cheap",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "expensive",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "affordable",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "reasonable",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban sesuai materi How Much Is It?; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-03-10",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "How Much Is It?",
+      "type": "family100",
+      "question": "Name four expressions a seller might use.",
+      "answers": [
+        {
+          "text": "May I help you?",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "It costs ten thousand rupiah.",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "Here is your change.",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "Thank you for shopping.",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi How Much Is It?; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-04-01",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "I've Got a Stomachache",
+      "type": "family100",
+      "question": "What body parts might hurt when someone is ill?",
+      "answers": [
+        {
+          "text": "head",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "stomach",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "throat",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "ear",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi I've Got a Stomachache; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-04-02",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "I've Got a Stomachache",
+      "type": "family100",
+      "question": "What can you do when you have a fever?",
+      "answers": [
+        {
+          "text": "rest",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "drink water",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "tell an adult",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "seek medical help",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban sesuai materi I've Got a Stomachache; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-04-03",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "I've Got a Stomachache",
+      "type": "family100",
+      "question": "Name four common health complaints in English.",
+      "answers": [
+        {
+          "text": "headache",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "stomachache",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "toothache",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "earache",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban sesuai materi I've Got a Stomachache; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-04-04",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "I've Got a Stomachache",
+      "type": "family100",
+      "question": "What questions can you ask someone who feels sick?",
+      "answers": [
+        {
+          "text": "Are you okay?",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "What is wrong?",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "Do you feel sick?",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "Where does it hurt?",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi I've Got a Stomachache; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-04-05",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "I've Got a Stomachache",
+      "type": "family100",
+      "question": "What items can be found in a first-aid kit?",
+      "answers": [
+        {
+          "text": "bandage",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "gauze",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "plaster",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "antiseptic",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban sesuai materi I've Got a Stomachache; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-04-07",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "I've Got a Stomachache",
+      "type": "family100",
+      "question": "What can you say to show sympathy to a sick friend?",
+      "answers": [
+        {
+          "text": "Get well soon.",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "I hope you feel better.",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "Take care.",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "Please rest.",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi I've Got a Stomachache; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-04-08",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "I've Got a Stomachache",
+      "type": "family100",
+      "question": "What symptoms can accompany a cold?",
+      "answers": [
+        {
+          "text": "runny nose",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "cough",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "sneezing",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "sore throat",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban sesuai materi I've Got a Stomachache; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-04-09",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "I've Got a Stomachache",
+      "type": "family100",
+      "question": "What words name medical helpers or places?",
+      "answers": [
+        {
+          "text": "doctor",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "nurse",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "clinic",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "hospital",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban sesuai materi I've Got a Stomachache; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-04-10",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "I've Got a Stomachache",
+      "type": "family100",
+      "question": "Which activities should you avoid when you feel very ill?",
+      "answers": [
+        {
+          "text": "heavy exercise",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "staying up late",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "skipping rest",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "ignoring symptoms",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi I've Got a Stomachache; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-05-01",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "What a Nice Skirt!",
+      "type": "family100",
+      "question": "What clothes can you wear to school?",
+      "answers": [
+        {
+          "text": "shirt",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "trousers",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "skirt",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "shoes",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi What a Nice Skirt!; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-05-02",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "What a Nice Skirt!",
+      "type": "family100",
+      "question": "Which clothes protect you in rainy weather?",
+      "answers": [
+        {
+          "text": "raincoat",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "waterproof jacket",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "boots",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "hood",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban sesuai materi What a Nice Skirt!; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-05-03",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "What a Nice Skirt!",
+      "type": "family100",
+      "question": "Name clothing colours in English.",
+      "answers": [
+        {
+          "text": "red",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "blue",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "green",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "yellow",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban sesuai materi What a Nice Skirt!; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-05-04",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "What a Nice Skirt!",
+      "type": "family100",
+      "question": "Which accessories might someone wear?",
+      "answers": [
+        {
+          "text": "hat",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "belt",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "scarf",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "watch",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi What a Nice Skirt!; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-05-05",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "What a Nice Skirt!",
+      "type": "family100",
+      "question": "What words describe clothing size?",
+      "answers": [
+        {
+          "text": "small",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "medium",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "large",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "extra large",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban sesuai materi What a Nice Skirt!; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-05-06",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "What a Nice Skirt!",
+      "type": "family100",
+      "question": "Which adjectives describe a nice outfit?",
+      "answers": [
+        {
+          "text": "beautiful",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "colourful",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "neat",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "comfortable",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban sesuai materi What a Nice Skirt!; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-05-07",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "What a Nice Skirt!",
+      "type": "family100",
+      "question": "Name clothing made to keep you warm.",
+      "answers": [
+        {
+          "text": "sweater",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "jacket",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "coat",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "hoodie",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi What a Nice Skirt!; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-05-08",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "What a Nice Skirt!",
+      "type": "family100",
+      "question": "What clothes are worn for sports?",
+      "answers": [
+        {
+          "text": "sports shirt",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "shorts",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "trainers",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "tracksuit",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban sesuai materi What a Nice Skirt!; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-05-09",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "What a Nice Skirt!",
+      "type": "family100",
+      "question": "What phrases could compliment a friend’s outfit?",
+      "answers": [
+        {
+          "text": "What a nice skirt!",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "Your shirt looks great!",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "I like your shoes.",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "Your hat is lovely.",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban sesuai materi What a Nice Skirt!; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-05-10",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "What a Nice Skirt!",
+      "type": "family100",
+      "question": "What parts of a uniform can have a colour?",
+      "answers": [
+        {
+          "text": "shirt",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "trousers",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "skirt",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "tie",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi What a Nice Skirt!; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-06-01",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Parts of Our Body That Work Together",
+      "type": "family100",
+      "question": "What body parts help us move?",
+      "answers": [
+        {
+          "text": "legs",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "feet",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "arms",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "hands",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi Parts of Our Body That Work Together; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-06-02",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Parts of Our Body That Work Together",
+      "type": "family100",
+      "question": "What sense organs help us understand our surroundings?",
+      "answers": [
+        {
+          "text": "eyes",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "ears",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "nose",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "tongue",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban sesuai materi Parts of Our Body That Work Together; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-06-03",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Parts of Our Body That Work Together",
+      "type": "family100",
+      "question": "Which body parts help us eat?",
+      "answers": [
+        {
+          "text": "mouth",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "teeth",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "tongue",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "jaw",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban sesuai materi Parts of Our Body That Work Together; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-06-04",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Parts of Our Body That Work Together",
+      "type": "family100",
+      "question": "Which body parts help us pick up a pencil?",
+      "answers": [
+        {
+          "text": "fingers",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "thumb",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "hand",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "arm",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi Parts of Our Body That Work Together; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-06-05",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Parts of Our Body That Work Together",
+      "type": "family100",
+      "question": "What actions can you do with your hands?",
+      "answers": [
+        {
+          "text": "write",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "clap",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "hold",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "wave",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban sesuai materi Parts of Our Body That Work Together; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-06-06",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Parts of Our Body That Work Together",
+      "type": "family100",
+      "question": "What can our eyes help us notice?",
+      "answers": [
+        {
+          "text": "colours",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "shapes",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "movement",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "distance",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban sesuai materi Parts of Our Body That Work Together; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-06-07",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Parts of Our Body That Work Together",
+      "type": "family100",
+      "question": "What can our ears help us notice?",
+      "answers": [
+        {
+          "text": "speech",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "music",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "alarms",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "animal sounds",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi Parts of Our Body That Work Together; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-06-08",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Parts of Our Body That Work Together",
+      "type": "family100",
+      "question": "Name body parts on your face.",
+      "answers": [
+        {
+          "text": "nose",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "eyes",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "mouth",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "ears",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban sesuai materi Parts of Our Body That Work Together; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-06-09",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Parts of Our Body That Work Together",
+      "type": "family100",
+      "question": "What everyday actions need more than one body part?",
+      "answers": [
+        {
+          "text": "walking",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "writing",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "eating",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "swimming",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban sesuai materi Parts of Our Body That Work Together; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-06-10",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Parts of Our Body That Work Together",
+      "type": "family100",
+      "question": "Name ways to take care of your body.",
+      "answers": [
+        {
+          "text": "exercise",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "healthy meals",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "good sleep",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "cleanliness",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi Parts of Our Body That Work Together; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-07-01",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "How Tall Are You?",
+      "type": "family100",
+      "question": "Which words describe a person’s height?",
+      "answers": [
+        {
+          "text": "tall",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "short",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "average height",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "very tall",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi How Tall Are You?; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-07-02",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "How Tall Are You?",
+      "type": "family100",
+      "question": "What tools can measure length?",
+      "answers": [
+        {
+          "text": "ruler",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "measuring tape",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "metre stick",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "stadiometer",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban sesuai materi How Tall Are You?; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-07-03",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "How Tall Are You?",
+      "type": "family100",
+      "question": "What units can measure height?",
+      "answers": [
+        {
+          "text": "centimetres",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "metres",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "feet",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "inches",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban sesuai materi How Tall Are You?; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-07-04",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "How Tall Are You?",
+      "type": "family100",
+      "question": "What words describe someone’s hair?",
+      "answers": [
+        {
+          "text": "long",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "short",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "curly",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "straight",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi How Tall Are You?; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-07-05",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "How Tall Are You?",
+      "type": "family100",
+      "question": "What can you use to describe a person?",
+      "answers": [
+        {
+          "text": "height",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "hair",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "eyes",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "clothes",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban sesuai materi How Tall Are You?; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-07-06",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "How Tall Are You?",
+      "type": "family100",
+      "question": "What questions can you ask about height?",
+      "answers": [
+        {
+          "text": "How tall are you?",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "How tall is he?",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "How tall is she?",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "How tall is the tree?",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban sesuai materi How Tall Are You?; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-07-07",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "How Tall Are You?",
+      "type": "family100",
+      "question": "What things can be measured in centimetres?",
+      "answers": [
+        {
+          "text": "pencil",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "book",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "table",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "child’s height",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban sesuai materi How Tall Are You?; guru dapat mendiskusikan variasi jawaban lain yang benar.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan edukatif, bukan hasil survei."
+    },
+    {
+      "id": "F5-ADD-EN-07-08",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "How Tall Are You?",
+      "type": "family100",
+      "question": "What things are often measured in metres?",
+      "answers": [
+        {
+          "text": "door",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "height of a tree",
+          "aliases": [],
+          "points": 25
+        },
+        {
