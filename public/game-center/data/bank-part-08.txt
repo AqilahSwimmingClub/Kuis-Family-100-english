@@ -1,0 +1,2612 @@
+          "text": "hidung"
+        },
+        {
+          "label": "C",
+          "text": "kulit"
+        },
+        {
+          "label": "D",
+          "text": "jari tangan"
+        }
+      ],
+      "correct_answer": "A",
+      "correct_text": "lambung",
+      "difficulty": "medium",
+      "explanation": "“stomach” berarti “lambung”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-06-V12",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Parts of Our Body That Work Together",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “skin” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "mata"
+        },
+        {
+          "label": "B",
+          "text": "kulit"
+        },
+        {
+          "label": "C",
+          "text": "siku"
+        },
+        {
+          "label": "D",
+          "text": "lidah"
+        }
+      ],
+      "correct_answer": "B",
+      "correct_text": "kulit",
+      "difficulty": "hard",
+      "explanation": "“skin” berarti “kulit”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-07-V01",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "How Tall Are You?",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “tall” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "meter"
+        },
+        {
+          "label": "B",
+          "text": "pita ukur"
+        },
+        {
+          "label": "C",
+          "text": "tinggi"
+        },
+        {
+          "label": "D",
+          "text": "pendek"
+        }
+      ],
+      "correct_answer": "C",
+      "correct_text": "tinggi",
+      "difficulty": "easy",
+      "explanation": "“tall” berarti “tinggi”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-07-V02",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "How Tall Are You?",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “short” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Berapa tinggi badanmu?"
+        },
+        {
+          "label": "B",
+          "text": "pendek"
+        },
+        {
+          "label": "C",
+          "text": "tinggi badan"
+        },
+        {
+          "label": "D",
+          "text": "rambut keriting"
+        }
+      ],
+      "correct_answer": "B",
+      "correct_text": "pendek",
+      "difficulty": "medium",
+      "explanation": "“short” berarti “pendek”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-07-V03",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "How Tall Are You?",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “height” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "sentimeter"
+        },
+        {
+          "label": "B",
+          "text": "rambut lurus"
+        },
+        {
+          "label": "C",
+          "text": "sama tinggi"
+        },
+        {
+          "label": "D",
+          "text": "tinggi badan"
+        }
+      ],
+      "correct_answer": "D",
+      "correct_text": "tinggi badan",
+      "difficulty": "hard",
+      "explanation": "“height” berarti “tinggi badan”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-07-V04",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "How Tall Are You?",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “centimetre” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "pita ukur"
+        },
+        {
+          "label": "B",
+          "text": "panjang"
+        },
+        {
+          "label": "C",
+          "text": "meter"
+        },
+        {
+          "label": "D",
+          "text": "sentimeter"
+        }
+      ],
+      "correct_answer": "D",
+      "correct_text": "sentimeter",
+      "difficulty": "easy",
+      "explanation": "“centimetre” berarti “sentimeter”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-07-V05",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "How Tall Are You?",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “metre” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "meter"
+        },
+        {
+          "label": "B",
+          "text": "rambut keriting"
+        },
+        {
+          "label": "C",
+          "text": "mengukur"
+        },
+        {
+          "label": "D",
+          "text": "Berapa tinggi badanmu?"
+        }
+      ],
+      "correct_answer": "A",
+      "correct_text": "meter",
+      "difficulty": "medium",
+      "explanation": "“metre” berarti “meter”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-07-V06",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "How Tall Are You?",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “curly hair” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "tinggi"
+        },
+        {
+          "label": "B",
+          "text": "rambut lurus"
+        },
+        {
+          "label": "C",
+          "text": "rambut keriting"
+        },
+        {
+          "label": "D",
+          "text": "sama tinggi"
+        }
+      ],
+      "correct_answer": "C",
+      "correct_text": "rambut keriting",
+      "difficulty": "hard",
+      "explanation": "“curly hair” berarti “rambut keriting”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-07-V07",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "How Tall Are You?",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “straight hair” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "rambut lurus"
+        },
+        {
+          "label": "B",
+          "text": "pita ukur"
+        },
+        {
+          "label": "C",
+          "text": "pendek"
+        },
+        {
+          "label": "D",
+          "text": "panjang"
+        }
+      ],
+      "correct_answer": "A",
+      "correct_text": "rambut lurus",
+      "difficulty": "easy",
+      "explanation": "“straight hair” berarti “rambut lurus”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-07-V08",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "How Tall Are You?",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “measuring tape” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "tinggi badan"
+        },
+        {
+          "label": "B",
+          "text": "Berapa tinggi badanmu?"
+        },
+        {
+          "label": "C",
+          "text": "mengukur"
+        },
+        {
+          "label": "D",
+          "text": "pita ukur"
+        }
+      ],
+      "correct_answer": "D",
+      "correct_text": "pita ukur",
+      "difficulty": "medium",
+      "explanation": "“measuring tape” berarti “pita ukur”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-07-V09",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "How Tall Are You?",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “How tall are you?” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "sentimeter"
+        },
+        {
+          "label": "B",
+          "text": "sama tinggi"
+        },
+        {
+          "label": "C",
+          "text": "tinggi"
+        },
+        {
+          "label": "D",
+          "text": "Berapa tinggi badanmu?"
+        }
+      ],
+      "correct_answer": "D",
+      "correct_text": "Berapa tinggi badanmu?",
+      "difficulty": "hard",
+      "explanation": "“How tall are you?” berarti “Berapa tinggi badanmu?”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-07-V10",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "How Tall Are You?",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “same height” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "panjang"
+        },
+        {
+          "label": "B",
+          "text": "meter"
+        },
+        {
+          "label": "C",
+          "text": "sama tinggi"
+        },
+        {
+          "label": "D",
+          "text": "pendek"
+        }
+      ],
+      "correct_answer": "C",
+      "correct_text": "sama tinggi",
+      "difficulty": "easy",
+      "explanation": "“same height” berarti “sama tinggi”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-07-V11",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "How Tall Are You?",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “length” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "panjang"
+        },
+        {
+          "label": "B",
+          "text": "mengukur"
+        },
+        {
+          "label": "C",
+          "text": "tinggi badan"
+        },
+        {
+          "label": "D",
+          "text": "rambut keriting"
+        }
+      ],
+      "correct_answer": "A",
+      "correct_text": "panjang",
+      "difficulty": "medium",
+      "explanation": "“length” berarti “panjang”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-07-V12",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "How Tall Are You?",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “measure” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "mengukur"
+        },
+        {
+          "label": "B",
+          "text": "sentimeter"
+        },
+        {
+          "label": "C",
+          "text": "tinggi"
+        },
+        {
+          "label": "D",
+          "text": "rambut lurus"
+        }
+      ],
+      "correct_answer": "A",
+      "correct_text": "mengukur",
+      "difficulty": "hard",
+      "explanation": "“measure” berarti “mengukur”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-08-V01",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "The Giraffe Is Taller Than the Deer",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “taller” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "lebih pendek"
+        },
+        {
+          "label": "B",
+          "text": "lebih tinggi"
+        },
+        {
+          "label": "C",
+          "text": "lebih besar"
+        },
+        {
+          "label": "D",
+          "text": "lebih muda"
+        }
+      ],
+      "correct_answer": "B",
+      "correct_text": "lebih tinggi",
+      "difficulty": "easy",
+      "explanation": "“taller” berarti “lebih tinggi”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-08-V02",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "The Giraffe Is Taller Than the Deer",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “shorter” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "lebih kecil"
+        },
+        {
+          "label": "B",
+          "text": "lebih cepat"
+        },
+        {
+          "label": "C",
+          "text": "lebih berat"
+        },
+        {
+          "label": "D",
+          "text": "lebih pendek"
+        }
+      ],
+      "correct_answer": "D",
+      "correct_text": "lebih pendek",
+      "difficulty": "medium",
+      "explanation": "“shorter” berarti “lebih pendek”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-08-V03",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "The Giraffe Is Taller Than the Deer",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “faster” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "lebih cepat"
+        },
+        {
+          "label": "B",
+          "text": "lebih ringan"
+        },
+        {
+          "label": "C",
+          "text": "lebih tua"
+        },
+        {
+          "label": "D",
+          "text": "lebih lambat"
+        }
+      ],
+      "correct_answer": "A",
+      "correct_text": "lebih cepat",
+      "difficulty": "hard",
+      "explanation": "“faster” berarti “lebih cepat”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-08-V04",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "The Giraffe Is Taller Than the Deer",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “slower” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "lebih muda"
+        },
+        {
+          "label": "B",
+          "text": "lebih besar"
+        },
+        {
+          "label": "C",
+          "text": "lebih baik"
+        },
+        {
+          "label": "D",
+          "text": "lebih lambat"
+        }
+      ],
+      "correct_answer": "D",
+      "correct_text": "lebih lambat",
+      "difficulty": "easy",
+      "explanation": "“slower” berarti “lebih lambat”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-08-V05",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "The Giraffe Is Taller Than the Deer",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “bigger” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "lebih besar"
+        },
+        {
+          "label": "B",
+          "text": "lebih kecil"
+        },
+        {
+          "label": "C",
+          "text": "lebih berat"
+        },
+        {
+          "label": "D",
+          "text": "lebih buruk"
+        }
+      ],
+      "correct_answer": "A",
+      "correct_text": "lebih besar",
+      "difficulty": "medium",
+      "explanation": "“bigger” berarti “lebih besar”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-08-V06",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "The Giraffe Is Taller Than the Deer",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “smaller” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "lebih tua"
+        },
+        {
+          "label": "B",
+          "text": "lebih ringan"
+        },
+        {
+          "label": "C",
+          "text": "lebih kecil"
+        },
+        {
+          "label": "D",
+          "text": "lebih tinggi"
+        }
+      ],
+      "correct_answer": "C",
+      "correct_text": "lebih kecil",
+      "difficulty": "hard",
+      "explanation": "“smaller” berarti “lebih kecil”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-08-V07",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "The Giraffe Is Taller Than the Deer",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “older” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "lebih baik"
+        },
+        {
+          "label": "B",
+          "text": "lebih muda"
+        },
+        {
+          "label": "C",
+          "text": "lebih tua"
+        },
+        {
+          "label": "D",
+          "text": "lebih pendek"
+        }
+      ],
+      "correct_answer": "C",
+      "correct_text": "lebih tua",
+      "difficulty": "easy",
+      "explanation": "“older” berarti “lebih tua”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-08-V08",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "The Giraffe Is Taller Than the Deer",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “younger” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "lebih berat"
+        },
+        {
+          "label": "B",
+          "text": "lebih muda"
+        },
+        {
+          "label": "C",
+          "text": "lebih cepat"
+        },
+        {
+          "label": "D",
+          "text": "lebih buruk"
+        }
+      ],
+      "correct_answer": "B",
+      "correct_text": "lebih muda",
+      "difficulty": "medium",
+      "explanation": "“younger” berarti “lebih muda”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-08-V09",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "The Giraffe Is Taller Than the Deer",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “heavier” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "lebih berat"
+        },
+        {
+          "label": "B",
+          "text": "lebih lambat"
+        },
+        {
+          "label": "C",
+          "text": "lebih ringan"
+        },
+        {
+          "label": "D",
+          "text": "lebih tinggi"
+        }
+      ],
+      "correct_answer": "A",
+      "correct_text": "lebih berat",
+      "difficulty": "hard",
+      "explanation": "“heavier” berarti “lebih berat”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-08-V10",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "The Giraffe Is Taller Than the Deer",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “lighter” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "lebih pendek"
+        },
+        {
+          "label": "B",
+          "text": "lebih besar"
+        },
+        {
+          "label": "C",
+          "text": "lebih baik"
+        },
+        {
+          "label": "D",
+          "text": "lebih ringan"
+        }
+      ],
+      "correct_answer": "D",
+      "correct_text": "lebih ringan",
+      "difficulty": "easy",
+      "explanation": "“lighter” berarti “lebih ringan”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-08-V11",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "The Giraffe Is Taller Than the Deer",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “better” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "lebih buruk"
+        },
+        {
+          "label": "B",
+          "text": "lebih cepat"
+        },
+        {
+          "label": "C",
+          "text": "lebih baik"
+        },
+        {
+          "label": "D",
+          "text": "lebih kecil"
+        }
+      ],
+      "correct_answer": "C",
+      "correct_text": "lebih baik",
+      "difficulty": "medium",
+      "explanation": "“better” berarti “lebih baik”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-08-V12",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "The Giraffe Is Taller Than the Deer",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “worse” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "lebih lambat"
+        },
+        {
+          "label": "B",
+          "text": "lebih tinggi"
+        },
+        {
+          "label": "C",
+          "text": "lebih tua"
+        },
+        {
+          "label": "D",
+          "text": "lebih buruk"
+        }
+      ],
+      "correct_answer": "D",
+      "correct_text": "lebih buruk",
+      "difficulty": "hard",
+      "explanation": "“worse” berarti “lebih buruk”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-09-V01",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "The Elephant Is the Biggest",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “biggest” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "paling cepat"
+        },
+        {
+          "label": "B",
+          "text": "paling besar"
+        },
+        {
+          "label": "C",
+          "text": "paling muda"
+        },
+        {
+          "label": "D",
+          "text": "paling kecil"
+        }
+      ],
+      "correct_answer": "B",
+      "correct_text": "paling besar",
+      "difficulty": "easy",
+      "explanation": "“biggest” berarti “paling besar”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-09-V02",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "The Elephant Is the Biggest",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “smallest” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "paling kecil"
+        },
+        {
+          "label": "B",
+          "text": "paling tinggi"
+        },
+        {
+          "label": "C",
+          "text": "paling lambat"
+        },
+        {
+          "label": "D",
+          "text": "terbaik"
+        }
+      ],
+      "correct_answer": "A",
+      "correct_text": "paling kecil",
+      "difficulty": "medium",
+      "explanation": "“smallest” berarti “paling kecil”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-09-V03",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "The Elephant Is the Biggest",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “tallest” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "paling tinggi"
+        },
+        {
+          "label": "B",
+          "text": "paling pendek"
+        },
+        {
+          "label": "C",
+          "text": "terburuk"
+        },
+        {
+          "label": "D",
+          "text": "paling tua"
+        }
+      ],
+      "correct_answer": "A",
+      "correct_text": "paling tinggi",
+      "difficulty": "hard",
+      "explanation": "“tallest” berarti “paling tinggi”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-09-V04",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "The Elephant Is the Biggest",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “shortest” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "paling cepat"
+        },
+        {
+          "label": "B",
+          "text": "paling berat"
+        },
+        {
+          "label": "C",
+          "text": "paling muda"
+        },
+        {
+          "label": "D",
+          "text": "paling pendek"
+        }
+      ],
+      "correct_answer": "D",
+      "correct_text": "paling pendek",
+      "difficulty": "easy",
+      "explanation": "“shortest” berarti “paling pendek”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-09-V05",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "The Elephant Is the Biggest",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “fastest” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "paling cepat"
+        },
+        {
+          "label": "B",
+          "text": "paling lambat"
+        },
+        {
+          "label": "C",
+          "text": "paling ringan"
+        },
+        {
+          "label": "D",
+          "text": "terbaik"
+        }
+      ],
+      "correct_answer": "A",
+      "correct_text": "paling cepat",
+      "difficulty": "medium",
+      "explanation": "“fastest” berarti “paling cepat”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-09-V06",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "The Elephant Is the Biggest",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “slowest” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "paling lambat"
+        },
+        {
+          "label": "B",
+          "text": "paling besar"
+        },
+        {
+          "label": "C",
+          "text": "paling tua"
+        },
+        {
+          "label": "D",
+          "text": "terburuk"
+        }
+      ],
+      "correct_answer": "A",
+      "correct_text": "paling lambat",
+      "difficulty": "hard",
+      "explanation": "“slowest” berarti “paling lambat”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-09-V07",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "The Elephant Is the Biggest",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “oldest” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "paling kecil"
+        },
+        {
+          "label": "B",
+          "text": "paling berat"
+        },
+        {
+          "label": "C",
+          "text": "paling muda"
+        },
+        {
+          "label": "D",
+          "text": "paling tua"
+        }
+      ],
+      "correct_answer": "D",
+      "correct_text": "paling tua",
+      "difficulty": "easy",
+      "explanation": "“oldest” berarti “paling tua”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-09-V08",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "The Elephant Is the Biggest",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “youngest” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "terbaik"
+        },
+        {
+          "label": "B",
+          "text": "paling ringan"
+        },
+        {
+          "label": "C",
+          "text": "paling muda"
+        },
+        {
+          "label": "D",
+          "text": "paling tinggi"
+        }
+      ],
+      "correct_answer": "C",
+      "correct_text": "paling muda",
+      "difficulty": "medium",
+      "explanation": "“youngest” berarti “paling muda”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-09-V09",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "The Elephant Is the Biggest",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “best” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "paling besar"
+        },
+        {
+          "label": "B",
+          "text": "paling pendek"
+        },
+        {
+          "label": "C",
+          "text": "terburuk"
+        },
+        {
+          "label": "D",
+          "text": "terbaik"
+        }
+      ],
+      "correct_answer": "D",
+      "correct_text": "terbaik",
+      "difficulty": "hard",
+      "explanation": "“best” berarti “terbaik”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-09-V10",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "The Elephant Is the Biggest",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “worst” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "terburuk"
+        },
+        {
+          "label": "B",
+          "text": "paling cepat"
+        },
+        {
+          "label": "C",
+          "text": "paling kecil"
+        },
+        {
+          "label": "D",
+          "text": "paling berat"
+        }
+      ],
+      "correct_answer": "A",
+      "correct_text": "terburuk",
+      "difficulty": "easy",
+      "explanation": "“worst” berarti “terburuk”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-09-V11",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "The Elephant Is the Biggest",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “heaviest” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "paling ringan"
+        },
+        {
+          "label": "B",
+          "text": "paling berat"
+        },
+        {
+          "label": "C",
+          "text": "paling tinggi"
+        },
+        {
+          "label": "D",
+          "text": "paling lambat"
+        }
+      ],
+      "correct_answer": "B",
+      "correct_text": "paling berat",
+      "difficulty": "medium",
+      "explanation": "“heaviest” berarti “paling berat”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-09-V12",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "The Elephant Is the Biggest",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “lightest” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "paling ringan"
+        },
+        {
+          "label": "B",
+          "text": "paling pendek"
+        },
+        {
+          "label": "C",
+          "text": "paling besar"
+        },
+        {
+          "label": "D",
+          "text": "paling tua"
+        }
+      ],
+      "correct_answer": "A",
+      "correct_text": "paling ringan",
+      "difficulty": "hard",
+      "explanation": "“lightest” berarti “paling ringan”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-10-V01",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 10,
+      "chapter_title": "I Like Playing Balap Karung",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “sack race” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "tarik tambang"
+        },
+        {
+          "label": "B",
+          "text": "balap karung"
+        },
+        {
+          "label": "C",
+          "text": "melompat"
+        },
+        {
+          "label": "D",
+          "text": "melempar"
+        }
+      ],
+      "correct_answer": "B",
+      "correct_text": "balap karung",
+      "difficulty": "easy",
+      "explanation": "“sack race” berarti “balap karung”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-10-V02",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 10,
+      "chapter_title": "I Like Playing Balap Karung",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “tug of war” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "kelereng"
+        },
+        {
+          "label": "B",
+          "text": "berlari"
+        },
+        {
+          "label": "C",
+          "text": "menang"
+        },
+        {
+          "label": "D",
+          "text": "tarik tambang"
+        }
+      ],
+      "correct_answer": "D",
+      "correct_text": "tarik tambang",
+      "difficulty": "medium",
+      "explanation": "“tug of war” berarti “tarik tambang”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-10-V03",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 10,
+      "chapter_title": "I Like Playing Balap Karung",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “marbles” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "engklek"
+        },
+        {
+          "label": "B",
+          "text": "menangkap"
+        },
+        {
+          "label": "C",
+          "text": "kelereng"
+        },
+        {
+          "label": "D",
+          "text": "kalah"
+        }
+      ],
+      "correct_answer": "C",
+      "correct_text": "kelereng",
+      "difficulty": "hard",
+      "explanation": "“marbles” berarti “kelereng”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-10-V04",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 10,
+      "chapter_title": "I Like Playing Balap Karung",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “hopscotch” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "engklek"
+        },
+        {
+          "label": "B",
+          "text": "melompat"
+        },
+        {
+          "label": "C",
+          "text": "melempar"
+        },
+        {
+          "label": "D",
+          "text": "Agustus"
+        }
+      ],
+      "correct_answer": "A",
+      "correct_text": "engklek",
+      "difficulty": "easy",
+      "explanation": "“hopscotch” berarti “engklek”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-10-V05",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 10,
+      "chapter_title": "I Like Playing Balap Karung",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “jump” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "berlari"
+        },
+        {
+          "label": "B",
+          "text": "menang"
+        },
+        {
+          "label": "C",
+          "text": "melompat"
+        },
+        {
+          "label": "D",
+          "text": "perlombaan"
+        }
+      ],
+      "correct_answer": "C",
+      "correct_text": "melompat",
+      "difficulty": "medium",
+      "explanation": "“jump” berarti “melompat”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-10-V06",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 10,
+      "chapter_title": "I Like Playing Balap Karung",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “run” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "berlari"
+        },
+        {
+          "label": "B",
+          "text": "kalah"
+        },
+        {
+          "label": "C",
+          "text": "menangkap"
+        },
+        {
+          "label": "D",
+          "text": "balap karung"
+        }
+      ],
+      "correct_answer": "A",
+      "correct_text": "berlari",
+      "difficulty": "hard",
+      "explanation": "“run” berarti “berlari”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-10-V07",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 10,
+      "chapter_title": "I Like Playing Balap Karung",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “catch” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "melempar"
+        },
+        {
+          "label": "B",
+          "text": "tarik tambang"
+        },
+        {
+          "label": "C",
+          "text": "menangkap"
+        },
+        {
+          "label": "D",
+          "text": "Agustus"
+        }
+      ],
+      "correct_answer": "C",
+      "correct_text": "menangkap",
+      "difficulty": "easy",
+      "explanation": "“catch” berarti “menangkap”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-10-V08",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 10,
+      "chapter_title": "I Like Playing Balap Karung",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “throw” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "menang"
+        },
+        {
+          "label": "B",
+          "text": "kelereng"
+        },
+        {
+          "label": "C",
+          "text": "perlombaan"
+        },
+        {
+          "label": "D",
+          "text": "melempar"
+        }
+      ],
+      "correct_answer": "D",
+      "correct_text": "melempar",
+      "difficulty": "medium",
+      "explanation": "“throw” berarti “melempar”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-10-V09",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 10,
+      "chapter_title": "I Like Playing Balap Karung",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “win” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "balap karung"
+        },
+        {
+          "label": "B",
+          "text": "menang"
+        },
+        {
+          "label": "C",
+          "text": "kalah"
+        },
+        {
+          "label": "D",
+          "text": "engklek"
+        }
+      ],
+      "correct_answer": "B",
+      "correct_text": "menang",
+      "difficulty": "hard",
+      "explanation": "“win” berarti “menang”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-10-V10",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 10,
+      "chapter_title": "I Like Playing Balap Karung",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “lose” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "tarik tambang"
+        },
+        {
+          "label": "B",
+          "text": "melompat"
+        },
+        {
+          "label": "C",
+          "text": "kalah"
+        },
+        {
+          "label": "D",
+          "text": "Agustus"
+        }
+      ],
+      "correct_answer": "C",
+      "correct_text": "kalah",
+      "difficulty": "easy",
+      "explanation": "“lose” berarti “kalah”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-10-V11",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 10,
+      "chapter_title": "I Like Playing Balap Karung",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “August” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "berlari"
+        },
+        {
+          "label": "B",
+          "text": "Agustus"
+        },
+        {
+          "label": "C",
+          "text": "kelereng"
+        },
+        {
+          "label": "D",
+          "text": "perlombaan"
+        }
+      ],
+      "correct_answer": "B",
+      "correct_text": "Agustus",
+      "difficulty": "medium",
+      "explanation": "“August” berarti “Agustus”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-EN-10-V12",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 10,
+      "chapter_title": "I Like Playing Balap Karung",
+      "type": "multiple_choice",
+      "question": "Apa arti ungkapan bahasa Inggris “competition” dalam bahasa Indonesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "menangkap"
+        },
+        {
+          "label": "B",
+          "text": "perlombaan"
+        },
+        {
+          "label": "C",
+          "text": "balap karung"
+        },
+        {
+          "label": "D",
+          "text": "engklek"
+        }
+      ],
+      "correct_answer": "B",
+      "correct_text": "perlombaan",
+      "difficulty": "hard",
+      "explanation": "“competition” berarti “perlombaan”.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-KA-01-MC01",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Berpikir Komputasi dalam Kehidupan",
+      "type": "multiple_choice",
+      "question": "Teknik memecah masalah kompleks menjadi bagian kecil disebut ...",
+      "options": [
+        {
+          "label": "A",
+          "text": "enkripsi"
+        },
+        {
+          "label": "B",
+          "text": "dekomposisi"
+        },
+        {
+          "label": "C",
+          "text": "abstraksi"
+        },
+        {
+          "label": "D",
+          "text": "visualisasi"
+        }
+      ],
+      "correct_answer": "B",
+      "correct_text": "dekomposisi",
+      "difficulty": "easy",
+      "explanation": "Jawaban: dekomposisi.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-KA-01-MC02",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Berpikir Komputasi dalam Kehidupan",
+      "type": "multiple_choice",
+      "question": "Pola berulang dikenali melalui ...",
+      "options": [
+        {
+          "label": "A",
+          "text": "pengenalan pola"
+        },
+        {
+          "label": "B",
+          "text": "pencetakan"
+        },
+        {
+          "label": "C",
+          "text": "enkripsi"
+        },
+        {
+          "label": "D",
+          "text": "penghapusan data"
+        }
+      ],
+      "correct_answer": "A",
+      "correct_text": "pengenalan pola",
+      "difficulty": "medium",
+      "explanation": "Jawaban: pengenalan pola.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-KA-01-MC03",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Berpikir Komputasi dalam Kehidupan",
+      "type": "multiple_choice",
+      "question": "Langkah terurut untuk menyelesaikan masalah disebut ...",
+      "options": [
+        {
+          "label": "A",
+          "text": "warna"
+        },
+        {
+          "label": "B",
+          "text": "monitor"
+        },
+        {
+          "label": "C",
+          "text": "folder"
+        },
+        {
+          "label": "D",
+          "text": "algoritma"
+        }
+      ],
+      "correct_answer": "D",
+      "correct_text": "algoritma",
+      "difficulty": "hard",
+      "explanation": "Jawaban: algoritma.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-KA-01-MC04",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Berpikir Komputasi dalam Kehidupan",
+      "type": "multiple_choice",
+      "question": "Memilih informasi penting dan mengabaikan rincian tidak relevan disebut ...",
+      "options": [
+        {
+          "label": "A",
+          "text": "sinkronisasi"
+        },
+        {
+          "label": "B",
+          "text": "dekomposisi"
+        },
+        {
+          "label": "C",
+          "text": "abstraksi"
+        },
+        {
+          "label": "D",
+          "text": "pencetakan"
+        }
+      ],
+      "correct_answer": "C",
+      "correct_text": "abstraksi",
+      "difficulty": "easy",
+      "explanation": "Jawaban: abstraksi.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-KA-01-MC05",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Berpikir Komputasi dalam Kehidupan",
+      "type": "multiple_choice",
+      "question": "Masukan dalam algoritma disebut ...",
+      "options": [
+        {
+          "label": "A",
+          "text": "monitor"
+        },
+        {
+          "label": "B",
+          "text": "input"
+        },
+        {
+          "label": "C",
+          "text": "output"
+        },
+        {
+          "label": "D",
+          "text": "error"
+        }
+      ],
+      "correct_answer": "B",
+      "correct_text": "input",
+      "difficulty": "medium",
+      "explanation": "Jawaban: input.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-KA-01-MC06",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Berpikir Komputasi dalam Kehidupan",
+      "type": "multiple_choice",
+      "question": "Hasil setelah langkah algoritma dijalankan disebut ...",
+      "options": [
+        {
+          "label": "A",
+          "text": "keyboard"
+        },
+        {
+          "label": "B",
+          "text": "input"
+        },
+        {
+          "label": "C",
+          "text": "proses awal"
+        },
+        {
+          "label": "D",
+          "text": "output"
+        }
+      ],
+      "correct_answer": "D",
+      "correct_text": "output",
+      "difficulty": "hard",
+      "explanation": "Jawaban: output.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-KA-01-MC07",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Berpikir Komputasi dalam Kehidupan",
+      "type": "multiple_choice",
+      "question": "Menguji langkah dan mencari kesalahan dikenal sebagai ...",
+      "options": [
+        {
+          "label": "A",
+          "text": "mengetik cepat"
+        },
+        {
+          "label": "B",
+          "text": "menggambar"
+        },
+        {
+          "label": "C",
+          "text": "debugging"
+        },
+        {
+          "label": "D",
+          "text": "mencetak"
+        }
+      ],
+      "correct_answer": "C",
+      "correct_text": "debugging",
+      "difficulty": "easy",
+      "explanation": "Jawaban: debugging.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-KA-01-MC08",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Berpikir Komputasi dalam Kehidupan",
+      "type": "multiple_choice",
+      "question": "Urutan awal hingga selesai pada diagram alir menggambarkan ...",
+      "options": [
+        {
+          "label": "A",
+          "text": "ukuran layar"
+        },
+        {
+          "label": "B",
+          "text": "jenis warna"
+        },
+        {
+          "label": "C",
+          "text": "alur proses"
+        },
+        {
+          "label": "D",
+          "text": "nama perangkat"
+        }
+      ],
+      "correct_answer": "C",
+      "correct_text": "alur proses",
+      "difficulty": "medium",
+      "explanation": "Jawaban: alur proses.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-KA-02-MC01",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Penggunaan Teknologi Digital",
+      "type": "multiple_choice",
+      "question": "Perangkat untuk mengetik huruf adalah ...",
+      "options": [
+        {
+          "label": "A",
+          "text": "proyektor"
+        },
+        {
+          "label": "B",
+          "text": "keyboard"
+        },
+        {
+          "label": "C",
+          "text": "speaker"
+        },
+        {
+          "label": "D",
+          "text": "monitor"
+        }
+      ],
+      "correct_answer": "B",
+      "correct_text": "keyboard",
+      "difficulty": "easy",
+      "explanation": "Jawaban: keyboard.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-KA-02-MC02",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Penggunaan Teknologi Digital",
+      "type": "multiple_choice",
+      "question": "Perangkat yang menghasilkan suara adalah ...",
+      "options": [
+        {
+          "label": "A",
+          "text": "speaker"
+        },
+        {
+          "label": "B",
+          "text": "mouse"
+        },
+        {
+          "label": "C",
+          "text": "kamera"
+        },
+        {
+          "label": "D",
+          "text": "keyboard"
+        }
+      ],
+      "correct_answer": "A",
+      "correct_text": "speaker",
+      "difficulty": "medium",
+      "explanation": "Jawaban: speaker.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-KA-02-MC03",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Penggunaan Teknologi Digital",
+      "type": "multiple_choice",
+      "question": "Kata sandi sebaiknya ...",
+      "options": [
+        {
+          "label": "A",
+          "text": "dibagikan kepada teman"
+        },
+        {
+          "label": "B",
+          "text": "ditulis di ruang publik"
+        },
+        {
+          "label": "C",
+          "text": "kuat dan rahasia"
+        },
+        {
+          "label": "D",
+          "text": "selalu sama dengan nama"
+        }
+      ],
+      "correct_answer": "C",
+      "correct_text": "kuat dan rahasia",
+      "difficulty": "hard",
+      "explanation": "Jawaban: kuat dan rahasia.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-KA-02-MC04",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Penggunaan Teknologi Digital",
+      "type": "multiple_choice",
+      "question": "OTP yang dikirim ke ponsel harus ...",
+      "options": [
+        {
+          "label": "A",
+          "text": "dituliskan pada komentar"
+        },
+        {
+          "label": "B",
+          "text": "dirahasiakan"
+        },
+        {
+          "label": "C",
+          "text": "diberikan kepada penelepon tak dikenal"
+        },
+        {
+          "label": "D",
+          "text": "diposting di media sosial"
+        }
+      ],
+      "correct_answer": "B",
+      "correct_text": "dirahasiakan",
+      "difficulty": "easy",
+      "explanation": "Jawaban: dirahasiakan.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-KA-02-MC05",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Penggunaan Teknologi Digital",
+      "type": "multiple_choice",
+      "question": "Contoh data pribadi yang perlu dilindungi adalah ...",
+      "options": [
+        {
+          "label": "A",
+          "text": "nama hari"
+        },
+        {
+          "label": "B",
+          "text": "judul buku umum"
+        },
+        {
+          "label": "C",
+          "text": "nama mata pelajaran"
+        },
+        {
+          "label": "D",
+          "text": "alamat rumah"
+        }
+      ],
+      "correct_answer": "D",
+      "correct_text": "alamat rumah",
+      "difficulty": "medium",
+      "explanation": "Jawaban: alamat rumah.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-KA-02-MC06",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Penggunaan Teknologi Digital",
+      "type": "multiple_choice",
+      "question": "Penyimpanan portabel berukuran kecil adalah ...",
+      "options": [
+        {
+          "label": "A",
+          "text": "speaker"
+        },
+        {
+          "label": "B",
+          "text": "flashdisk"
+        },
+        {
+          "label": "C",
+          "text": "monitor"
+        },
+        {
+          "label": "D",
+          "text": "proyektor"
+        }
+      ],
+      "correct_answer": "B",
+      "correct_text": "flashdisk",
+      "difficulty": "hard",
+      "explanation": "Jawaban: flashdisk.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-KA-02-MC07",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Penggunaan Teknologi Digital",
+      "type": "multiple_choice",
+      "question": "Perangkat lunak pengolah kata digunakan untuk ...",
+      "options": [
+        {
+          "label": "A",
+          "text": "mencetak tanpa perangkat"
+        },
+        {
+          "label": "B",
+          "text": "menghasilkan listrik"
+        },
+        {
+          "label": "C",
+          "text": "memperbaiki meja"
+        },
+        {
+          "label": "D",
+          "text": "membuat dokumen"
+        }
+      ],
+      "correct_answer": "D",
+      "correct_text": "membuat dokumen",
+      "difficulty": "easy",
+      "explanation": "Jawaban: membuat dokumen.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-KA-02-MC08",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Penggunaan Teknologi Digital",
+      "type": "multiple_choice",
+      "question": "Sebelum klik tautan mencurigakan sebaiknya ...",
+      "options": [
+        {
+          "label": "A",
+          "text": "periksa sumbernya"
+        },
+        {
+          "label": "B",
+          "text": "unduh semua lampiran"
+        },
+        {
+          "label": "C",
+          "text": "bagikan OTP"
+        },
+        {
+          "label": "D",
+          "text": "langsung kirim data"
+        }
+      ],
+      "correct_answer": "A",
+      "correct_text": "periksa sumbernya",
+      "difficulty": "medium",
+      "explanation": "Jawaban: periksa sumbernya.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-KA-03-MC01",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Mengenal Kecerdasan Artifisial",
+      "type": "multiple_choice",
+      "question": "AI adalah singkatan dari ...",
+      "options": [
+        {
+          "label": "A",
+          "text": "Automatic Internet"
+        },
+        {
+          "label": "B",
+          "text": "Artificial Intelligence"
+        },
+        {
+          "label": "C",
+          "text": "Analog Interface"
+        },
+        {
+          "label": "D",
+          "text": "Application Input"
+        }
+      ],
+      "correct_answer": "B",
+      "correct_text": "Artificial Intelligence",
+      "difficulty": "easy",
+      "explanation": "Jawaban: Artificial Intelligence.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-KA-03-MC02",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Mengenal Kecerdasan Artifisial",
+      "type": "multiple_choice",
+      "question": "Rekomendasi video merupakan contoh ...",
+      "options": [
+        {
+          "label": "A",
+          "text": "alat mekanis tanpa sensor"
+        },
+        {
+          "label": "B",
+          "text": "buku cetak biasa"
+        },
+        {
+          "label": "C",
+          "text": "kertas gambar"
+        },
+        {
+          "label": "D",
+          "text": "penerapan AI"
+        }
+      ],
+      "correct_answer": "D",
+      "correct_text": "penerapan AI",
+      "difficulty": "medium",
+      "explanation": "Jawaban: penerapan AI.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-KA-03-MC03",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Mengenal Kecerdasan Artifisial",
+      "type": "multiple_choice",
+      "question": "Hasil AI yang terdengar meyakinkan dapat tetap ...",
+      "options": [
+        {
+          "label": "A",
+          "text": "keliru"
+        },
+        {
+          "label": "B",
+          "text": "selalu benar"
+        },
+        {
+          "label": "C",
+          "text": "pasti netral"
+        },
+        {
+          "label": "D",
+          "text": "tidak perlu dicek"
+        }
+      ],
+      "correct_answer": "A",
+      "correct_text": "keliru",
+      "difficulty": "hard",
+      "explanation": "Jawaban: keliru.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-KA-03-MC04",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Mengenal Kecerdasan Artifisial",
+      "type": "multiple_choice",
+      "question": "Sumber informasi dari AI perlu ...",
+      "options": [
+        {
+          "label": "A",
+          "text": "dianggap pasti benar"
+        },
+        {
+          "label": "B",
+          "text": "dibagikan langsung"
+        },
+        {
+          "label": "C",
+          "text": "diperiksa ulang"
+        },
+        {
+          "label": "D",
+          "text": "dihapus tanpa dibaca"
+        }
+      ],
+      "correct_answer": "C",
+      "correct_text": "diperiksa ulang",
+      "difficulty": "easy",
+      "explanation": "Jawaban: diperiksa ulang.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-KA-03-MC05",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Mengenal Kecerdasan Artifisial",
+      "type": "multiple_choice",
+      "question": "Data rahasia tidak boleh ...",
+      "options": [
+        {
+          "label": "A",
+          "text": "dijaga kerahasiaannya"
+        },
+        {
+          "label": "B",
+          "text": "dimasukkan sembarangan ke layanan AI"
+        },
+        {
+          "label": "C",
+          "text": "dihapus dari pesan publik"
+        },
+        {
+          "label": "D",
+          "text": "dilindungi"
+        }
+      ],
+      "correct_answer": "B",
+      "correct_text": "dimasukkan sembarangan ke layanan AI",
+      "difficulty": "medium",
+      "explanation": "Jawaban: dimasukkan sembarangan ke layanan AI.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-KA-03-MC06",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Mengenal Kecerdasan Artifisial",
+      "type": "multiple_choice",
+      "question": "Fitur peta yang menyarankan jalan merupakan contoh ...",
+      "options": [
+        {
+          "label": "A",
+          "text": "navigasi digital"
+        },
+        {
+          "label": "B",
+          "text": "penggaris"
+        },
+        {
+          "label": "C",
+          "text": "mesin ketik"
+        },
+        {
+          "label": "D",
+          "text": "pengolah gambar manual"
+        }
+      ],
+      "correct_answer": "A",
+      "correct_text": "navigasi digital",
+      "difficulty": "hard",
+      "explanation": "Jawaban: navigasi digital.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-KA-03-MC07",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Mengenal Kecerdasan Artifisial",
+      "type": "multiple_choice",
+      "question": "AI yang mengubah ujaran menjadi tulisan memakai ...",
+      "options": [
+        {
+          "label": "A",
+          "text": "penjilidan"
+        },
+        {
+          "label": "B",
+          "text": "stempel"
+        },
+        {
+          "label": "C",
+          "text": "pencetakan kertas"
+        },
+        {
+          "label": "D",
+          "text": "pengenalan suara"
+        }
+      ],
+      "correct_answer": "D",
+      "correct_text": "pengenalan suara",
+      "difficulty": "easy",
+      "explanation": "Jawaban: pengenalan suara.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-KA-03-MC08",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Mengenal Kecerdasan Artifisial",
+      "type": "multiple_choice",
+      "question": "Bias pada hasil AI dapat terkait dengan ...",
+      "options": [
+        {
+          "label": "A",
+          "text": "meja yang rapi"
+        },
+        {
+          "label": "B",
+          "text": "layar yang bersih"
+        },
+        {
+          "label": "C",
+          "text": "warna casing"
+        },
+        {
+          "label": "D",
+          "text": "data yang tidak mewakili semua kondisi"
+        }
+      ],
+      "correct_answer": "D",
+      "correct_text": "data yang tidak mewakili semua kondisi",
+      "difficulty": "medium",
+      "explanation": "Jawaban: data yang tidak mewakili semua kondisi.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-KA-04-MC01",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Penerapan Klasifikasi pada Kecerdasan Artifisial",
+      "type": "multiple_choice",
+      "question": "Memisahkan buah menurut warnanya adalah contoh ...",
+      "options": [
+        {
+          "label": "A",
+          "text": "penghapusan"
+        },
+        {
+          "label": "B",
+          "text": "klasifikasi"
+        },
+        {
+          "label": "C",
+          "text": "enkripsi"
+        },
+        {
+          "label": "D",
+          "text": "pemformatan"
+        }
+      ],
+      "correct_answer": "B",
+      "correct_text": "klasifikasi",
+      "difficulty": "easy",
+      "explanation": "Jawaban: klasifikasi.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-KA-04-MC02",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Penerapan Klasifikasi pada Kecerdasan Artifisial",
+      "type": "multiple_choice",
+      "question": "Ciri yang digunakan untuk mengelompokkan disebut ...",
+      "options": [
+        {
+          "label": "A",
+          "text": "baterai"
+        },
+        {
+          "label": "B",
+          "text": "layar"
+        },
+        {
+          "label": "C",
+          "text": "fitur"
+        },
+        {
+          "label": "D",
+          "text": "kata sandi"
+        }
+      ],
+      "correct_answer": "C",
+      "correct_text": "fitur",
+      "difficulty": "medium",
+      "explanation": "Jawaban: fitur.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-KA-04-MC03",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Penerapan Klasifikasi pada Kecerdasan Artifisial",
+      "type": "multiple_choice",
+      "question": "Label yang salah dapat menyebabkan ...",
+      "options": [
+        {
+          "label": "A",
+          "text": "data otomatis lengkap"
+        },
+        {
+          "label": "B",
+          "text": "akurasi pasti sempurna"
+        },
+        {
+          "label": "C",
+          "text": "hasil selalu benar"
+        },
+        {
+          "label": "D",
+          "text": "hasil klasifikasi keliru"
+        }
+      ],
+      "correct_answer": "D",
+      "correct_text": "hasil klasifikasi keliru",
+      "difficulty": "hard",
+      "explanation": "Jawaban: hasil klasifikasi keliru.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-KA-04-MC04",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Penerapan Klasifikasi pada Kecerdasan Artifisial",
+      "type": "multiple_choice",
+      "question": "Data yang beragam membantu model ...",
+      "options": [
+        {
+          "label": "A",
+          "text": "menghadapi contoh yang bervariasi"
+        },
+        {
+          "label": "B",
+          "text": "menghapus kebutuhan evaluasi"
+        },
+        {
+          "label": "C",
+          "text": "selalu benar"
+        },
+        {
+          "label": "D",
+          "text": "menolak semua data baru"
+        }
+      ],
+      "correct_answer": "A",
+      "correct_text": "menghadapi contoh yang bervariasi",
+      "difficulty": "easy",
+      "explanation": "Jawaban: menghadapi contoh yang bervariasi.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-KA-04-MC05",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Penerapan Klasifikasi pada Kecerdasan Artifisial",
+      "type": "multiple_choice",
+      "question": "Kelompok plastik, kertas, logam ialah klasifikasi menurut ...",
+      "options": [
+        {
+          "label": "A",
+          "text": "tanggal lahir"
+        },
+        {
+          "label": "B",
+          "text": "nilai rapor"
+        },
+        {
+          "label": "C",
+          "text": "nama pemilik"
+        },
+        {
+          "label": "D",
+          "text": "jenis bahan"
+        }
+      ],
+      "correct_answer": "D",
+      "correct_text": "jenis bahan",
+      "difficulty": "medium",
+      "explanation": "Jawaban: jenis bahan.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-KA-04-MC06",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Penerapan Klasifikasi pada Kecerdasan Artifisial",
+      "type": "multiple_choice",
+      "question": "Hasil klasifikasi perlu ...",
+      "options": [
+        {
+          "label": "A",
+          "text": "diabaikan"
+        },
+        {
+          "label": "B",
+          "text": "langsung dianggap benar"
+        },
+        {
+          "label": "C",
+          "text": "diperiksa"
+        },
+        {
+          "label": "D",
+          "text": "dirahasiakan dari penguji"
+        }
+      ],
+      "correct_answer": "C",
+      "correct_text": "diperiksa",
+      "difficulty": "hard",
+      "explanation": "Jawaban: diperiksa.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-KA-04-MC07",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Penerapan Klasifikasi pada Kecerdasan Artifisial",
+      "type": "multiple_choice",
+      "question": "Sistem navigasi memakai ...",
+      "options": [
+        {
+          "label": "A",
+          "text": "nama kelas"
+        },
+        {
+          "label": "B",
+          "text": "ukuran sepatu"
+        },
+        {
+          "label": "C",
+          "text": "warna sampul"
+        },
+        {
+          "label": "D",
+          "text": "lokasi dan tujuan"
+        }
+      ],
+      "correct_answer": "D",
+      "correct_text": "lokasi dan tujuan",
+      "difficulty": "easy",
+      "explanation": "Jawaban: lokasi dan tujuan.",
+      "review_status": "source_page_review_pending"
+    },
+    {
+      "id": "F5-ADD-KA-04-MC08",
+      "subject": "Koding dan AI",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Penerapan Klasifikasi pada Kecerdasan Artifisial",
+      "type": "multiple_choice",
+      "question": "Jika input lokasi keliru, rute yang dihasilkan dapat ...",
+      "options": [
+        {
+          "label": "A",
+          "text": "selalu lebih cepat"
+        },
+        {
+          "label": "B",
+          "text": "pasti sama"
+        },
+        {
+          "label": "C",
+          "text": "lebih akurat"
+        },
+        {
+          "label": "D",
+          "text": "tidak sesuai"
+        }
+      ],
+      "correct_answer": "D",
+      "correct_text": "tidak sesuai",
+      "difficulty": "medium",
+      "explanation": "Jawaban: tidak sesuai.",
+      "review_status": "source_page_review_pending"
+    }
+  ],
+  "release_notes": "Mempertahankan seluruh 794 soal v1.4 tanpa modifikasi dan menambah soal Bahasa Inggris serta Koding. Soal baru belum diverifikasi per halaman buku."
+}

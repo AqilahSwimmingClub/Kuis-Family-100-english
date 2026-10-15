@@ -1,0 +1,5000 @@
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Melihat karena Cahaya, Mendengar karena Bunyi",
+      "type": "family100",
+      "question": "Sebutkan sifat cahaya yang dapat dibuktikan melalui percobaan.",
+      "answers": [
+        {
+          "text": "merambat lurus",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "dapat dipantulkan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "dapat dibiaskan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menembus benda bening",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "dapat diuraikan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Cahaya merambat lurus, dapat mengalami pemantulan dan pembiasan, serta dapat diuraikan.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-002",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Melihat karena Cahaya, Mendengar karena Bunyi",
+      "type": "family100",
+      "question": "Sebutkan benda yang dapat memantulkan cahaya sehingga bayangan terlihat.",
+      "answers": [
+        {
+          "text": "cermin datar",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "cermin cekung",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "cermin cembung",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "permukaan air tenang",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Benda berpermukaan licin dan mengilap memantulkan cahaya.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-003",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Melihat karena Cahaya, Mendengar karena Bunyi",
+      "type": "family100",
+      "question": "Apa saja peristiwa yang menunjukkan pembiasan cahaya?",
+      "answers": [
+        {
+          "text": "sedotan tampak bengkok dalam air",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "dasar kolam tampak dangkal",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "pensil tampak patah dalam gelas air",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "lensa memperbesar tulisan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Pembiasan terjadi ketika cahaya melewati dua medium berbeda.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-004",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Melihat karena Cahaya, Mendengar karena Bunyi",
+      "type": "family100",
+      "question": "Sebutkan contoh benda bening yang dapat dilewati cahaya.",
+      "answers": [
+        {
+          "text": "kaca jendela jernih",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "air jernih",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "lensa bening",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "plastik transparan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Benda transparan meneruskan sebagian besar cahaya.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-005",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Melihat karena Cahaya, Mendengar karena Bunyi",
+      "type": "family100",
+      "question": "Sebutkan penyebab mengapa manusia tidak dapat melihat jelas.",
+      "answers": [
+        {
+          "text": "ruangan gelap",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "mata tertutup",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "benda terhalang",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "cahaya terlalu redup",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Penglihatan memerlukan cahaya yang dipantulkan benda menuju mata.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-006",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Melihat karena Cahaya, Mendengar karena Bunyi",
+      "type": "family100",
+      "question": "Sebutkan contoh benda yang bergetar menghasilkan bunyi.",
+      "answers": [
+        {
+          "text": "senar gitar",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "membran drum",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "penggaris yang dijentik",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "pita suara",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "garpu tala",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Bunyi dihasilkan oleh benda yang bergetar.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-007",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Melihat karena Cahaya, Mendengar karena Bunyi",
+      "type": "family100",
+      "question": "Melalui medium apa saja bunyi dapat merambat?",
+      "answers": [
+        {
+          "text": "udara",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "air",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "kayu",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "logam",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Bunyi merambat melalui gas, cairan, dan benda padat, tetapi tidak melalui ruang hampa.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-008",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Melihat karena Cahaya, Mendengar karena Bunyi",
+      "type": "family100",
+      "question": "Sebutkan cara menjaga kesehatan telinga.",
+      "answers": [
+        {
+          "text": "menghindari suara terlalu keras",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "tidak memasukkan benda tajam",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "mengeringkan telinga bagian luar",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "memeriksakan telinga jika sakit",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Menjaga kebersihan bagian luar telinga dan menghindari kebisingan membantu melindungi pendengaran.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-009",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Melihat karena Cahaya, Mendengar karena Bunyi",
+      "type": "family100",
+      "question": "Sebutkan hewan yang menggunakan ekolokasi.",
+      "answers": [
+        {
+          "text": "kelelawar",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "lumba-lumba",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "paus bergigi",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "celurut tertentu",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Ekolokasi menggunakan pantulan bunyi untuk membantu mengenali lingkungan.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-010",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Melihat karena Cahaya, Mendengar karena Bunyi",
+      "type": "family100",
+      "question": "Sebutkan alat musik yang menghasilkan bunyi karena getaran senar.",
+      "answers": [
+        {
+          "text": "gitar",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "biola",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "kecapi",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "ukulele",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Senar yang bergetar membuat udara di sekitarnya ikut bergetar sehingga terdengar bunyi.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-011",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Harmoni dalam Ekosistem",
+      "type": "family100",
+      "question": "Sebutkan contoh komponen biotik di kebun sekolah.",
+      "answers": [
+        {
+          "text": "rumput",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "pohon",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "semut",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "cacing",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "burung",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Biotik berarti makhluk hidup penyusun ekosistem.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-012",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Harmoni dalam Ekosistem",
+      "type": "family100",
+      "question": "Sebutkan komponen abiotik yang memengaruhi pertumbuhan tanaman.",
+      "answers": [
+        {
+          "text": "air",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "cahaya matahari",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "udara",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "tanah",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "suhu",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Abiotik adalah unsur tak hidup yang memengaruhi kehidupan.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-013",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Harmoni dalam Ekosistem",
+      "type": "family100",
+      "question": "Sebutkan contoh produsen dalam ekosistem.",
+      "answers": [
+        {
+          "text": "rumput",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "padi",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "alga",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "pohon mangga",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Produsen membuat makanan sendiri melalui fotosintesis.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-014",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Harmoni dalam Ekosistem",
+      "type": "family100",
+      "question": "Sebutkan contoh konsumen tingkat pertama pemakan tumbuhan.",
+      "answers": [
+        {
+          "text": "belalang",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "kelinci",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "kambing",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "ulat daun",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Konsumen tingkat pertama memakan produsen.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-015",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Harmoni dalam Ekosistem",
+      "type": "family100",
+      "question": "Sebutkan hewan yang dapat berperan sebagai predator.",
+      "answers": [
+        {
+          "text": "elang",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "ular",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "katak",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "laba-laba",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Predator memangsa organisme lain dalam jaring-jaring makanan.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-016",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Harmoni dalam Ekosistem",
+      "type": "family100",
+      "question": "Apa dampak jika jumlah predator menurun tajam?",
+      "answers": [
+        {
+          "text": "jumlah mangsa meningkat",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "keseimbangan terganggu",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "persaingan mangsa meningkat",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "tumbuhan makanan mangsa berkurang",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Dampak perubahan populasi bergantung pada hubungan antarmakhluk hidup dalam ekosistem.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-017",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Harmoni dalam Ekosistem",
+      "type": "family100",
+      "question": "Sebutkan organisme pengurai yang membantu menguraikan sisa makhluk hidup.",
+      "answers": [
+        {
+          "text": "jamur",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "bakteri pembusuk",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "kapang",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "mikroba pengurai di tanah",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Pengurai mengembalikan unsur hara dari sisa makhluk hidup ke lingkungan.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-018",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Harmoni dalam Ekosistem",
+      "type": "family100",
+      "question": "Sebutkan cara manusia menjaga keseimbangan ekosistem.",
+      "answers": [
+        {
+          "text": "menanam pohon",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "tidak membuang sampah sembarangan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "melindungi hewan liar",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "mengurangi pencemaran",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menjaga habitat",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Ekosistem terjaga ketika habitat dan hubungan antarkomponennya tidak dirusak.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-019",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Harmoni dalam Ekosistem",
+      "type": "family100",
+      "question": "Sebutkan contoh hubungan saling menguntungkan antara makhluk hidup.",
+      "answers": [
+        {
+          "text": "lebah dan bunga",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "kupu-kupu dan bunga",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "burung jalak dan kerbau",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "jamur mikoriza dan akar tanaman",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Hubungan mutualisme menguntungkan kedua organisme.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-020",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Harmoni dalam Ekosistem",
+      "type": "family100",
+      "question": "Sebutkan penyebab suatu rantai makanan terganggu.",
+      "answers": [
+        {
+          "text": "hilangnya produsen",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "perburuan berlebihan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "pencemaran air",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "kekeringan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "rusaknya habitat",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Rantai makanan merupakan hubungan makan dan dimakan yang saling terhubung.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-021",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Magnet, Listrik, dan Teknologi untuk Kehidupan",
+      "type": "family100",
+      "question": "Sebutkan benda yang dapat ditarik kuat oleh magnet.",
+      "answers": [
+        {
+          "text": "paku besi",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "klip kertas baja",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "jarum baja",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "sekrup besi",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Besi dan baja umumnya bersifat feromagnetik.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-022",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Magnet, Listrik, dan Teknologi untuk Kehidupan",
+      "type": "family100",
+      "question": "Apa saja cara menggunakan magnet dalam kehidupan sehari-hari?",
+      "answers": [
+        {
+          "text": "penutup pintu lemari es",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "kompas",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "pengangkat besi bekas",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "pengunci tas magnetik",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Magnet dimanfaatkan untuk menarik bahan tertentu dan menentukan arah.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-023",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Magnet, Listrik, dan Teknologi untuk Kehidupan",
+      "type": "family100",
+      "question": "Sebutkan sifat-sifat magnet.",
+      "answers": [
+        {
+          "text": "memiliki kutub utara",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "memiliki kutub selatan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "kutub senama tolak-menolak",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "kutub berbeda tarik-menarik",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "gaya magnet dapat bekerja tanpa bersentuhan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Kutub magnet selalu berpasangan dan interaksinya bergantung pada jenis kutub.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-024",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Magnet, Listrik, dan Teknologi untuk Kehidupan",
+      "type": "family100",
+      "question": "Sebutkan contoh sumber energi listrik.",
+      "answers": [
+        {
+          "text": "baterai",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "aki",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "generator",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "panel surya",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Listrik dapat diperoleh dari reaksi kimia, gerak generator, dan cahaya matahari.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-025",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Magnet, Listrik, dan Teknologi untuk Kehidupan",
+      "type": "family100",
+      "question": "Sebutkan bahan yang merupakan penghantar listrik cukup baik.",
+      "answers": [
+        {
+          "text": "tembaga",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "aluminium",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "perak",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "besi",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Logam pada umumnya menghantarkan arus listrik.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-026",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Magnet, Listrik, dan Teknologi untuk Kehidupan",
+      "type": "family100",
+      "question": "Sebutkan perangkat rumah tangga yang memakai energi listrik.",
+      "answers": [
+        {
+          "text": "kipas angin",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "lampu",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "kulkas",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "rice cooker",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "televisi",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Perangkat listrik mengubah energi listrik menjadi cahaya, panas, gerak, atau bunyi.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-027",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Magnet, Listrik, dan Teknologi untuk Kehidupan",
+      "type": "family100",
+      "question": "Bagaimana cara menghemat penggunaan listrik di rumah?",
+      "answers": [
+        {
+          "text": "mematikan lampu saat tidak digunakan",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "mencabut pengisi daya setelah dipakai",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "menggunakan cahaya alami",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "mematikan televisi saat tidak ditonton",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Menghemat listrik mengurangi energi yang terbuang.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-028",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Magnet, Listrik, dan Teknologi untuk Kehidupan",
+      "type": "family100",
+      "question": "Sebutkan langkah aman menggunakan peralatan listrik.",
+      "answers": [
+        {
+          "text": "menjauhkan peralatan dari air",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "tidak memegang kabel terkelupas",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "menggunakan tangan kering",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "meminta bantuan orang dewasa saat ada kerusakan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Air dan kabel rusak meningkatkan risiko tersengat listrik.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-029",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Magnet, Listrik, dan Teknologi untuk Kehidupan",
+      "type": "family100",
+      "question": "Sebutkan benda yang menggunakan elektromagnet.",
+      "answers": [
+        {
+          "text": "bel listrik elektromagnet",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "derek pengangkat besi",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "relay",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "motor listrik",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Elektromagnet menghasilkan medan magnet ketika dialiri arus.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-030",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Ayo Berkenalan dengan Bumi Kita",
+      "type": "family100",
+      "question": "Sebutkan bagian utama lapisan penyusun Bumi.",
+      "answers": [
+        {
+          "text": "kerak bumi",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "mantel bumi",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "inti luar",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "inti dalam",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Bumi memiliki lapisan kerak, mantel, dan inti yang tersusun berbeda.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-031",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Ayo Berkenalan dengan Bumi Kita",
+      "type": "family100",
+      "question": "Sebutkan contoh bentuk permukaan daratan Bumi.",
+      "answers": [
+        {
+          "text": "gunung",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "dataran tinggi",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "lembah",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "dataran rendah",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "bukit",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Bentang alam daratan beragam akibat proses pembentukan permukaan bumi.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-032",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Ayo Berkenalan dengan Bumi Kita",
+      "type": "family100",
+      "question": "Sebutkan bentang alam perairan.",
+      "answers": [
+        {
+          "text": "sungai",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "danau",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "laut",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "selat",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "teluk",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Bentang alam perairan mencakup air tawar dan air laut.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-033",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Ayo Berkenalan dengan Bumi Kita",
+      "type": "family100",
+      "question": "Sebutkan penyebab perubahan bentuk permukaan Bumi.",
+      "answers": [
+        {
+          "text": "erosi",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "pelapukan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "pengendapan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "gempa bumi",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "aktivitas gunung api",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tenaga dari dalam dan luar Bumi mengubah permukaan dalam jangka waktu berbeda.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-034",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Ayo Berkenalan dengan Bumi Kita",
+      "type": "family100",
+      "question": "Sebutkan contoh dampak terjadinya gempa bumi.",
+      "answers": [
+        {
+          "text": "bangunan rusak",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "tanah retak",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "longsor",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "gelombang tsunami pada gempa tertentu",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Dampak bergantung pada kekuatan, kedalaman, lokasi gempa, dan kondisi lingkungan.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-035",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Ayo Berkenalan dengan Bumi Kita",
+      "type": "family100",
+      "question": "Sebutkan langkah aman saat terjadi gempa di dalam ruangan.",
+      "answers": [
+        {
+          "text": "berlindung di bawah meja kuat",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "melindungi kepala",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "menjauhi kaca",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "tidak menggunakan lift",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Saat gempa, lakukan tindakan aman sesuai kondisi dan instruksi keselamatan.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-036",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Ayo Berkenalan dengan Bumi Kita",
+      "type": "family100",
+      "question": "Sebutkan contoh proses siklus air.",
+      "answers": [
+        {
+          "text": "penguapan",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "kondensasi",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "presipitasi atau hujan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "peresapan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Siklus air memindahkan air antarpermukaan Bumi dan atmosfer.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-037",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Ayo Berkenalan dengan Bumi Kita",
+      "type": "family100",
+      "question": "Sebutkan manfaat air tanah bagi kehidupan.",
+      "answers": [
+        {
+          "text": "sumber air sumur",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "menyediakan air untuk tumbuhan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "menjaga kelembapan tanah",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menyimpan cadangan air",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Air yang meresap dapat tersimpan di lapisan tanah dan batuan.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-038",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Ayo Berkenalan dengan Bumi Kita",
+      "type": "family100",
+      "question": "Apa saja contoh aktivitas manusia yang mempercepat erosi tanah?",
+      "answers": [
+        {
+          "text": "penebangan hutan",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "pembukaan lahan tanpa penutup tanaman",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "pengolahan lereng tanpa konservasi",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "penggundulan vegetasi",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Vegetasi membantu menahan tanah dari aliran air dan angin.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-039",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Ayo Berkenalan dengan Bumi Kita",
+      "type": "family100",
+      "question": "Sebutkan cara menjaga ketersediaan air bersih.",
+      "answers": [
+        {
+          "text": "menghemat air",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "menanam pohon",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "melindungi daerah resapan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "tidak mencemari sungai",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Kualitas dan ketersediaan air dipengaruhi pencemaran serta kondisi daerah resapan.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-040",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Bagaimana Kita Hidup dan Bertumbuh",
+      "type": "family100",
+      "question": "Sebutkan bagian utama sistem pencernaan manusia.",
+      "answers": [
+        {
+          "text": "mulut",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "kerongkongan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "lambung",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "usus halus",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "usus besar",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Makanan melalui organ pencernaan untuk diolah dan diserap zat gizinya.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-041",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Bagaimana Kita Hidup dan Bertumbuh",
+      "type": "family100",
+      "question": "Sebutkan zat gizi yang diperlukan tubuh.",
+      "answers": [
+        {
+          "text": "karbohidrat",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "protein",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "lemak",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "vitamin",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "mineral",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Zat gizi diperlukan untuk energi, pertumbuhan, dan pengaturan fungsi tubuh.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-042",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Bagaimana Kita Hidup dan Bertumbuh",
+      "type": "family100",
+      "question": "Sebutkan contoh makanan sumber protein.",
+      "answers": [
+        {
+          "text": "telur",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "ikan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "tempe",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "tahu",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "daging",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Protein penting untuk pertumbuhan dan perbaikan jaringan.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-043",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Bagaimana Kita Hidup dan Bertumbuh",
+      "type": "family100",
+      "question": "Sebutkan contoh makanan sumber karbohidrat.",
+      "answers": [
+        {
+          "text": "nasi",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "kentang",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "jagung",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "singkong",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "roti",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Karbohidrat merupakan salah satu sumber energi utama.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-044",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Bagaimana Kita Hidup dan Bertumbuh",
+      "type": "family100",
+      "question": "Sebutkan organ yang terlibat dalam sistem pernapasan manusia.",
+      "answers": [
+        {
+          "text": "hidung",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "tenggorokan atau trakea",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "bronkus",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "paru-paru",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "diafragma",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Udara masuk melalui saluran napas menuju paru-paru; diafragma membantu mekanisme bernapas.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-045",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Bagaimana Kita Hidup dan Bertumbuh",
+      "type": "family100",
+      "question": "Sebutkan cara menjaga sistem pernapasan tetap sehat.",
+      "answers": [
+        {
+          "text": "menghindari asap rokok",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "berolahraga teratur",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "menghindari polusi",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menjaga ventilasi ruangan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Udara bersih dan kebiasaan sehat membantu memelihara pernapasan.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-046",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Bagaimana Kita Hidup dan Bertumbuh",
+      "type": "family100",
+      "question": "Sebutkan tanda umum masa pertumbuhan menuju remaja.",
+      "answers": [
+        {
+          "text": "bertambah tinggi badan",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "berat badan berubah",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "perubahan suara pada sebagian anak",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "tumbuh rambut pada bagian tubuh tertentu",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Waktu dan jenis perubahan pubertas berbeda-beda pada setiap individu.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-047",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Bagaimana Kita Hidup dan Bertumbuh",
+      "type": "family100",
+      "question": "Sebutkan kebiasaan menjaga kesehatan pencernaan.",
+      "answers": [
+        {
+          "text": "makan sayur dan buah",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "minum cukup air",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "mencuci tangan sebelum makan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "mengonsumsi makanan bersih",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Pola makan seimbang, kebersihan, dan cukup air membantu kesehatan pencernaan.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-048",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Bagaimana Kita Hidup dan Bertumbuh",
+      "type": "family100",
+      "question": "Sebutkan kebiasaan yang membantu tubuh tumbuh sehat.",
+      "answers": [
+        {
+          "text": "tidur cukup",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "makan gizi seimbang",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "aktif bergerak",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menjaga kebersihan diri",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Pertumbuhan memerlukan nutrisi, tidur, kegiatan fisik, dan lingkungan sehat.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-049",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Bagaimana Kita Hidup dan Bertumbuh",
+      "type": "family100",
+      "question": "Sebutkan organ yang berperan dalam peredaran darah.",
+      "answers": [
+        {
+          "text": "jantung",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "pembuluh nadi",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "pembuluh balik",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "pembuluh kapiler",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Jantung memompa darah melalui pembuluh darah ke seluruh tubuh.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-050",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Indonesiaku Kaya Raya",
+      "type": "family100",
+      "question": "Sebutkan sumber daya alam yang dapat diperbarui jika dikelola dengan baik.",
+      "answers": [
+        {
+          "text": "air",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "tanaman",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "hewan ternak",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "hasil hutan yang ditanam kembali",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Sumber daya terbarukan tetap dapat rusak jika pemanfaatannya melebihi kemampuan pulih.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-051",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Indonesiaku Kaya Raya",
+      "type": "family100",
+      "question": "Sebutkan contoh sumber daya alam tak terbarukan.",
+      "answers": [
+        {
+          "text": "minyak bumi",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "batu bara",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "gas alam",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "bijih logam",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Bahan ini terbentuk sangat lama sehingga persediaannya terbatas.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-052",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Indonesiaku Kaya Raya",
+      "type": "family100",
+      "question": "Sebutkan contoh hasil perkebunan Indonesia.",
+      "answers": [
+        {
+          "text": "kelapa sawit",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "teh",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "kopi",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "karet",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "kakao",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Perkebunan menghasilkan komoditas untuk kebutuhan dalam dan luar negeri.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-053",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Indonesiaku Kaya Raya",
+      "type": "family100",
+      "question": "Sebutkan contoh hasil pertanian bahan pangan di Indonesia.",
+      "answers": [
+        {
+          "text": "padi",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "jagung",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "kedelai",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "singkong",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tanaman pangan menyediakan bahan makanan masyarakat.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-054",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Indonesiaku Kaya Raya",
+      "type": "family100",
+      "question": "Sebutkan contoh hasil perikanan di Indonesia.",
+      "answers": [
+        {
+          "text": "ikan tuna",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "ikan tongkol",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "udang",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "rumput laut",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Sumber daya perairan dapat dimanfaatkan melalui perikanan tangkap dan budi daya.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-055",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Indonesiaku Kaya Raya",
+      "type": "family100",
+      "question": "Sebutkan kegiatan ekonomi yang memanfaatkan sumber daya alam.",
+      "answers": [
+        {
+          "text": "pertanian",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "perikanan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "peternakan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "pertambangan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "kehutanan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Kegiatan ekonomi dipengaruhi potensi alam dan keterampilan penduduk.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-056",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Indonesiaku Kaya Raya",
+      "type": "family100",
+      "question": "Sebutkan cara memanfaatkan hutan secara bertanggung jawab.",
+      "answers": [
+        {
+          "text": "menanam kembali pohon",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "melindungi kawasan konservasi",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "menghindari pembalakan liar",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "mengelola hasil hutan secara berkelanjutan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Hutan berperan dalam keanekaragaman hayati, tanah, dan siklus air.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-057",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Indonesiaku Kaya Raya",
+      "type": "family100",
+      "question": "Sebutkan contoh keragaman hayati Indonesia.",
+      "answers": [
+        {
+          "text": "orangutan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "komodo",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "bunga rafflesia",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "cenderawasih",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "anoa",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Keragaman spesies dipengaruhi kondisi alam kepulauan Indonesia.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-058",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Indonesiaku Kaya Raya",
+      "type": "family100",
+      "question": "Sebutkan pekerjaan masyarakat di daerah pesisir.",
+      "answers": [
+        {
+          "text": "nelayan",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "pembudi daya rumput laut",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "pedagang ikan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "pembuat garam",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Aktivitas ekonomi pesisir berkaitan dengan sumber daya laut dan perdagangan.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-059",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Indonesiaku Kaya Raya",
+      "type": "family100",
+      "question": "Sebutkan alasan sumber daya alam perlu dilestarikan.",
+      "answers": [
+        {
+          "text": "menjaga kebutuhan generasi mendatang",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "mencegah kerusakan habitat",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "mengurangi risiko kelangkaan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menjaga kualitas lingkungan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Pemanfaatan berkelanjutan mempertimbangkan kemampuan alam memulihkan diri.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-060",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "Daerahku Kebanggaanku",
+      "type": "family100",
+      "question": "Sebutkan contoh peninggalan sejarah yang dapat ditemukan di suatu daerah.",
+      "answers": [
+        {
+          "text": "candi",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "benteng",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "prasasti",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "bangunan bersejarah",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "museum sejarah",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Peninggalan membantu mempelajari peristiwa dan kehidupan masa lampau.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-061",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "Daerahku Kebanggaanku",
+      "type": "family100",
+      "question": "Sebutkan contoh tradisi budaya daerah Indonesia.",
+      "answers": [
+        {
+          "text": "upacara adat",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "tarian tradisional",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "permainan tradisional",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "kesenian musik daerah",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "kerajinan tradisional",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tradisi merupakan bagian dari identitas dan warisan budaya masyarakat.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-062",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "Daerahku Kebanggaanku",
+      "type": "family100",
+      "question": "Sebutkan manfaat mempelajari sejarah daerah sendiri.",
+      "answers": [
+        {
+          "text": "memahami asal-usul daerah",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "menghargai tokoh lokal",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "menjaga warisan budaya",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "belajar dari peristiwa masa lalu",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Sejarah daerah membantu memahami perubahan dan identitas masyarakat.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-063",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "Daerahku Kebanggaanku",
+      "type": "family100",
+      "question": "Sebutkan contoh kegiatan ekonomi masyarakat di perkotaan.",
+      "answers": [
+        {
+          "text": "perdagangan",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "jasa transportasi",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "perkantoran",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "industri kecil",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Kegiatan ekonomi bergantung pada kebutuhan dan karakter wilayah.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-064",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "Daerahku Kebanggaanku",
+      "type": "family100",
+      "question": "Sebutkan pekerjaan yang banyak berkaitan dengan daerah pertanian.",
+      "answers": [
+        {
+          "text": "petani",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "buruh tani",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "pedagang hasil panen",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "penggiling padi",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Kegiatan pertanian melibatkan produksi hingga distribusi hasil panen.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-065",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "Daerahku Kebanggaanku",
+      "type": "family100",
+      "question": "Sebutkan cara menjaga cagar budaya di daerah.",
+      "answers": [
+        {
+          "text": "tidak mencoret situs",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "menaati aturan kunjungan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "melaporkan kerusakan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "ikut kegiatan pelestarian",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Cagar budaya perlu dijaga agar dapat dipelajari generasi berikutnya.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-066",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "Daerahku Kebanggaanku",
+      "type": "family100",
+      "question": "Sebutkan contoh sumber informasi untuk mengetahui sejarah daerah.",
+      "answers": [
+        {
+          "text": "wawancara tokoh setempat",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "arsip atau dokumen",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "museum",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "buku sejarah",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "foto lama",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Informasi sejarah sebaiknya diperiksa dari beberapa sumber.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-067",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "Daerahku Kebanggaanku",
+      "type": "family100",
+      "question": "Sebutkan manfaat keberagaman budaya bagi masyarakat.",
+      "answers": [
+        {
+          "text": "menambah pengetahuan",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "memperkaya seni",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "menumbuhkan toleransi",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "mendukung pariwisata budaya",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Keragaman dapat menjadi kekuatan jika dihormati dan dilestarikan.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-068",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "Daerahku Kebanggaanku",
+      "type": "family100",
+      "question": "Sebutkan hal yang dapat dilakukan siswa untuk memperkenalkan budaya daerah.",
+      "answers": [
+        {
+          "text": "menampilkan tarian tradisional",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "membuat poster budaya",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "mempelajari bahasa daerah",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menceritakan makanan tradisional",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Memperkenalkan budaya dapat dilakukan melalui karya dan kegiatan belajar.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-069",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "Daerahku Kebanggaanku",
+      "type": "family100",
+      "question": "Sebutkan perubahan di suatu daerah yang dapat dipengaruhi perkembangan teknologi.",
+      "answers": [
+        {
+          "text": "transportasi makin cepat",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "komunikasi lebih mudah",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "cara berdagang berubah",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "alat produksi berkembang",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Perubahan teknologi memengaruhi kegiatan ekonomi dan kehidupan masyarakat.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-070",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "Bumiku Sayang, Bumiku Malang",
+      "type": "family100",
+      "question": "Sebutkan contoh masalah lingkungan di sekitar kita.",
+      "answers": [
+        {
+          "text": "sampah menumpuk",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "pencemaran air",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "pencemaran udara",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "banjir",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "berkurangnya ruang hijau",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Masalah lingkungan berhubungan dengan perubahan kualitas air, udara, tanah, dan ekosistem.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-071",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "Bumiku Sayang, Bumiku Malang",
+      "type": "family100",
+      "question": "Sebutkan kegiatan manusia yang dapat menimbulkan pencemaran udara.",
+      "answers": [
+        {
+          "text": "pembakaran sampah",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "asap kendaraan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "asap industri",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "pembakaran lahan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Polutan udara berdampak pada kesehatan dan lingkungan.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-072",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "Bumiku Sayang, Bumiku Malang",
+      "type": "family100",
+      "question": "Sebutkan dampak membuang sampah ke sungai.",
+      "answers": [
+        {
+          "text": "saluran air tersumbat",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "banjir",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "kualitas air menurun",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "hewan air terganggu",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Sampah sungai berdampak pada aliran air dan kesehatan ekosistem.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-073",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "Bumiku Sayang, Bumiku Malang",
+      "type": "family100",
+      "question": "Sebutkan cara mengurangi sampah plastik.",
+      "answers": [
+        {
+          "text": "membawa botol isi ulang",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "membawa tas belanja pakai ulang",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "menghindari sedotan sekali pakai",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "memakai wadah makan berulang",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Mengurangi plastik sekali pakai membantu menekan timbulan sampah.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-074",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "Bumiku Sayang, Bumiku Malang",
+      "type": "family100",
+      "question": "Sebutkan contoh tindakan menghemat air di sekolah.",
+      "answers": [
+        {
+          "text": "menutup keran setelah dipakai",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "melaporkan keran bocor",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "menggunakan air secukupnya",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menampung air hujan untuk menyiram bila aman",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Penggunaan air secara bijak mengurangi pemborosan.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-075",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "Bumiku Sayang, Bumiku Malang",
+      "type": "family100",
+      "question": "Sebutkan contoh kegiatan penghijauan.",
+      "answers": [
+        {
+          "text": "menanam pohon",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "merawat tanaman sekolah",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "membuat kebun kecil",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menanam tanaman penutup tanah",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Vegetasi membantu mengurangi erosi serta menyediakan habitat.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-076",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "Bumiku Sayang, Bumiku Malang",
+      "type": "family100",
+      "question": "Sebutkan penyebab banjir yang dapat diperparah aktivitas manusia.",
+      "answers": [
+        {
+          "text": "saluran tersumbat sampah",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "berkurangnya daerah resapan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "penebangan hutan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "pembangunan di daerah rawan banjir",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Banjir dipengaruhi curah hujan dan kondisi lingkungan serta tata ruang.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-077",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "Bumiku Sayang, Bumiku Malang",
+      "type": "family100",
+      "question": "Sebutkan langkah penerapan 3R dalam pengelolaan sampah.",
+      "answers": [
+        {
+          "text": "mengurangi penggunaan barang sekali pakai",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "menggunakan kembali botol",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "mendaur ulang kertas",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "mendaur ulang plastik sesuai jenis",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Reduce, Reuse, dan Recycle membantu mengurangi timbulan sampah.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-078",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "Bumiku Sayang, Bumiku Malang",
+      "type": "family100",
+      "question": "Sebutkan contoh perilaku hemat energi di sekolah.",
+      "answers": [
+        {
+          "text": "mematikan lampu saat ruangan terang",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "mematikan kipas ketika tidak diperlukan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "mematikan perangkat setelah digunakan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "memanfaatkan cahaya matahari",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Hemat energi berarti mengurangi pemakaian energi yang tidak diperlukan.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-IPAS-EXP-079",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "Bumiku Sayang, Bumiku Malang",
+      "type": "family100",
+      "question": "Sebutkan tindakan menjaga lingkungan yang bisa dilakukan bersama teman.",
+      "answers": [
+        {
+          "text": "kerja bakti",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "memilah sampah",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "membuat kompos",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "merawat tanaman kelas",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "membersihkan selokan dengan pendampingan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Aksi bersama dapat membantu memperbaiki lingkungan sekitar.",
+      "review_status": "EDITORIAL_CANDIDATE_BOOK_PAGE_UNVERIFIED",
+      "scoring_note": "Bobot edukatif, bukan survei; jawaban benar di luar daftar membutuhkan kebijakan guru."
+    },
+    {
+      "id": "F5-BINDO-ADD-C01-001",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Aku yang Unik",
+      "type": "family100",
+      "question": "Apa informasi yang dapat disampaikan saat memperkenalkan diri?",
+      "answers": [
+        {
+          "text": "nama",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "kelas",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "tempat tinggal",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "hobi",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "cita-cita",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Aku yang Unik. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C01-002",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Aku yang Unik",
+      "type": "family100",
+      "question": "Sebutkan kata sifat positif yang menggambarkan sikap seseorang.",
+      "answers": [
+        {
+          "text": "jujur",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "disiplin",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "peduli",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "percaya diri",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "tanggung jawab",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Aku yang Unik. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C01-003",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Aku yang Unik",
+      "type": "family100",
+      "question": "Sebutkan ciri fisik yang dapat dideskripsikan secara santun.",
+      "answers": [
+        {
+          "text": "tinggi badan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "warna rambut",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "bentuk rambut",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "warna mata",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "postur tubuh",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Aku yang Unik. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C01-004",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Aku yang Unik",
+      "type": "family100",
+      "question": "Sebutkan kebiasaan baik yang menunjukkan sikap disiplin.",
+      "answers": [
+        {
+          "text": "datang tepat waktu",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "menyelesaikan tugas",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "mematuhi jadwal",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "merapikan barang",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "belajar teratur",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Aku yang Unik. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C01-005",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Aku yang Unik",
+      "type": "family100",
+      "question": "Sebutkan ungkapan yang sopan saat menanggapi pendapat teman.",
+      "answers": [
+        {
+          "text": "saya setuju",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "menurut saya",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "terima kasih atas pendapatmu",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "saya menghargai pendapatmu",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "bolehkah saya menambahkan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Aku yang Unik. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C01-006",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Aku yang Unik",
+      "type": "family100",
+      "question": "Apa yang perlu dicermati ketika mendeskripsikan tokoh?",
+      "answers": [
+        {
+          "text": "sifat tokoh",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "tindakan tokoh",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "ucapan tokoh",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "kebiasaan tokoh",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "hubungan dengan tokoh lain",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Aku yang Unik. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C01-007",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Aku yang Unik",
+      "type": "family100",
+      "question": "Sebutkan kalimat pertanyaan yang tepat untuk mengenal teman.",
+      "answers": [
+        {
+          "text": "siapa namamu",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "apa hobimu",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "di mana kamu tinggal",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "apa cita-citamu",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "apa makanan kesukaanmu",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Aku yang Unik. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C01-008",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Aku yang Unik",
+      "type": "family100",
+      "question": "Sebutkan contoh hobi yang dapat dijelaskan dalam tulisan tentang diri.",
+      "answers": [
+        {
+          "text": "membaca",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "melukis",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "berenang",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "bersepeda",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "berkebun",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Aku yang Unik. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C01-009",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Aku yang Unik",
+      "type": "family100",
+      "question": "Sebutkan cara memperlihatkan rasa menghargai perbedaan antarteman.",
+      "answers": [
+        {
+          "text": "tidak mengejek",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "mendengarkan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "memberi kesempatan berbicara",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menghormati pilihan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menolong teman",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Aku yang Unik. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C01-010",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Aku yang Unik",
+      "type": "family100",
+      "question": "Unsur apa saja yang dapat dimasukkan ke paragraf deskripsi diri?",
+      "answers": [
+        {
+          "text": "pengenalan singkat",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "ciri khas",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "minat",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "bakat",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "kebiasaan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Aku yang Unik. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C01-011",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Aku yang Unik",
+      "type": "family100",
+      "question": "Sebutkan kata penghubung yang dapat digunakan untuk merangkai deskripsi diri.",
+      "answers": [
+        {
+          "text": "dan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "tetapi",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "karena",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "selain itu",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "sedangkan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Aku yang Unik. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C01-012",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Aku yang Unik",
+      "type": "family100",
+      "question": "Sebutkan langkah menyunting tulisan perkenalan diri.",
+      "answers": [
+        {
+          "text": "memeriksa ejaan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "memeriksa tanda baca",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "memeriksa huruf kapital",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "memperjelas kalimat",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "memperbaiki urutan gagasan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Aku yang Unik. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C02-001",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Buku Jendela Dunia",
+      "type": "family100",
+      "question": "Apa bagian penting buku yang membantu pembaca mengenal isinya?",
+      "answers": [
+        {
+          "text": "judul",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "nama penulis",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "daftar isi",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "sinopsis",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "ilustrasi sampul",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Buku Jendela Dunia. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C02-002",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Buku Jendela Dunia",
+      "type": "family100",
+      "question": "Sebutkan jenis buku nonfiksi yang dapat digunakan untuk belajar.",
+      "answers": [
+        {
+          "text": "ensiklopedia",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "atlas",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "kamus",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "biografi",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "buku pelajaran",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Buku Jendela Dunia. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C02-003",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Buku Jendela Dunia",
+      "type": "family100",
+      "question": "Sebutkan jenis cerita fiksi yang bisa ditemukan di perpustakaan.",
+      "answers": [
+        {
+          "text": "dongeng",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "fabel",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "cerpen",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "novel anak",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "cerita fantasi",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Buku Jendela Dunia. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C02-004",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Buku Jendela Dunia",
+      "type": "family100",
+      "question": "Apa saja unsur intrinsik cerita yang bisa didiskusikan setelah membaca?",
+      "answers": [
+        {
+          "text": "tokoh",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "latar",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "alur",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "tema",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "amanat",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Buku Jendela Dunia. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C02-005",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Buku Jendela Dunia",
+      "type": "family100",
+      "question": "Sebutkan hal yang dapat dicatat dalam jurnal membaca.",
+      "answers": [
+        {
+          "text": "judul buku",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "penulis",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "tanggal membaca",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "ringkasan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "pendapat pembaca",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Buku Jendela Dunia. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C02-006",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Buku Jendela Dunia",
+      "type": "family100",
+      "question": "Apa yang perlu dilakukan sebelum meminjam buku di perpustakaan?",
+      "answers": [
+        {
+          "text": "memilih judul",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "mengecek kondisi buku",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "membaca aturan pinjam",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menunjukkan kartu anggota",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "mencatat batas pengembalian",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Buku Jendela Dunia. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C02-007",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Buku Jendela Dunia",
+      "type": "family100",
+      "question": "Sebutkan informasi yang bisa diperoleh dari daftar isi buku.",
+      "answers": [
+        {
+          "text": "judul bab",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "urutan bab",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "nomor halaman",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "subbab",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "letak topik",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Buku Jendela Dunia. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C02-008",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Buku Jendela Dunia",
+      "type": "family100",
+      "question": "Sebutkan alasan mengapa pembaca membuat ringkasan buku.",
+      "answers": [
+        {
+          "text": "mengingat isi",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "menemukan pokok cerita",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "berbagi informasi",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "membantu belajar",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menyusun ulasan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Buku Jendela Dunia. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C02-009",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Buku Jendela Dunia",
+      "type": "family100",
+      "question": "Sebutkan cara merawat buku agar tidak mudah rusak.",
+      "answers": [
+        {
+          "text": "memakai pembatas halaman",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "menjaga dari air",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "menyimpan rapi",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "tidak melipat halaman",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "memegang dengan tangan bersih",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Buku Jendela Dunia. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C02-010",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Buku Jendela Dunia",
+      "type": "family100",
+      "question": "Apa yang dapat dibandingkan antara dua buku cerita?",
+      "answers": [
+        {
+          "text": "tokoh utama",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "latar tempat",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "tema",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "konflik",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "akhir cerita",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Buku Jendela Dunia. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C02-011",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Buku Jendela Dunia",
+      "type": "family100",
+      "question": "Apa ciri teks nonfiksi yang baik untuk diperiksa pembaca?",
+      "answers": [
+        {
+          "text": "berdasarkan fakta",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "mencantumkan sumber",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "informasi jelas",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "istilah tepat",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "data dapat diperiksa",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Buku Jendela Dunia. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C02-012",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Buku Jendela Dunia",
+      "type": "family100",
+      "question": "Sebutkan cara menyampaikan rekomendasi buku kepada teman.",
+      "answers": [
+        {
+          "text": "menyebut judul",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "menjelaskan tema",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "menyebut alasan suka",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menyebut sasaran pembaca",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menyampaikan kesan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Buku Jendela Dunia. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C03-001",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Ekspresi Diri Melalui Hobi",
+      "type": "family100",
+      "question": "Sebutkan contoh hobi yang menghasilkan karya.",
+      "answers": [
+        {
+          "text": "menulis cerita",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "menggambar",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "merajut",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "memotret",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "membuat kerajinan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Ekspresi Diri Melalui Hobi. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C03-002",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Ekspresi Diri Melalui Hobi",
+      "type": "family100",
+      "question": "Apa isi yang dapat dimasukkan dalam teks tentang hobi?",
+      "answers": [
+        {
+          "text": "nama hobi",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "alasan menyukai",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "alat yang dipakai",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "cara melakukan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "manfaat hobi",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Ekspresi Diri Melalui Hobi. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C03-003",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Ekspresi Diri Melalui Hobi",
+      "type": "family100",
+      "question": "Sebutkan manfaat melakukan hobi secara teratur.",
+      "answers": [
+        {
+          "text": "mengembangkan keterampilan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "mengurangi kejenuhan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "meningkatkan kreativitas",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "melatih disiplin",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menambah pengalaman",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Ekspresi Diri Melalui Hobi. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C03-004",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Ekspresi Diri Melalui Hobi",
+      "type": "family100",
+      "question": "Sebutkan kata kerja yang dapat digunakan untuk menceritakan kegiatan hobi.",
+      "answers": [
+        {
+          "text": "membaca",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "menulis",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "menggambar",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "berlatih",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "mengumpulkan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Ekspresi Diri Melalui Hobi. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C03-005",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Ekspresi Diri Melalui Hobi",
+      "type": "family100",
+      "question": "Apa yang perlu ditanyakan ketika mewawancarai teman tentang hobinya?",
+      "answers": [
+        {
+          "text": "jenis hobi",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "sejak kapan mulai",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "alat yang digunakan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "kesulitan yang dihadapi",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "hasil yang dicapai",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Ekspresi Diri Melalui Hobi. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C03-006",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Ekspresi Diri Melalui Hobi",
+      "type": "family100",
+      "question": "Sebutkan bagian penting laporan hasil wawancara tentang hobi.",
+      "answers": [
+        {
+          "text": "identitas narasumber",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "tujuan wawancara",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "daftar pertanyaan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "jawaban narasumber",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "kesimpulan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Ekspresi Diri Melalui Hobi. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C03-007",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Ekspresi Diri Melalui Hobi",
+      "type": "family100",
+      "question": "Sebutkan langkah menyiapkan presentasi tentang karya hobi.",
+      "answers": [
+        {
+          "text": "memilih karya",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "membuat kerangka",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "menulis poin utama",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "berlatih berbicara",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menyiapkan alat peraga",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Ekspresi Diri Melalui Hobi. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C03-008",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Ekspresi Diri Melalui Hobi",
+      "type": "family100",
+      "question": "Sebutkan cara memberi tanggapan membangun terhadap karya teman.",
+      "answers": [
+        {
+          "text": "menyebut kelebihan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "memberi saran santun",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "mengajukan pertanyaan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menghargai usaha",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "memberi alasan jelas",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Ekspresi Diri Melalui Hobi. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C03-009",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Ekspresi Diri Melalui Hobi",
+      "type": "family100",
+      "question": "Apa informasi yang bisa diberikan pada petunjuk membuat kerajinan?",
+      "answers": [
+        {
+          "text": "bahan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "alat",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "urutan langkah",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "waktu pengerjaan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "peringatan keselamatan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Ekspresi Diri Melalui Hobi. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C03-010",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Ekspresi Diri Melalui Hobi",
+      "type": "family100",
+      "question": "Sebutkan kata pengurut yang cocok untuk teks prosedur hobi.",
+      "answers": [
+        {
+          "text": "pertama",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "kedua",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "kemudian",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "setelah itu",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "terakhir",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Ekspresi Diri Melalui Hobi. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C03-011",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Ekspresi Diri Melalui Hobi",
+      "type": "family100",
+      "question": "Sebutkan sumber ide untuk menulis cerita tentang hobi.",
+      "answers": [
+        {
+          "text": "pengalaman pribadi",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "pengamatan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "wawancara",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "bacaan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "imajinasi",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Ekspresi Diri Melalui Hobi. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C03-012",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Ekspresi Diri Melalui Hobi",
+      "type": "family100",
+      "question": "Bagaimana cara menyunting tulisan pengalaman melakukan hobi?",
+      "answers": [
+        {
+          "text": "mengurutkan peristiwa",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "memperjelas tokoh",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "memeriksa ejaan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "memperbaiki kalimat",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menambahkan penutup",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Ekspresi Diri Melalui Hobi. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C04-001",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Belajar Berwirausaha",
+      "type": "family100",
+      "question": "Sebutkan kegiatan yang dilakukan seseorang sebelum memulai usaha kecil.",
+      "answers": [
+        {
+          "text": "menentukan produk",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "memeriksa kebutuhan pembeli",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "menghitung modal",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menentukan harga",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menyiapkan promosi",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Belajar Berwirausaha. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C04-002",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Belajar Berwirausaha",
+      "type": "family100",
+      "question": "Sebutkan informasi yang perlu ditulis pada iklan produk.",
+      "answers": [
+        {
+          "text": "nama produk",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "manfaat",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "harga",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "cara membeli",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "kontak penjual",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Belajar Berwirausaha. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C04-003",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Belajar Berwirausaha",
+      "type": "family100",
+      "question": "Apa yang sebaiknya ditanyakan saat wawancara dengan pedagang?",
+      "answers": [
+        {
+          "text": "produk terlaris",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "asal modal",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "cara menentukan harga",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "tantangan usaha",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "cara melayani pembeli",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Belajar Berwirausaha. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C04-004",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Belajar Berwirausaha",
+      "type": "family100",
+      "question": "Sebutkan ciri slogan promosi yang baik.",
+      "answers": [
+        {
+          "text": "singkat",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "jelas",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "mudah diingat",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "sesuai produk",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menarik",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Belajar Berwirausaha. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C04-005",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Belajar Berwirausaha",
+      "type": "family100",
+      "question": "Sebutkan media yang dapat digunakan untuk mempromosikan produk.",
+      "answers": [
+        {
+          "text": "poster",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "brosur",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "katalog",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "media sosial",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "papan pengumuman",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Belajar Berwirausaha. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C04-006",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Belajar Berwirausaha",
+      "type": "family100",
+      "question": "Apa unsur yang sebaiknya ada dalam laporan kunjungan ke tempat usaha?",
+      "answers": [
+        {
+          "text": "tujuan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "waktu",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "tempat",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "hasil pengamatan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "kesimpulan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Belajar Berwirausaha. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C04-007",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Belajar Berwirausaha",
+      "type": "family100",
+      "question": "Sebutkan sikap berbahasa yang baik saat menawarkan barang.",
+      "answers": [
+        {
+          "text": "santun",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "jujur",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "tidak memaksa",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "jelas",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "ramah",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Belajar Berwirausaha. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C04-008",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Belajar Berwirausaha",
+      "type": "family100",
+      "question": "Sebutkan informasi penting dalam daftar harga.",
+      "answers": [
+        {
+          "text": "nama barang",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "ukuran",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "satuan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "harga",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "diskon jika ada",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Belajar Berwirausaha. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C04-009",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Belajar Berwirausaha",
+      "type": "family100",
+      "question": "Sebutkan langkah membuat poster penjualan yang mudah dibaca.",
+      "answers": [
+        {
+          "text": "menentukan pesan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "menyusun judul",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "memilih gambar",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "mencantumkan harga",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "memeriksa ejaan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Belajar Berwirausaha. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C04-010",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Belajar Berwirausaha",
+      "type": "family100",
+      "question": "Apa yang perlu diperhatikan saat menulis surat atau pesan pemesanan?",
+      "answers": [
+        {
+          "text": "barang yang dipesan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "jumlah",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "alamat pengiriman",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "nama pemesan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "kontak",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Belajar Berwirausaha. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C04-011",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Belajar Berwirausaha",
+      "type": "family100",
+      "question": "Sebutkan kalimat pembuka yang santun dalam percakapan jual beli.",
+      "answers": [
+        {
+          "text": "selamat pagi",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "permisi",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "boleh saya bertanya",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "apakah barang ini tersedia",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "berapa harga barang ini",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Belajar Berwirausaha. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C04-012",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Belajar Berwirausaha",
+      "type": "family100",
+      "question": "Sebutkan cara membandingkan dua iklan secara kritis.",
+      "answers": [
+        {
+          "text": "memeriksa fakta",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "membandingkan harga",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "memeriksa klaim",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "mengenali sasaran pembaca",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "memeriksa informasi produk",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Belajar Berwirausaha. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C05-001",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Menjadi Warga Dunia",
+      "type": "family100",
+      "question": "Sebutkan sarana komunikasi yang membantu kita mengenal dunia.",
+      "answers": [
+        {
+          "text": "buku",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "radio",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "televisi",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "internet",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "surat kabar",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Menjadi Warga Dunia. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C05-002",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Menjadi Warga Dunia",
+      "type": "family100",
+      "question": "Apa yang perlu diperiksa untuk menilai kredibilitas berita daring?",
+      "answers": [
+        {
+          "text": "sumber berita",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "tanggal terbit",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "nama penulis",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "bukti pendukung",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "kesesuaian judul dan isi",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Menjadi Warga Dunia. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C05-003",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Menjadi Warga Dunia",
+      "type": "family100",
+      "question": "Sebutkan informasi pokok yang dijawab oleh pertanyaan 5W1H.",
+      "answers": [
+        {
+          "text": "apa",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "siapa",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "kapan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "di mana",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "mengapa",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Menjadi Warga Dunia. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C05-004",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Menjadi Warga Dunia",
+      "type": "family100",
+      "question": "Sebutkan cara mencari makna kata asing atau kata baru.",
+      "answers": [
+        {
+          "text": "membaca konteks",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "membuka kamus",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "bertanya kepada guru",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "mencari sinonim",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "membaca contoh penggunaan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Menjadi Warga Dunia. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C05-005",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Menjadi Warga Dunia",
+      "type": "family100",
+      "question": "Sebutkan contoh budaya dunia yang dapat dipelajari lewat bacaan.",
+      "answers": [
+        {
+          "text": "bahasa",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "makanan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "pakaian tradisional",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "musik",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "perayaan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Menjadi Warga Dunia. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",

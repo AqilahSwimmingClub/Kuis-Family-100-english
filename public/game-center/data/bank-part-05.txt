@@ -1,0 +1,5000 @@
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C05-006",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Menjadi Warga Dunia",
+      "type": "family100",
+      "question": "Sebutkan sikap yang baik saat bertukar pesan dengan teman dari daerah lain.",
+      "answers": [
+        {
+          "text": "sopan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "menghargai budaya",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "tidak mengejek",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menggunakan bahasa jelas",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menjaga privasi",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Menjadi Warga Dunia. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C05-007",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Menjadi Warga Dunia",
+      "type": "family100",
+      "question": "Apa saja bagian umum teks berita sederhana?",
+      "answers": [
+        {
+          "text": "judul",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "teras berita",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "isi",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "fakta pendukung",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "penutup",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Menjadi Warga Dunia. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C05-008",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Menjadi Warga Dunia",
+      "type": "family100",
+      "question": "Sebutkan cara mengenali opini dalam sebuah teks.",
+      "answers": [
+        {
+          "text": "ada kata penilaian",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "mengandung pendapat",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "belum tentu dapat dibuktikan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "berbeda antarorang",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "sering memakai kata menurut",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Menjadi Warga Dunia. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C05-009",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Menjadi Warga Dunia",
+      "type": "family100",
+      "question": "Sebutkan pertanyaan untuk memastikan informasi perjalanan dari artikel.",
+      "answers": [
+        {
+          "text": "ke mana tujuan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "kapan berangkat",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "apa yang dikunjungi",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "bagaimana transportasinya",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "mengapa tempat itu menarik",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Menjadi Warga Dunia. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C05-010",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Menjadi Warga Dunia",
+      "type": "family100",
+      "question": "Sebutkan ciri sumber informasi yang patut dipercaya.",
+      "answers": [
+        {
+          "text": "penulis jelas",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "penerbit jelas",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "fakta dapat diperiksa",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "tanggal mutakhir",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "rujukan tersedia",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Menjadi Warga Dunia. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C05-011",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Menjadi Warga Dunia",
+      "type": "family100",
+      "question": "Sebutkan manfaat membaca cerita dari berbagai negara.",
+      "answers": [
+        {
+          "text": "menambah kosakata",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "mengenal budaya",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "melatih empati",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "memperluas wawasan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menemukan perspektif baru",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Menjadi Warga Dunia. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C05-012",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Menjadi Warga Dunia",
+      "type": "family100",
+      "question": "Sebutkan langkah menulis tanggapan terhadap berita yang dibaca.",
+      "answers": [
+        {
+          "text": "mencatat fakta utama",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "memeriksa sumber",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "menyampaikan pendapat",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "memberikan alasan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menutup dengan kesimpulan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Menjadi Warga Dunia. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C06-001",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Cinta Indonesia",
+      "type": "family100",
+      "question": "Sebutkan contoh warisan budaya Indonesia yang dapat dibahas dalam teks.",
+      "answers": [
+        {
+          "text": "batik",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "wayang",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "angklung",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "tari saman",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "rumah adat",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Cinta Indonesia. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C06-002",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Cinta Indonesia",
+      "type": "family100",
+      "question": "Apa yang bisa dideskripsikan ketika memperkenalkan tempat wisata Indonesia?",
+      "answers": [
+        {
+          "text": "lokasi",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "keunikan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "akses transportasi",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "aktivitas wisata",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "aturan berkunjung",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Cinta Indonesia. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C06-003",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Cinta Indonesia",
+      "type": "family100",
+      "question": "Sebutkan bagian brosur wisata yang memudahkan pembaca.",
+      "answers": [
+        {
+          "text": "judul destinasi",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "gambar",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "informasi lokasi",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "daya tarik",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "cara menghubungi pengelola",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Cinta Indonesia. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C06-004",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Cinta Indonesia",
+      "type": "family100",
+      "question": "Sebutkan cara menunjukkan cinta tanah air dalam kegiatan sehari-hari.",
+      "answers": [
+        {
+          "text": "menjaga lingkungan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "menghargai bahasa Indonesia",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "mempelajari budaya lokal",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menaati aturan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menghormati keberagaman",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Cinta Indonesia. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C06-005",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Cinta Indonesia",
+      "type": "family100",
+      "question": "Apa yang perlu ditanyakan kepada narasumber tentang tradisi daerah?",
+      "answers": [
+        {
+          "text": "asal tradisi",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "waktu pelaksanaan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "makna tradisi",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "perlengkapan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "kegiatan utama",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Cinta Indonesia. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C06-006",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Cinta Indonesia",
+      "type": "family100",
+      "question": "Sebutkan informasi yang bisa muncul dalam teks deskripsi makanan tradisional.",
+      "answers": [
+        {
+          "text": "nama makanan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "asal daerah",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "bahan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "rasa",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "cara penyajian",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Cinta Indonesia. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C06-007",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Cinta Indonesia",
+      "type": "family100",
+      "question": "Sebutkan unsur budaya yang dapat dibandingkan antarwilayah Indonesia.",
+      "answers": [
+        {
+          "text": "bahasa daerah",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "rumah adat",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "tarian",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "makanan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "alat musik",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Cinta Indonesia. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C06-008",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Cinta Indonesia",
+      "type": "family100",
+      "question": "Apa yang dapat dicantumkan dalam laporan kunjungan museum?",
+      "answers": [
+        {
+          "text": "nama museum",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "lokasi",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "benda koleksi",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "hal yang dipelajari",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "kesan pengunjung",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Cinta Indonesia. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C06-009",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Cinta Indonesia",
+      "type": "family100",
+      "question": "Sebutkan ungkapan ajakan untuk merawat peninggalan budaya.",
+      "answers": [
+        {
+          "text": "ayo menjaga",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "marilah melestarikan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "jangan merusak",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "belajarlah mengenal",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "hormati warisan budaya",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Cinta Indonesia. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C06-010",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Cinta Indonesia",
+      "type": "family100",
+      "question": "Sebutkan cara menemukan informasi penting dari artikel budaya.",
+      "answers": [
+        {
+          "text": "membaca judul",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "mencari kata kunci",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "mencatat fakta",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "memeriksa gambar",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "membuat ringkasan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Cinta Indonesia. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C06-011",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Cinta Indonesia",
+      "type": "family100",
+      "question": "Sebutkan sikap santun saat bertemu orang dari budaya berbeda.",
+      "answers": [
+        {
+          "text": "menghargai adat",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "tidak mengejek",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "bertanya dengan sopan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "mendengarkan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "bersikap terbuka",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Cinta Indonesia. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C06-012",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Cinta Indonesia",
+      "type": "family100",
+      "question": "Sebutkan langkah menyiapkan pidato singkat tentang cinta Indonesia.",
+      "answers": [
+        {
+          "text": "menentukan tujuan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "mengumpulkan contoh",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "membuat pembuka",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menyusun isi",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menulis penutup",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Cinta Indonesia. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C07-001",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "Sayangi Bumi",
+      "type": "family100",
+      "question": "Sebutkan masalah lingkungan yang bisa menjadi topik teks informasi.",
+      "answers": [
+        {
+          "text": "sampah plastik",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "polusi udara",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "pencemaran air",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "penebangan hutan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "banjir",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Sayangi Bumi. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C07-002",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "Sayangi Bumi",
+      "type": "family100",
+      "question": "Sebutkan tindakan sederhana untuk mengurangi sampah di sekolah.",
+      "answers": [
+        {
+          "text": "membawa botol minum",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "menggunakan kotak makan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "memilah sampah",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menggunakan ulang kertas",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menghindari plastik sekali pakai",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Sayangi Bumi. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C07-003",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "Sayangi Bumi",
+      "type": "family100",
+      "question": "Apa informasi yang penting dimuat pada poster hemat air?",
+      "answers": [
+        {
+          "text": "ajakan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "alasan menghemat air",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "contoh tindakan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "gambar pendukung",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "kalimat singkat",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Sayangi Bumi. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C07-004",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "Sayangi Bumi",
+      "type": "family100",
+      "question": "Sebutkan contoh kalimat ajakan menjaga lingkungan.",
+      "answers": [
+        {
+          "text": "ayo menanam pohon",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "mari memilah sampah",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "hematlah air",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "jangan membuang sampah sembarangan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "gunakan kembali barang",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Sayangi Bumi. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C07-005",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "Sayangi Bumi",
+      "type": "family100",
+      "question": "Apa yang perlu diamati saat membuat laporan kebersihan sekolah?",
+      "answers": [
+        {
+          "text": "kondisi halaman",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "jenis sampah",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "lokasi tempat sampah",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "perilaku warga sekolah",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "ketersediaan alat kebersihan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Sayangi Bumi. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C07-006",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "Sayangi Bumi",
+      "type": "family100",
+      "question": "Sebutkan langkah menyusun teks eksplanasi sederhana tentang banjir.",
+      "answers": [
+        {
+          "text": "menentukan peristiwa",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "menyebut penyebab",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "menjelaskan proses",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menjelaskan akibat",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menuliskan penutup",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Sayangi Bumi. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C07-007",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "Sayangi Bumi",
+      "type": "family100",
+      "question": "Sebutkan contoh sumber data untuk tulisan tentang masalah lingkungan.",
+      "answers": [
+        {
+          "text": "hasil pengamatan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "wawancara",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "laporan pemerintah",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "artikel sains",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "catatan kegiatan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Sayangi Bumi. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C07-008",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "Sayangi Bumi",
+      "type": "family100",
+      "question": "Sebutkan akibat yang mungkin terjadi karena sampah menyumbat saluran air.",
+      "answers": [
+        {
+          "text": "genangan air",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "banjir",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "bau tidak sedap",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "sarang penyakit",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "kerusakan lingkungan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Sayangi Bumi. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C07-009",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "Sayangi Bumi",
+      "type": "family100",
+      "question": "Sebutkan unsur yang dapat diperiksa pada infografik lingkungan.",
+      "answers": [
+        {
+          "text": "judul",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "angka atau data",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "gambar",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "label",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "sumber informasi",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Sayangi Bumi. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C07-010",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "Sayangi Bumi",
+      "type": "family100",
+      "question": "Sebutkan kegiatan kerja kelompok untuk kampanye peduli bumi.",
+      "answers": [
+        {
+          "text": "membuat poster",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "mengumpulkan sampah",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "menanam bibit",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "membuat presentasi",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menyusun jadwal piket",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Sayangi Bumi. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C07-011",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "Sayangi Bumi",
+      "type": "family100",
+      "question": "Sebutkan ciri pesan kampanye lingkungan yang efektif.",
+      "answers": [
+        {
+          "text": "jelas",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "singkat",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "berdasarkan fakta",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "mudah dilakukan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "santun",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Sayangi Bumi. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C07-012",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "Sayangi Bumi",
+      "type": "family100",
+      "question": "Sebutkan cara menyimpulkan bacaan tentang pelestarian bumi.",
+      "answers": [
+        {
+          "text": "menemukan gagasan utama",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "memilih fakta penting",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "mengelompokkan informasi",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menuliskan inti",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "memakai kalimat sendiri",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Sayangi Bumi. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C08-001",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "Bergerak Bersama",
+      "type": "family100",
+      "question": "Apa yang dapat dilakukan dalam rapat kelas agar diskusi berjalan baik?",
+      "answers": [
+        {
+          "text": "mengikuti giliran bicara",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "mendengarkan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "menyampaikan pendapat",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "mencatat keputusan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menghargai perbedaan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Bergerak Bersama. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C08-002",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "Bergerak Bersama",
+      "type": "family100",
+      "question": "Sebutkan tugas anggota tim saat membuat majalah dinding.",
+      "answers": [
+        {
+          "text": "penulis",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "editor",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "ilustrator",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "penata letak",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "pemeriksa ejaan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Bergerak Bersama. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C08-003",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "Bergerak Bersama",
+      "type": "family100",
+      "question": "Apa yang perlu disiapkan sebelum melakukan presentasi kelompok?",
+      "answers": [
+        {
+          "text": "materi",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "kerangka",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "alat bantu",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "pembagian tugas",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "latihan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Bergerak Bersama. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C08-004",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "Bergerak Bersama",
+      "type": "family100",
+      "question": "Sebutkan bentuk kerja sama untuk proyek literasi kelas.",
+      "answers": [
+        {
+          "text": "membagi tugas",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "bertukar referensi",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "memeriksa tulisan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "memberi umpan balik",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menyusun jadwal",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Bergerak Bersama. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C08-005",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "Bergerak Bersama",
+      "type": "family100",
+      "question": "Sebutkan langkah membuat laporan kegiatan bersama.",
+      "answers": [
+        {
+          "text": "menulis tujuan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "mencatat peserta",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "menjelaskan proses",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "mendata hasil",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menyusun kesimpulan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Bergerak Bersama. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C08-006",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "Bergerak Bersama",
+      "type": "family100",
+      "question": "Apa ciri notula rapat kelas yang bermanfaat?",
+      "answers": [
+        {
+          "text": "mencatat waktu",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "mencatat peserta",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "mencatat agenda",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "mencatat keputusan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "mencatat tindak lanjut",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Bergerak Bersama. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C08-007",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "Bergerak Bersama",
+      "type": "family100",
+      "question": "Sebutkan contoh tanggapan yang mendukung diskusi kelompok.",
+      "answers": [
+        {
+          "text": "saya setuju karena",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "boleh saya menambahkan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "bagaimana jika",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menurut pendapat saya",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "terima kasih atas usulnya",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Bergerak Bersama. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C08-008",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "Bergerak Bersama",
+      "type": "family100",
+      "question": "Sebutkan cara menyelesaikan perbedaan pendapat secara santun.",
+      "answers": [
+        {
+          "text": "mendengarkan alasan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "bermusyawarah",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "memakai fakta",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menghindari ejekan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "mencari kesepakatan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Bergerak Bersama. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C08-009",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "Bergerak Bersama",
+      "type": "family100",
+      "question": "Sebutkan bahan yang dapat digunakan untuk membuat buletin kelas.",
+      "answers": [
+        {
+          "text": "artikel",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "foto",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "ilustrasi",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "wawancara",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "laporan kegiatan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Bergerak Bersama. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C08-010",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "Bergerak Bersama",
+      "type": "family100",
+      "question": "Apa yang perlu diperiksa ketika menyunting tulisan kelompok?",
+      "answers": [
+        {
+          "text": "ejaan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "pilihan kata",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "urutan paragraf",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "kelengkapan informasi",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "tanda baca",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Bergerak Bersama. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C08-011",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "Bergerak Bersama",
+      "type": "family100",
+      "question": "Sebutkan langkah memberi laporan lisan hasil proyek.",
+      "answers": [
+        {
+          "text": "membuka presentasi",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "menyebut tujuan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "menjelaskan proses",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "memaparkan hasil",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menutup presentasi",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Bergerak Bersama. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-BINDO-ADD-C08-012",
+      "subject": "Bahasa Indonesia",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "Bergerak Bersama",
+      "type": "family100",
+      "question": "Sebutkan contoh refleksi setelah menyelesaikan proyek bersama.",
+      "answers": [
+        {
+          "text": "apa yang berhasil",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "apa yang sulit",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "kontribusi setiap anggota",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "hal yang dipelajari",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "rencana perbaikan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban berdasarkan kompetensi bahasa pada tema Bergerak Bersama. Guru memeriksa kecocokan jawaban dengan konteks pertanyaan dan menjelaskan alasan setiap jawaban.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot permainan; bukan survei. Daftar jawaban bersifat contoh, guru boleh menilai jawaban lain yang benar."
+    },
+    {
+      "id": "F5-PP-ADD-001",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Pancasila dalam Kehidupanku",
+      "type": "family100",
+      "question": "Sebutkan contoh sikap sesuai sila kedua.",
+      "answers": [
+        {
+          "text": "menolong teman",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "tidak membeda-bedakan orang",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "menghargai hak orang lain",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "bersikap sopan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "membela yang diperlakukan tidak adil",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-002",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Pancasila dalam Kehidupanku",
+      "type": "family100",
+      "question": "Sebutkan contoh sikap sesuai sila ketiga.",
+      "answers": [
+        {
+          "text": "gotong royong",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "menjaga persatuan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "cinta tanah air",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menghargai perbedaan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menggunakan bahasa Indonesia dengan baik",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-003",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Pancasila dalam Kehidupanku",
+      "type": "family100",
+      "question": "Sebutkan contoh sikap sesuai sila keempat.",
+      "answers": [
+        {
+          "text": "bermusyawarah",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "mendengarkan pendapat",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "menerima hasil musyawarah",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "tidak memaksakan kehendak",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "memilih ketua kelas bersama",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-004",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Pancasila dalam Kehidupanku",
+      "type": "family100",
+      "question": "Sebutkan contoh sikap sesuai sila kelima.",
+      "answers": [
+        {
+          "text": "berbagi secara adil",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "tidak pilih kasih",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "menghargai karya teman",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "membantu yang membutuhkan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menyeimbangkan hak dan kewajiban",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-005",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Pancasila dalam Kehidupanku",
+      "type": "family100",
+      "question": "Sebutkan simbol yang terdapat pada perisai Garuda Pancasila.",
+      "answers": [
+        {
+          "text": "bintang",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "rantai",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "pohon beringin",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "kepala banteng",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "padi dan kapas",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-006",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Pancasila dalam Kehidupanku",
+      "type": "family100",
+      "question": "Sebutkan tempat penerapan nilai Pancasila dalam kehidupan sehari-hari.",
+      "answers": [
+        {
+          "text": "rumah",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "sekolah",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "lingkungan tetangga",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "tempat bermain",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "masyarakat",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-007",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Pancasila dalam Kehidupanku",
+      "type": "family100",
+      "question": "Apa contoh kerja sama yang mencerminkan nilai Pancasila di sekolah?",
+      "answers": [
+        {
+          "text": "piket kelas",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "kerja kelompok",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "menata kelas bersama",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menolong teman belajar",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "membersihkan halaman sekolah",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-008",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Pancasila dalam Kehidupanku",
+      "type": "family100",
+      "question": "Bagaimana menghargai perbedaan di antara teman?",
+      "answers": [
+        {
+          "text": "tidak mengejek",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "mendengarkan pendapat",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "bersikap ramah",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menghormati keyakinan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "bekerja sama dengan semua teman",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-009",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Pancasila dalam Kehidupanku",
+      "type": "family100",
+      "question": "Sebutkan tindakan yang menunjukkan persatuan saat kegiatan sekolah.",
+      "answers": [
+        {
+          "text": "mengikuti upacara dengan tertib",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "bekerja sama saat lomba",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "saling menyemangati",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "membantu teman dari kelas lain",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menjaga kerukunan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-010",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Pancasila dalam Kehidupanku",
+      "type": "family100",
+      "question": "Sebutkan kegiatan yang bisa diputuskan melalui musyawarah kelas.",
+      "answers": [
+        {
+          "text": "memilih ketua kelas",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "membagi tugas kelompok",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "menentukan jadwal piket",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menetapkan aturan kelas",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "memilih kegiatan bersama",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-011",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Pancasila dalam Kehidupanku",
+      "type": "family100",
+      "question": "Sebutkan cara menyampaikan pendapat yang baik dalam musyawarah.",
+      "answers": [
+        {
+          "text": "mengangkat tangan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "berbicara bergantian",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "menggunakan bahasa sopan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "memberi alasan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menghargai pendapat berbeda",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-012",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Pancasila dalam Kehidupanku",
+      "type": "family100",
+      "question": "Apa yang perlu dilakukan setelah keputusan musyawarah ditetapkan?",
+      "answers": [
+        {
+          "text": "melaksanakan keputusan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "menerima dengan lapang dada",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "bekerja sama",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menjalankan tugas",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "mengevaluasi pelaksanaan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-013",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Pancasila dalam Kehidupanku",
+      "type": "family100",
+      "question": "Apa contoh perilaku adil dalam kerja kelompok?",
+      "answers": [
+        {
+          "text": "membagi tugas seimbang",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "mendengar semua anggota",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "memberi kesempatan bicara",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menghargai kontribusi",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "tidak membebankan tugas ke satu orang",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-014",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Pancasila dalam Kehidupanku",
+      "type": "family100",
+      "question": "Sebutkan tindakan menjaga kerukunan di rumah.",
+      "answers": [
+        {
+          "text": "menghormati anggota keluarga",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "membantu pekerjaan rumah",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "tidak bertengkar",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "berbicara baik",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "berbagi tugas",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-015",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Pancasila dalam Kehidupanku",
+      "type": "family100",
+      "question": "Apa contoh perilaku mencintai tanah air bagi siswa?",
+      "answers": [
+        {
+          "text": "merawat lingkungan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "menghormati bendera",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "mempelajari budaya daerah",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menggunakan produk lokal dengan bijak",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "mengikuti upacara dengan tertib",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-016",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Pancasila dalam Kehidupanku",
+      "type": "family100",
+      "question": "Sebutkan cara menyelesaikan perbedaan pendapat tanpa bertengkar.",
+      "answers": [
+        {
+          "text": "berdialog",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "mendengarkan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "bermusyawarah",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "mencari kesepakatan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menghormati keputusan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-017",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Pancasila dalam Kehidupanku",
+      "type": "family100",
+      "question": "Apa manfaat menerapkan nilai Pancasila di kelas?",
+      "answers": [
+        {
+          "text": "kelas rukun",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "kerja sama baik",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "saling menghormati",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "keputusan adil",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "belajar nyaman",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-018",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Pancasila dalam Kehidupanku",
+      "type": "family100",
+      "question": "Sebutkan peran siswa dalam menjaga persatuan sekolah.",
+      "answers": [
+        {
+          "text": "menolak perundungan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "mengajak teman bermain",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "menghargai perbedaan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "mendamaikan teman",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menjaga kekompakan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-019",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Norma dalam Kehidupanku",
+      "type": "family100",
+      "question": "Sebutkan empat jenis norma dalam kehidupan bermasyarakat.",
+      "answers": [
+        {
+          "text": "norma agama",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "norma kesusilaan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "norma kesopanan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "norma hukum",
+          "aliases": [],
+          "points": 20
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-020",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Norma dalam Kehidupanku",
+      "type": "family100",
+      "question": "Sebutkan contoh penerapan norma agama dalam kehidupan sehari-hari.",
+      "answers": [
+        {
+          "text": "beribadah",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "menghormati pemeluk agama lain",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "bersyukur",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "tidak mengganggu ibadah orang",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menjaga sikap baik",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-021",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Norma dalam Kehidupanku",
+      "type": "family100",
+      "question": "Sebutkan contoh penerapan norma kesusilaan.",
+      "answers": [
+        {
+          "text": "berkata jujur",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "mengakui kesalahan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "tidak menipu",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menepati janji",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "merasa bersalah ketika berbuat buruk",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-022",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Norma dalam Kehidupanku",
+      "type": "family100",
+      "question": "Sebutkan contoh norma kesopanan di sekolah.",
+      "answers": [
+        {
+          "text": "menyapa guru",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "berbicara santun",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "meminta izin",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "mengantre",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "mengucapkan terima kasih",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-023",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Norma dalam Kehidupanku",
+      "type": "family100",
+      "question": "Sebutkan contoh aturan yang terkait norma hukum.",
+      "answers": [
+        {
+          "text": "mematuhi rambu lalu lintas",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "menggunakan helm saat berkendara motor",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "tidak merusak fasilitas umum",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menyeberang sesuai aturan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "tidak mencuri",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-024",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Norma dalam Kehidupanku",
+      "type": "family100",
+      "question": "Sebutkan hak yang dimiliki siswa di sekolah.",
+      "answers": [
+        {
+          "text": "mendapat pembelajaran",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "merasa aman",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "menggunakan fasilitas sekolah sesuai aturan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "bertanya kepada guru",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "mendapat perlakuan adil",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-025",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Norma dalam Kehidupanku",
+      "type": "family100",
+      "question": "Sebutkan kewajiban siswa di sekolah.",
+      "answers": [
+        {
+          "text": "belajar sungguh-sungguh",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "menjaga kebersihan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "menaati tata tertib",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menghormati guru",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "mengerjakan tugas",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-026",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Norma dalam Kehidupanku",
+      "type": "family100",
+      "question": "Sebutkan hak anak di rumah.",
+      "answers": [
+        {
+          "text": "mendapat kasih sayang",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "mendapat makanan yang layak",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "mendapat perlindungan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "memperoleh pendidikan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "didengar pendapatnya",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-027",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Norma dalam Kehidupanku",
+      "type": "family100",
+      "question": "Sebutkan kewajiban anak di rumah.",
+      "answers": [
+        {
+          "text": "membantu orang tua sesuai kemampuan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "merapikan barang",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "menghormati keluarga",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menjaga kebersihan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "belajar",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-028",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Norma dalam Kehidupanku",
+      "type": "family100",
+      "question": "Sebutkan contoh tanggung jawab ketika mendapat tugas piket.",
+      "answers": [
+        {
+          "text": "datang sesuai jadwal",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "menyapu kelas",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "merapikan meja",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "membuang sampah pada tempatnya",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "bekerja sama dengan anggota piket",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-029",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Norma dalam Kehidupanku",
+      "type": "family100",
+      "question": "Sebutkan manfaat adanya tata tertib sekolah.",
+      "answers": [
+        {
+          "text": "lingkungan tertib",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "siswa aman",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "kegiatan lancar",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "tanggung jawab tumbuh",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "hak terlindungi",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-030",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Norma dalam Kehidupanku",
+      "type": "family100",
+      "question": "Apa akibat tidak mematuhi kesepakatan kelas?",
+      "answers": [
+        {
+          "text": "kelas tidak tertib",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "belajar terganggu",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "teman merasa dirugikan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "muncul perselisihan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "kepercayaan berkurang",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-031",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Norma dalam Kehidupanku",
+      "type": "family100",
+      "question": "Sebutkan contoh perilaku menghargai hak teman.",
+      "answers": [
+        {
+          "text": "tidak mengganggu belajar",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "meminjam barang dengan izin",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "memberi kesempatan bicara",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "tidak mengejek",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menjaga barang milik teman",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-032",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Norma dalam Kehidupanku",
+      "type": "family100",
+      "question": "Sebutkan cara membuat kesepakatan kelas yang baik.",
+      "answers": [
+        {
+          "text": "berdiskusi bersama",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "mendengarkan semua suara",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "membuat aturan jelas",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menyetujui bersama",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "mengevaluasi berkala",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-033",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Norma dalam Kehidupanku",
+      "type": "family100",
+      "question": "Sebutkan alasan kita perlu melaksanakan kewajiban.",
+      "answers": [
+        {
+          "text": "menjaga ketertiban",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "menghormati hak orang",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "melatih tanggung jawab",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menciptakan kenyamanan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "membangun kepercayaan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-034",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Norma dalam Kehidupanku",
+      "type": "family100",
+      "question": "Bagaimana tindakan yang tepat jika melanggar aturan?",
+      "answers": [
+        {
+          "text": "mengakui kesalahan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "meminta maaf",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "memperbaiki akibat",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menerima konsekuensi yang adil",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "tidak mengulangi",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-035",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Norma dalam Kehidupanku",
+      "type": "family100",
+      "question": "Sebutkan tindakan santun saat meminta bantuan orang lain.",
+      "answers": [
+        {
+          "text": "mengucapkan tolong",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "menjelaskan dengan baik",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "tidak memaksa",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "mengucapkan terima kasih",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menghormati penolakan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-036",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Norma dalam Kehidupanku",
+      "type": "family100",
+      "question": "Sebutkan contoh keseimbangan hak dan kewajiban di perpustakaan.",
+      "answers": [
+        {
+          "text": "berhak membaca buku",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "wajib menjaga buku",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "berhak meminjam sesuai aturan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "wajib mengembalikan tepat waktu",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "berhak menggunakan ruang dan wajib menjaga ketenangan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-037",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Keragaman Budaya Indonesiaku",
+      "type": "family100",
+      "question": "Sebutkan contoh keberagaman budaya di Indonesia.",
+      "answers": [
+        {
+          "text": "bahasa daerah",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "rumah adat",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "tarian daerah",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "pakaian adat",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "makanan tradisional",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-038",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Keragaman Budaya Indonesiaku",
+      "type": "family100",
+      "question": "Sebutkan cara menghargai budaya daerah lain.",
+      "answers": [
+        {
+          "text": "tidak mengejek tradisi",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "mempelajari tarian daerah",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "menghormati pakaian adat",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "mencicipi makanan tradisional dengan sopan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "mendengarkan cerita budaya",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-039",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Keragaman Budaya Indonesiaku",
+      "type": "family100",
+      "question": "Sebutkan contoh kegiatan sekolah untuk mengenalkan budaya Indonesia.",
+      "answers": [
+        {
+          "text": "pentas seni",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "pameran budaya",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "hari pakaian adat",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "festival makanan daerah",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "pertunjukan tari daerah",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-040",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Keragaman Budaya Indonesiaku",
+      "type": "family100",
+      "question": "Sebutkan manfaat keberagaman budaya.",
+      "answers": [
+        {
+          "text": "memperkaya pengetahuan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "menambah daya tarik wisata",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "mempererat persaudaraan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "memunculkan kreativitas",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "mewariskan tradisi",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-041",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Keragaman Budaya Indonesiaku",
+      "type": "family100",
+      "question": "Apa cara melestarikan bahasa daerah?",
+      "answers": [
+        {
+          "text": "berlatih berbicara",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "mendengarkan cerita daerah",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "mempelajari kosakata",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "membaca karya daerah",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menggunakannya secara tepat",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-042",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Keragaman Budaya Indonesiaku",
+      "type": "family100",
+      "question": "Sebutkan contoh karya budaya berbentuk seni pertunjukan.",
+      "answers": [
+        {
+          "text": "tari tradisional",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "wayang",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "musik tradisional",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "teater rakyat",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "pertunjukan boneka tradisional",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-043",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Keragaman Budaya Indonesiaku",
+      "type": "family100",
+      "question": "Sebutkan cara menjaga kerukunan dalam kelas yang beragam.",
+      "answers": [
+        {
+          "text": "saling menghormati",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "bermain bersama",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "tidak membuat stereotip",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "berdiskusi sopan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menolong tanpa membeda-bedakan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-044",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Keragaman Budaya Indonesiaku",
+      "type": "family100",
+      "question": "Sebutkan contoh benda budaya yang bisa dikenalkan pada pameran kelas.",
+      "answers": [
+        {
+          "text": "batik",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "alat musik tradisional",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "miniatur rumah adat",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "kain tenun",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "kerajinan daerah",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-045",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Keragaman Budaya Indonesiaku",
+      "type": "family100",
+      "question": "Sebutkan alasan tidak boleh mengejek logat atau bahasa daerah teman.",
+      "answers": [
+        {
+          "text": "menyakiti perasaan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "mengurangi rasa percaya diri",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "memicu konflik",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "merendahkan identitas budaya",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menghambat persahabatan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-046",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Keragaman Budaya Indonesiaku",
+      "type": "family100",
+      "question": "Sebutkan sikap saat menyaksikan pertunjukan budaya daerah.",
+      "answers": [
+        {
+          "text": "menonton tertib",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "menghargai penampil",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "tidak mengejek",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "bertepuk tangan sewajarnya",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menjaga kebersihan tempat",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-047",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Keragaman Budaya Indonesiaku",
+      "type": "family100",
+      "question": "Sebutkan tempat kita dapat mempelajari keragaman budaya.",
+      "answers": [
+        {
+          "text": "rumah",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "sekolah",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "museum",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "perpustakaan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "sanggar budaya",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-048",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Keragaman Budaya Indonesiaku",
+      "type": "family100",
+      "question": "Sebutkan contoh kerja sama lintas budaya di lingkungan sekolah.",
+      "answers": [
+        {
+          "text": "membuat poster keberagaman",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "kelompok tari bersama",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "pameran kelas",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "membuat buku budaya",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "berbagi cerita tradisi keluarga",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-049",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Keragaman Budaya Indonesiaku",
+      "type": "family100",
+      "question": "Apa manfaat mempelajari lagu daerah?",
+      "answers": [
+        {
+          "text": "mengenal bahasa daerah",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "menghargai seni musik",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "memahami tradisi",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menambah repertoar lagu",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "melestarikan budaya",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-050",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Keragaman Budaya Indonesiaku",
+      "type": "family100",
+      "question": "Sebutkan contoh perilaku menjaga persatuan dalam perbedaan.",
+      "answers": [
+        {
+          "text": "menghargai keyakinan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "tidak melakukan perundungan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "mendengarkan pendapat",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "membantu siapa pun",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "mengutamakan kepentingan bersama",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-051",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Keragaman Budaya Indonesiaku",
+      "type": "family100",
+      "question": "Sebutkan contoh keberagaman di lingkungan rumah.",
+      "answers": [
+        {
+          "text": "perbedaan pekerjaan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "perbedaan usia",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "perbedaan kebiasaan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "perbedaan bahasa",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "perbedaan kesukaan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-052",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Keragaman Budaya Indonesiaku",
+      "type": "family100",
+      "question": "Bagaimana siswa dapat memperkenalkan budaya daerah secara bertanggung jawab?",
+      "answers": [
+        {
+          "text": "mencari informasi benar",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "menghormati sumber budaya",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "menjelaskan asal daerah",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "membuat presentasi",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "tidak mengaku karya budaya orang sebagai milik sendiri",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-053",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Keragaman Budaya Indonesiaku",
+      "type": "family100",
+      "question": "Sebutkan manfaat gotong royong di tengah keberagaman.",
+      "answers": [
+        {
+          "text": "pekerjaan ringan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "warga saling mengenal",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "perselisihan berkurang",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "lingkungan lebih rapi",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "solidaritas meningkat",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-054",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Keragaman Budaya Indonesiaku",
+      "type": "family100",
+      "question": "Sebutkan hal yang perlu diperhatikan saat mengenakan pakaian adat.",
+      "answers": [
+        {
+          "text": "mengetahui asal pakaian",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "menghormati maknanya",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "menjaga kebersihan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "memakai dengan pantas",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "tidak mengejek adat lain",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-055",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Aku dan Lingkungan Sekitarku",
+      "type": "family100",
+      "question": "Sebutkan fasilitas umum di lingkungan sekitar yang harus dijaga.",
+      "answers": [
+        {
+          "text": "jalan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "taman",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "perpustakaan umum",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "halte",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "tempat bermain",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-056",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Aku dan Lingkungan Sekitarku",
+      "type": "family100",
+      "question": "Sebutkan cara menjaga kebersihan lingkungan rumah.",
+      "answers": [
+        {
+          "text": "memilah sampah",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "menyapu halaman",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "membersihkan selokan dengan pendampingan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "mengurangi plastik sekali pakai",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "merawat tanaman",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-057",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Aku dan Lingkungan Sekitarku",
+      "type": "family100",
+      "question": "Sebutkan contoh gotong royong di lingkungan masyarakat.",
+      "answers": [
+        {
+          "text": "kerja bakti",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "membersihkan saluran air",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "menanam pohon",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "membantu kegiatan warga",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menyiapkan acara lingkungan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-058",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Aku dan Lingkungan Sekitarku",
+      "type": "family100",
+      "question": "Sebutkan peran anak dalam menjaga keamanan lingkungan.",
+      "answers": [
+        {
+          "text": "melapor pada orang dewasa jika ada bahaya",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "tidak bermain di jalan ramai",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "menjaga barang pribadi",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "mematuhi aturan lingkungan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "bermain di tempat aman",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-059",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Aku dan Lingkungan Sekitarku",
+      "type": "family100",
+      "question": "Sebutkan contoh sikap peduli terhadap tetangga.",
+      "answers": [
+        {
+          "text": "menyapa dengan sopan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "menolong sesuai kemampuan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "menghargai waktu istirahat",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "tidak membuat keributan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "berbagi informasi bermanfaat",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-060",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Aku dan Lingkungan Sekitarku",
+      "type": "family100",
+      "question": "Sebutkan tempat di lingkungan yang dapat digunakan untuk bermusyawarah warga.",
+      "answers": [
+        {
+          "text": "balai warga",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "aula sekolah",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "rumah ketua RT",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "gedung serbaguna",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "ruang pertemuan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-061",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Aku dan Lingkungan Sekitarku",
+      "type": "family100",
+      "question": "Sebutkan cara menjaga fasilitas sekolah sebagai bagian lingkungan bersama.",
+      "answers": [
+        {
+          "text": "tidak mencoret meja",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "mematikan lampu saat tidak digunakan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "menjaga toilet",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "merawat tanaman",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "mengembalikan alat ke tempatnya",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-062",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Aku dan Lingkungan Sekitarku",
+      "type": "family100",
+      "question": "Sebutkan contoh aturan yang membantu ketertiban lingkungan.",
+      "answers": [
+        {
+          "text": "membuang sampah pada tempatnya",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "membatasi kebisingan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "mengikuti aturan penggunaan fasilitas",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menjaga keamanan bermain",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "mengantre",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-063",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Aku dan Lingkungan Sekitarku",
+      "type": "family100",
+      "question": "Sebutkan dampak positif kerja bakti di lingkungan.",
+      "answers": [
+        {
+          "text": "lingkungan bersih",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "warga saling kenal",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "pekerjaan cepat selesai",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "risiko saluran tersumbat berkurang",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "kerja sama terlatih",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-064",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Aku dan Lingkungan Sekitarku",
+      "type": "family100",
+      "question": "Sebutkan bentuk partisipasi anak dalam kegiatan lingkungan.",
+      "answers": [
+        {
+          "text": "mengikuti kerja bakti ringan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "menanam tanaman",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "mengajak hemat air",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "membuat poster kebersihan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "memilah sampah",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-065",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Aku dan Lingkungan Sekitarku",
+      "type": "family100",
+      "question": "Sebutkan cara merawat tanaman di halaman sekolah.",
+      "answers": [
+        {
+          "text": "menyiram cukup",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "membersihkan gulma",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "memberi kompos sesuai kebutuhan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "tidak menginjak tanaman",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "memastikan cahaya cukup",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-066",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Aku dan Lingkungan Sekitarku",
+      "type": "family100",
+      "question": "Sebutkan contoh penggunaan fasilitas umum secara bertanggung jawab.",
+      "answers": [
+        {
+          "text": "memakai sesuai fungsi",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "tidak merusak",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "mengantre",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "membiarkan orang lain bergiliran",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "membersihkan setelah dipakai",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-067",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Aku dan Lingkungan Sekitarku",
+      "type": "family100",
+      "question": "Sebutkan tindakan jika melihat sampah menumpuk di sekitar rumah.",
+      "answers": [
+        {
+          "text": "membuang sampah kecil yang aman",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "mengajak anggota keluarga memilah",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "melapor kepada orang dewasa",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "mengusulkan kerja bakti",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "tidak membakar sampah sembarangan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-068",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Aku dan Lingkungan Sekitarku",
+      "type": "family100",
+      "question": "Sebutkan manfaat mengenal keadaan lingkungan tempat tinggal.",
+      "answers": [
+        {
+          "text": "tahu fasilitas sekitar",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "mengenal tetangga",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "memahami aturan lokal",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "lebih peduli kebersihan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menemukan cara membantu masyarakat",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-069",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Aku dan Lingkungan Sekitarku",
+      "type": "family100",
+      "question": "Sebutkan cara menghormati perbedaan kebiasaan antartetangga.",
+      "answers": [
+        {
+          "text": "berkomunikasi sopan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "tidak mengejek",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "menghargai waktu ibadah",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "mematuhi kesepakatan warga",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "mencari jalan tengah jika ada masalah",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-070",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Aku dan Lingkungan Sekitarku",
+      "type": "family100",
+      "question": "Apa cara siswa berkontribusi saat kegiatan peringatan hari nasional di lingkungan?",
+      "answers": [
+        {
+          "text": "membantu dekorasi ringan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "ikut lomba dengan sportif",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "menjaga kebersihan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menghormati panitia",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "mendukung teman",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-071",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Aku dan Lingkungan Sekitarku",
+      "type": "family100",
+      "question": "Sebutkan contoh tindakan hemat sumber daya di lingkungan sekolah.",
+      "answers": [
+        {
+          "text": "mematikan keran",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "mematikan lampu saat tak dipakai",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "memakai kertas dua sisi",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "membawa botol minum ulang pakai",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "merawat fasilitas",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "F5-PP-ADD-072",
+      "subject": "Pendidikan Pancasila",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Aku dan Lingkungan Sekitarku",
+      "type": "family100",
+      "question": "Sebutkan contoh tindakan menjaga hubungan baik dengan warga sekitar.",
+      "answers": [
+        {
+          "text": "menyapa",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "mengucapkan terima kasih",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "meminta izin jika perlu",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "menghormati privasi",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "tidak mengganggu ketenangan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh jawaban dapat dibahas dan dikaitkan dengan pengalaman nyata siswa; guru menilai jawaban alternatif yang relevan.",
+      "review_status": "editorial_candidate_not_page_verified",
+      "scoring_note": "Bobot edukatif bukan survei; jawaban yang sah di luar daftar memerlukan penilaian guru."
+    },
+    {
+      "id": "SR5-2024-B01-F01",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Unsur dan Prinsip Seni Rupa di Sekitar Kita",
+      "type": "family100",
+      "question": "Sebutkan benda di kelas yang dapat diamati unsur garisnya.",
+      "answers": [
+        {
+          "text": "papan tulis",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "meja",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "kursi",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "jendela",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 1.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B01-F02",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Unsur dan Prinsip Seni Rupa di Sekitar Kita",
+      "type": "family100",
+      "question": "Sebutkan contoh unsur titik dalam karya seni rupa.",
+      "answers": [
+        {
+          "text": "bintik pada gambar",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "titik pada pola batik",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "titik pada ilustrasi",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "titik pada dekorasi",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 1.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B01-F03",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Unsur dan Prinsip Seni Rupa di Sekitar Kita",
+      "type": "family100",
+      "question": "Sebutkan contoh bidang datar yang dapat ditemukan pada gambar.",
+      "answers": [
+        {
+          "text": "lingkaran",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "segitiga",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "persegi",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "persegi panjang",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 1.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B01-F04",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Unsur dan Prinsip Seni Rupa di Sekitar Kita",
+      "type": "family100",
+      "question": "Sebutkan pasangan warna yang termasuk warna primer dalam seni rupa.",
+      "answers": [
+        {
+          "text": "merah dan kuning",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "biru dan merah",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "kuning dan biru",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "merah dan biru",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 1.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B01-F05",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Unsur dan Prinsip Seni Rupa di Sekitar Kita",
+      "type": "family100",
+      "question": "Sebutkan contoh tekstur yang bisa diamati pada suatu benda.",
+      "answers": [
+        {
+          "text": "halus",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "kasar",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "licin",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "berbulu",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 1.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B01-F06",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Unsur dan Prinsip Seni Rupa di Sekitar Kita",
+      "type": "family100",
+      "question": "Sebutkan prinsip penataan unsur yang membantu karya terlihat tertata.",
+      "answers": [
+        {
+          "text": "keseimbangan",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "kesatuan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "irama",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "penekanan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 1.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B01-F07",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Unsur dan Prinsip Seni Rupa di Sekitar Kita",
+      "type": "family100",
+      "question": "Sebutkan hal yang dapat dibandingkan saat mengamati dua karya seni rupa.",
+      "answers": [
+        {
+          "text": "warna",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "garis",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "bentuk",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "tekstur",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 1.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B01-F08",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Unsur dan Prinsip Seni Rupa di Sekitar Kita",
+      "type": "family100",
+      "question": "Sebutkan benda sekitar yang menunjukkan pengulangan bentuk.",
+      "answers": [
+        {
+          "text": "pagar",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "ubin lantai",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "deretan jendela",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "rak buku",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 1.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B01-F09",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Unsur dan Prinsip Seni Rupa di Sekitar Kita",
+      "type": "family100",
+      "question": "Sebutkan alat untuk membuat sketsa atau mewarnai gambar.",
+      "answers": [
+        {
+          "text": "pensil",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "krayon",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "pensil warna",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "spidol",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 1.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B01-F10",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Unsur dan Prinsip Seni Rupa di Sekitar Kita",
+      "type": "family100",
+      "question": "Sebutkan unsur visual yang dapat dimanfaatkan untuk memberi penekanan.",
+      "answers": [
+        {
+          "text": "ukuran",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "warna",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "bentuk",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "kontras",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Contoh dan jawaban disesuaikan dengan kegiatan pembelajaran pada Bab 1.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B01-M01",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Unsur dan Prinsip Seni Rupa di Sekitar Kita",
+      "type": "multiple_choice",
+      "question": "Garis yang melengkung tanpa sudut disebut ...",
+      "options": [
+        "garis lurus",
+        "garis lengkung",
+        "garis zigzag",
+        "garis patah"
+      ],
+      "correct_option": 1,
+      "answer": "garis lengkung",
+      "difficulty": "medium",
+      "explanation": "Garis lengkung berubah arah secara halus.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B01-M02",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Unsur dan Prinsip Seni Rupa di Sekitar Kita",
+      "type": "multiple_choice",
+      "question": "Warna yang termasuk warna primer adalah ...",
+      "options": [
+        "hijau",
+        "oranye",
+        "biru",
+        "ungu"
+      ],
+      "correct_option": 2,
+      "answer": "biru",
+      "difficulty": "hard",
+      "explanation": "Merah, kuning, dan biru merupakan warna primer dalam model warna seni rupa tradisional.",
+      "review_status": "editorial_candidate",
+      "source_book": "Panduan Guru Seni Rupa Kelas V Revisi 2024"
+    },
+    {
+      "id": "SR5-2024-B01-M03",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Unsur dan Prinsip Seni Rupa di Sekitar Kita",
+      "type": "multiple_choice",
+      "question": "Sebuah kertas terasa licin saat diraba. Sifat permukaannya adalah ...",
+      "options": [
+        "tekstur",
+        "proporsi",

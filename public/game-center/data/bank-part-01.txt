@@ -1,0 +1,5000 @@
+{
+  "schema_version": "1.0-editorial-candidate",
+  "grade": 5,
+  "status": "EDITORIAL_CANDIDATE_ENGLISH_CODING_EXPANDED",
+  "books": [
+    {
+      "subject": "Bahasa Inggris",
+      "chapters": [
+        {
+          "number": 1,
+          "title": "What Delicious Bakso!",
+          "topic": "food tastes"
+        },
+        {
+          "number": 2,
+          "title": "I Want an Ice Cream Cone",
+          "topic": "containers"
+        },
+        {
+          "number": 3,
+          "title": "How Much Is It?",
+          "topic": "shopping"
+        },
+        {
+          "number": 4,
+          "title": "I've Got a Stomachache",
+          "topic": "health"
+        },
+        {
+          "number": 5,
+          "title": "What a Nice Skirt!",
+          "topic": "clothes"
+        },
+        {
+          "number": 6,
+          "title": "Parts of Our Body That Work Together",
+          "topic": "body"
+        },
+        {
+          "number": 7,
+          "title": "How Tall Are You?",
+          "topic": "size"
+        },
+        {
+          "number": 8,
+          "title": "The Giraffe Is Taller Than the Deer",
+          "topic": "comparatives"
+        },
+        {
+          "number": 9,
+          "title": "The Elephant Is the Biggest",
+          "topic": "superlatives"
+        },
+        {
+          "number": 10,
+          "title": "I Like Playing Balap Karung",
+          "topic": "activities"
+        }
+      ]
+    },
+    {
+      "subject": "IPAS",
+      "chapters": [
+        {
+          "number": 1,
+          "title": "Melihat karena Cahaya, Mendengar karena Bunyi",
+          "topic": "light sound"
+        },
+        {
+          "number": 2,
+          "title": "Harmoni dalam Ekosistem",
+          "topic": "ecosystem"
+        },
+        {
+          "number": 3,
+          "title": "Magnet, Listrik, dan Teknologi untuk Kehidupan",
+          "topic": "electricity"
+        },
+        {
+          "number": 4,
+          "title": "Ayo Berkenalan dengan Bumi Kita",
+          "topic": "earth"
+        },
+        {
+          "number": 5,
+          "title": "Bagaimana Kita Hidup dan Bertumbuh",
+          "topic": "human body"
+        },
+        {
+          "number": 6,
+          "title": "Indonesiaku Kaya Raya",
+          "topic": "resources"
+        },
+        {
+          "number": 7,
+          "title": "Daerahku Kebanggaanku",
+          "topic": "local culture"
+        },
+        {
+          "number": 8,
+          "title": "Bumiku Sayang, Bumiku Malang",
+          "topic": "environment"
+        }
+      ]
+    },
+    {
+      "subject": "Matematika",
+      "chapters": [
+        {
+          "number": 1,
+          "title": "Bilangan Cacah Sampai 100.000",
+          "topic": "place values"
+        },
+        {
+          "number": 2,
+          "title": "KPK dan FPB",
+          "topic": "factors"
+        },
+        {
+          "number": 3,
+          "title": "Bilangan Pecahan",
+          "topic": "fractions"
+        },
+        {
+          "number": 4,
+          "title": "Keliling Bangun Datar",
+          "topic": "perimeter"
+        },
+        {
+          "number": 5,
+          "title": "Luas Daerah Bangun Datar",
+          "topic": "area"
+        },
+        {
+          "number": 6,
+          "title": "Sudut",
+          "topic": "angles"
+        },
+        {
+          "number": 7,
+          "title": "Membandingkan Ciri-Ciri Bangun Datar",
+          "topic": "geometry"
+        },
+        {
+          "number": 8,
+          "title": "Data",
+          "topic": "data"
+        },
+        {
+          "number": 9,
+          "title": "Bilangan Cacah Sampai 1.000.000",
+          "topic": "large numbers"
+        }
+      ]
+    },
+    {
+      "subject": "Seni Rupa",
+      "chapters": [
+        {
+          "number": 1,
+          "title": "Unsur dan Prinsip Seni Rupa di Sekitar Kita",
+          "topic": "visual elements"
+        },
+        {
+          "number": 2,
+          "title": "Mengeksplorasi Ritme dalam Objek di Sekitar Kita",
+          "topic": "visual rhythm"
+        },
+        {
+          "number": 3,
+          "title": "Menggambar Objek dengan Proporsi dan Komposisi",
+          "topic": "drawing"
+        },
+        {
+          "number": 4,
+          "title": "Mengeksplorasi Simpul dan Berkarya Makrame",
+          "topic": "macrame"
+        },
+        {
+          "number": 5,
+          "title": "Mengeksplorasi dan Berkarya Anyaman",
+          "topic": "weaving"
+        },
+        {
+          "number": 6,
+          "title": "Berkarya Seni Rupa dari Limbah",
+          "topic": "recycling"
+        }
+      ]
+    },
+    {
+      "subject": "Bahasa Indonesia",
+      "chapters": [
+        {
+          "number": 1,
+          "title": "Aku yang Unik",
+          "topic": "identity"
+        },
+        {
+          "number": 2,
+          "title": "Buku Jendela Dunia",
+          "topic": "books"
+        },
+        {
+          "number": 3,
+          "title": "Ekspresi Diri Melalui Hobi",
+          "topic": "hobbies"
+        },
+        {
+          "number": 4,
+          "title": "Belajar Berwirausaha",
+          "topic": "entrepreneurship"
+        },
+        {
+          "number": 5,
+          "title": "Menjadi Warga Dunia",
+          "topic": "global citizenship"
+        },
+        {
+          "number": 6,
+          "title": "Cinta Indonesia",
+          "topic": "national identity"
+        },
+        {
+          "number": 7,
+          "title": "Sayangi Bumi",
+          "topic": "environmental texts"
+        },
+        {
+          "number": 8,
+          "title": "Bergerak Bersama",
+          "topic": "collaboration"
+        }
+      ]
+    },
+    {
+      "subject": "Pendidikan Pancasila",
+      "chapters": [
+        {
+          "number": 1,
+          "title": "Pancasila dalam Kehidupanku",
+          "topic": "pancasila"
+        },
+        {
+          "number": 2,
+          "title": "Norma dalam Kehidupanku",
+          "topic": "norms"
+        },
+        {
+          "number": 3,
+          "title": "Keragaman Budaya Indonesiaku",
+          "topic": "diversity"
+        },
+        {
+          "number": 4,
+          "title": "Aku dan Lingkungan Sekitarku",
+          "topic": "citizenship"
+        }
+      ]
+    },
+    {
+      "subject": "Koding dan AI",
+      "chapters": [
+        {
+          "number": 1,
+          "title": "Berpikir Komputasi dalam Kehidupan",
+          "topic": "computational thinking"
+        },
+        {
+          "number": 2,
+          "title": "Penggunaan Teknologi Digital",
+          "topic": "digital safety"
+        },
+        {
+          "number": 3,
+          "title": "Mengenal Kecerdasan Artifisial",
+          "topic": "AI applications"
+        },
+        {
+          "number": 4,
+          "title": "Penerapan Klasifikasi pada Kecerdasan Artifisial",
+          "topic": "classification"
+        }
+      ]
+    }
+  ],
+  "question_count": 1091,
+  "summary": {
+    "Bahasa Indonesia": 137,
+    "Bahasa Inggris": 60,
+    "IPAS": 130,
+    "Koding dan AI": 24,
+    "Matematika": 210,
+    "Pendidikan Pancasila": 94,
+    "Seni Rupa": 32
+  },
+  "questions": [
+    {
+      "id": "F5-0001",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "What Delicious Bakso!",
+      "type": "family100",
+      "question": "Which English words describe food tastes?",
+      "answers": [
+        {
+          "text": "sweet",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "salty",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "sour",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "spicy",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "bitter",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0002",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "What Delicious Bakso!",
+      "type": "family100",
+      "question": "Name foods that can be spicy.",
+      "answers": [
+        {
+          "text": "chili sauce",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "spicy noodles",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "sambal",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "spicy chicken",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "spicy crackers",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0003",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "What Delicious Bakso!",
+      "type": "family100",
+      "question": "Which foods or drinks often taste sour?",
+      "answers": [
+        {
+          "text": "lemon",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "lime",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "tamarind",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "yogurt",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "vinegar",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0004",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "What Delicious Bakso!",
+      "type": "family100",
+      "question": "What foods usually taste salty?",
+      "answers": [
+        {
+          "text": "salted fish",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "potato chips",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "salted peanuts",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "pretzels",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "crackers",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0005",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "What Delicious Bakso!",
+      "type": "family100",
+      "question": "Complete descriptions of bakso using taste words. Name five possible words.",
+      "answers": [
+        {
+          "text": "delicious",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "salty",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "savory",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "spicy",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "tasty",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0006",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "What Delicious Bakso!",
+      "type": "family100",
+      "question": "Name sweet foods in English.",
+      "answers": [
+        {
+          "text": "cake",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "candy",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "ice cream",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "chocolate",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "donut",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0007",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "I Want an Ice Cream Cone",
+      "type": "family100",
+      "question": "Name English containers for drinks.",
+      "answers": [
+        {
+          "text": "glass",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "cup",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "bottle",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "carton",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "can",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0008",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "I Want an Ice Cream Cone",
+      "type": "family100",
+      "question": "Which English words can indicate food portions?",
+      "answers": [
+        {
+          "text": "slice",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "piece",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "bowl",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "plate",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "cone",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0009",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "I Want an Ice Cream Cone",
+      "type": "family100",
+      "question": "Give five foods typically served in a bowl.",
+      "answers": [
+        {
+          "text": "soup",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "noodles",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "porridge",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "bakso",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "cereal",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0010",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "I Want an Ice Cream Cone",
+      "type": "family100",
+      "question": "Name drinks that can be ordered by the glass.",
+      "answers": [
+        {
+          "text": "water",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "milk",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "tea",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "juice",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "lemonade",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0011",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "I Want an Ice Cream Cone",
+      "type": "family100",
+      "question": "What foods are sold by the slice?",
+      "answers": [
+        {
+          "text": "pizza",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "bread",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "cake",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "cheese",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "watermelon",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0012",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "I Want an Ice Cream Cone",
+      "type": "family100",
+      "question": "Name foods or drinks commonly sold in bottles.",
+      "answers": [
+        {
+          "text": "mineral water",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "tea",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "juice",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "milk",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "soda",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0013",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "How Much Is It?",
+      "type": "family100",
+      "question": "Name English expressions used to ask about prices.",
+      "answers": [
+        {
+          "text": "how much is it",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "how much does it cost",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "what is the price",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "how much are these",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "how much are those",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0014",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "How Much Is It?",
+      "type": "family100",
+      "question": "Name English words related to shopping.",
+      "answers": [
+        {
+          "text": "price",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "money",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "cash",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "change",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "shop",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0015",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "How Much Is It?",
+      "type": "family100",
+      "question": "Name things you might buy at a food stall.",
+      "answers": [
+        {
+          "text": "rice",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "noodles",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "water",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "bread",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "fruit",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0016",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "How Much Is It?",
+      "type": "family100",
+      "question": "Name English numbers used for prices.",
+      "answers": [
+        {
+          "text": "ten",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "twenty",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "fifty",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "one hundred",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "one thousand",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0017",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "How Much Is It?",
+      "type": "family100",
+      "question": "Name items a cashier might give to a buyer.",
+      "answers": [
+        {
+          "text": "receipt",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "change",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "bag",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "product",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "bill",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0018",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "How Much Is It?",
+      "type": "family100",
+      "question": "Name English polite shopping phrases.",
+      "answers": [
+        {
+          "text": "please",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "thank you",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "excuse me",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "here you are",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "you are welcome",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0019",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "I've Got a Stomachache",
+      "type": "family100",
+      "question": "Name English words for common health complaints.",
+      "answers": [
+        {
+          "text": "headache",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "stomachache",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "toothache",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "fever",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "cough",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0020",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "I've Got a Stomachache",
+      "type": "family100",
+      "question": "Which body parts can ache?",
+      "answers": [
+        {
+          "text": "head",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "stomach",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "tooth",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "back",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "ear",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0021",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "I've Got a Stomachache",
+      "type": "family100",
+      "question": "Name activities that can help when you are mildly unwell.",
+      "answers": [
+        {
+          "text": "rest",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "drink water",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "tell an adult",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "visit a doctor",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "sleep",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0022",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "I've Got a Stomachache",
+      "type": "family100",
+      "question": "Name English expressions describing illness.",
+      "answers": [
+        {
+          "text": "I have a headache",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "I have a stomachache",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "I have a toothache",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "I have a fever",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "I have a cough",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0023",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "I've Got a Stomachache",
+      "type": "family100",
+      "question": "Name people who can help a sick child.",
+      "answers": [
+        {
+          "text": "parent",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "teacher",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "doctor",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "nurse",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "guardian",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0024",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "I've Got a Stomachache",
+      "type": "family100",
+      "question": "Name healthy habits that help prevent illness.",
+      "answers": [
+        {
+          "text": "wash hands",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "drink water",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "eat vegetables",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "sleep enough",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "exercise",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0025",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "What a Nice Skirt!",
+      "type": "family100",
+      "question": "Name clothes in English.",
+      "answers": [
+        {
+          "text": "skirt",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "shirt",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "dress",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "jacket",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "trousers",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0026",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "What a Nice Skirt!",
+      "type": "family100",
+      "question": "Name accessories people wear.",
+      "answers": [
+        {
+          "text": "hat",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "belt",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "scarf",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "watch",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "socks",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0027",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "What a Nice Skirt!",
+      "type": "family100",
+      "question": "Name English colors used for clothes.",
+      "answers": [
+        {
+          "text": "red",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "blue",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "green",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "yellow",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "white",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0028",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "What a Nice Skirt!",
+      "type": "family100",
+      "question": "Name adjectives that describe clothing.",
+      "answers": [
+        {
+          "text": "nice",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "beautiful",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "clean",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "comfortable",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "colorful",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0029",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "What a Nice Skirt!",
+      "type": "family100",
+      "question": "Name items typically worn on the feet.",
+      "answers": [
+        {
+          "text": "shoes",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "sandals",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "socks",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "boots",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "slippers",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0030",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "What a Nice Skirt!",
+      "type": "family100",
+      "question": "Name clothes people may wear when it is cold.",
+      "answers": [
+        {
+          "text": "jacket",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "sweater",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "coat",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "scarf",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "gloves",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0031",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Parts of Our Body That Work Together",
+      "type": "family100",
+      "question": "Name parts of the body in English.",
+      "answers": [
+        {
+          "text": "eyes",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "ears",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "nose",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "mouth",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "hands",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0032",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Parts of Our Body That Work Together",
+      "type": "family100",
+      "question": "Which body parts help us sense our surroundings?",
+      "answers": [
+        {
+          "text": "eyes",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "ears",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "nose",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "tongue",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "skin",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0033",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Parts of Our Body That Work Together",
+      "type": "family100",
+      "question": "Name body parts used for moving.",
+      "answers": [
+        {
+          "text": "legs",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "feet",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "knees",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "arms",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "hands",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0034",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Parts of Our Body That Work Together",
+      "type": "family100",
+      "question": "Name body parts found on the face.",
+      "answers": [
+        {
+          "text": "eyes",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "eyebrows",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "nose",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "mouth",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "ears",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0035",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Parts of Our Body That Work Together",
+      "type": "family100",
+      "question": "Which body parts are used when eating?",
+      "answers": [
+        {
+          "text": "teeth",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "tongue",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "mouth",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "jaw",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "lips",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0036",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Parts of Our Body That Work Together",
+      "type": "family100",
+      "question": "Name English verbs for actions of body parts.",
+      "answers": [
+        {
+          "text": "see",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "hear",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "smell",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "taste",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "touch",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0037",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "How Tall Are You?",
+      "type": "family100",
+      "question": "Name English words that describe physical measurements.",
+      "answers": [
+        {
+          "text": "tall",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "short",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "heavy",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "light",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "long",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0038",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "How Tall Are You?",
+      "type": "family100",
+      "question": "Name units for measuring height or length.",
+      "answers": [
+        {
+          "text": "centimeter",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "meter",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "millimeter",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "inch",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "foot",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0039",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "How Tall Are You?",
+      "type": "family100",
+      "question": "Name objects that can be measured with a ruler.",
+      "answers": [
+        {
+          "text": "pencil",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "book",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "table",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "paper",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "eraser",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0040",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "How Tall Are You?",
+      "type": "family100",
+      "question": "Name questions for asking about measurements.",
+      "answers": [
+        {
+          "text": "how tall are you",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "how long is it",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "how heavy is it",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "how wide is it",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "how high is it",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0041",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "How Tall Are You?",
+      "type": "family100",
+      "question": "Name things that can be compared by height.",
+      "answers": [
+        {
+          "text": "student",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "tree",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "building",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "giraffe",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "door",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0042",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "How Tall Are You?",
+      "type": "family100",
+      "question": "Name English words used when measuring weight.",
+      "answers": [
+        {
+          "text": "weight",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "kilogram",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "gram",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "heavy",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "light",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0043",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "The Giraffe Is Taller Than the Deer",
+      "type": "family100",
+      "question": "Name comparative adjectives in English.",
+      "answers": [
+        {
+          "text": "taller",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "shorter",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "bigger",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "smaller",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "longer",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0044",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "The Giraffe Is Taller Than the Deer",
+      "type": "family100",
+      "question": "Name pairs of things that can be compared by size.",
+      "answers": [
+        {
+          "text": "elephant and cat",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "giraffe and deer",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "bus and bicycle",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "house and hut",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "whale and dolphin",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0045",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "The Giraffe Is Taller Than the Deer",
+      "type": "family100",
+      "question": "Name English words used to make comparisons.",
+      "answers": [
+        {
+          "text": "than",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "taller",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "shorter",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "larger",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "smaller",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0046",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "The Giraffe Is Taller Than the Deer",
+      "type": "family100",
+      "question": "Name adjectives that form comparatives with -er.",
+      "answers": [
+        {
+          "text": "tall",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "small",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "long",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "short",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "fast",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0047",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "The Giraffe Is Taller Than the Deer",
+      "type": "family100",
+      "question": "Name animals often used in size comparisons.",
+      "answers": [
+        {
+          "text": "giraffe",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "deer",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "elephant",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "mouse",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "horse",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0048",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "The Giraffe Is Taller Than the Deer",
+      "type": "family100",
+      "question": "Name pairs of opposite size adjectives.",
+      "answers": [
+        {
+          "text": "tall and short",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "big and small",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "long and short",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "heavy and light",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "wide and narrow",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0049",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "The Elephant Is the Biggest",
+      "type": "family100",
+      "question": "Name superlative adjectives in English.",
+      "answers": [
+        {
+          "text": "biggest",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "tallest",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "smallest",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "longest",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "fastest",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0050",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "The Elephant Is the Biggest",
+      "type": "family100",
+      "question": "Name adjectives that use -est in their superlative form.",
+      "answers": [
+        {
+          "text": "big",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "tall",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "small",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "short",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "long",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0051",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "The Elephant Is the Biggest",
+      "type": "family100",
+      "question": "Name sentences using superlatives.",
+      "answers": [
+        {
+          "text": "the tallest tree",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "the biggest elephant",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "the smallest ant",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "the longest river",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "the fastest runner",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0052",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "The Elephant Is the Biggest",
+      "type": "family100",
+      "question": "Name English words associated with ranking.",
+      "answers": [
+        {
+          "text": "first",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "second",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "third",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "highest",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "lowest",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0053",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "The Elephant Is the Biggest",
+      "type": "family100",
+      "question": "Name animals that might be ranked by size.",
+      "answers": [
+        {
+          "text": "elephant",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "whale",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "giraffe",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "mouse",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "rabbit",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0054",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "The Elephant Is the Biggest",
+      "type": "family100",
+      "question": "Name features that can be compared using superlatives.",
+      "answers": [
+        {
+          "text": "height",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "weight",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "length",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "speed",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "size",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0055",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 10,
+      "chapter_title": "I Like Playing Balap Karung",
+      "type": "family100",
+      "question": "Name traditional Indonesian games in English or Indonesian.",
+      "answers": [
+        {
+          "text": "sack race",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "marbles",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "hide and seek",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "congklak",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "tug of war",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0056",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 10,
+      "chapter_title": "I Like Playing Balap Karung",
+      "type": "family100",
+      "question": "Name verbs used when describing games.",
+      "answers": [
+        {
+          "text": "run",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "jump",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "throw",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "catch",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "play",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0057",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 10,
+      "chapter_title": "I Like Playing Balap Karung",
+      "type": "family100",
+      "question": "Name months in English.",
+      "answers": [
+        {
+          "text": "January",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "February",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "March",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "April",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "May",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0058",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 10,
+      "chapter_title": "I Like Playing Balap Karung",
+      "type": "family100",
+      "question": "Name English words for calendar information.",
+      "answers": [
+        {
+          "text": "day",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "week",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "month",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "year",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "date",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0059",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 10,
+      "chapter_title": "I Like Playing Balap Karung",
+      "type": "family100",
+      "question": "Name things often needed for school competitions.",
+      "answers": [
+        {
+          "text": "team",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "rules",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "referee",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "score",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "prize",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0060",
+      "subject": "Bahasa Inggris",
+      "grade": 5,
+      "chapter": 10,
+      "chapter_title": "I Like Playing Balap Karung",
+      "type": "family100",
+      "question": "Name common school race events.",
+      "answers": [
+        {
+          "text": "sack race",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "relay race",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "running race",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "spoon race",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "tug of war",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0061",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Melihat karena Cahaya, Mendengar karena Bunyi",
+      "type": "family100",
+      "question": "Sebutkan bagian mata yang berperan dalam penglihatan.",
+      "answers": [
+        {
+          "text": "kornea",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "pupil",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "iris",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "lensa",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "retina",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0062",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Melihat karena Cahaya, Mendengar karena Bunyi",
+      "type": "family100",
+      "question": "Sebutkan sumber cahaya.",
+      "answers": [
+        {
+          "text": "matahari",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "lampu",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "api",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "senter",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "lilin",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0063",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Melihat karena Cahaya, Mendengar karena Bunyi",
+      "type": "family100",
+      "question": "Sebutkan sifat cahaya yang dapat diamati.",
+      "answers": [
+        {
+          "text": "merambat lurus",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "dipantulkan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "dibiaskan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "diuraikan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menembus benda bening",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0064",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Melihat karena Cahaya, Mendengar karena Bunyi",
+      "type": "family100",
+      "question": "Sebutkan benda yang dapat memantulkan cahaya.",
+      "answers": [
+        {
+          "text": "cermin",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "air tenang",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "logam mengilap",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "kaca",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "permukaan putih",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0065",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Melihat karena Cahaya, Mendengar karena Bunyi",
+      "type": "family100",
+      "question": "Sebutkan contoh sumber bunyi.",
+      "answers": [
+        {
+          "text": "gitar",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "drum",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "bel",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "suara manusia",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "seruling",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0066",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Melihat karena Cahaya, Mendengar karena Bunyi",
+      "type": "family100",
+      "question": "Sebutkan bagian telinga yang membantu pendengaran.",
+      "answers": [
+        {
+          "text": "daun telinga",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "saluran telinga",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "gendang telinga",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "tulang pendengaran",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "koklea",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0067",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Melihat karena Cahaya, Mendengar karena Bunyi",
+      "type": "family100",
+      "question": "Sebutkan contoh penerapan pantulan bunyi.",
+      "answers": [
+        {
+          "text": "sonar kapal",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "ekolokasi kelelawar",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "ekolokasi lumba-lumba",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "USG",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "pengukuran kedalaman laut",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0068",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Harmoni dalam Ekosistem",
+      "type": "family100",
+      "question": "Sebutkan komponen biotik ekosistem.",
+      "answers": [
+        {
+          "text": "rumput",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "pohon",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "belalang",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "katak",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "ular",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0069",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Harmoni dalam Ekosistem",
+      "type": "family100",
+      "question": "Sebutkan komponen abiotik dalam ekosistem.",
+      "answers": [
+        {
+          "text": "air",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "cahaya matahari",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "tanah",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "udara",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "suhu",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0070",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Harmoni dalam Ekosistem",
+      "type": "family100",
+      "question": "Sebutkan contoh produsen dalam rantai makanan.",
+      "answers": [
+        {
+          "text": "rumput",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "padi",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "alga",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "fitoplankton",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "pohon",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0071",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Harmoni dalam Ekosistem",
+      "type": "family100",
+      "question": "Sebutkan hewan pemakan tumbuhan.",
+      "answers": [
+        {
+          "text": "kelinci",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "belalang",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "sapi",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "kambing",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "rusa",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0072",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Harmoni dalam Ekosistem",
+      "type": "family100",
+      "question": "Sebutkan contoh pengurai di alam.",
+      "answers": [
+        {
+          "text": "jamur",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "bakteri",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "mikroorganisme tanah",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "kapang",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "bakteri pembusuk",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0073",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Harmoni dalam Ekosistem",
+      "type": "family100",
+      "question": "Sebutkan hal yang dapat mengganggu keseimbangan ekosistem.",
+      "answers": [
+        {
+          "text": "penebangan liar",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "pencemaran air",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "perburuan berlebihan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "kebakaran hutan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "sampah plastik",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0074",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Harmoni dalam Ekosistem",
+      "type": "family100",
+      "question": "Sebutkan hubungan makhluk hidup dalam ekosistem.",
+      "answers": [
+        {
+          "text": "predasi",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "kompetisi",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "mutualisme",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "komensalisme",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "parasitisme",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0075",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Magnet, Listrik, dan Teknologi untuk Kehidupan",
+      "type": "family100",
+      "question": "Sebutkan benda yang dapat ditarik magnet.",
+      "answers": [
+        {
+          "text": "paku besi",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "klip kertas baja",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "jarum baja",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "sekrup besi",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "peniti",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0076",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Magnet, Listrik, dan Teknologi untuk Kehidupan",
+      "type": "family100",
+      "question": "Sebutkan alat sehari-hari yang memakai magnet.",
+      "answers": [
+        {
+          "text": "kompas",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "bel listrik",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "speaker",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "pengunci pintu kulkas",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "motor listrik",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0077",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Magnet, Listrik, dan Teknologi untuk Kehidupan",
+      "type": "family100",
+      "question": "Sebutkan sumber energi listrik yang dikenal siswa.",
+      "answers": [
+        {
+          "text": "baterai",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "aki",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "panel surya",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "generator",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "PLTA",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0078",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Magnet, Listrik, dan Teknologi untuk Kehidupan",
+      "type": "family100",
+      "question": "Sebutkan bahan penghantar listrik.",
+      "answers": [
+        {
+          "text": "tembaga",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "aluminium",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "besi",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "perak",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "emas",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0079",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Magnet, Listrik, dan Teknologi untuk Kehidupan",
+      "type": "family100",
+      "question": "Sebutkan contoh bahan isolator listrik.",
+      "answers": [
+        {
+          "text": "karet",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "plastik",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "kayu kering",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "kaca",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "keramik",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0080",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Magnet, Listrik, dan Teknologi untuk Kehidupan",
+      "type": "family100",
+      "question": "Sebutkan kebiasaan aman saat memakai listrik.",
+      "answers": [
+        {
+          "text": "tangan kering",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "matikan alat usai dipakai",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "jauhi kabel rusak",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "jangan menumpuk colokan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "minta bantuan orang dewasa",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0081",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Magnet, Listrik, dan Teknologi untuk Kehidupan",
+      "type": "family100",
+      "question": "Sebutkan perangkat yang mengubah energi listrik menjadi gerak.",
+      "answers": [
+        {
+          "text": "kipas angin",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "blender",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "mesin cuci",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "pompa air",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "bor listrik",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0082",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Ayo Berkenalan dengan Bumi Kita",
+      "type": "family100",
+      "question": "Sebutkan bagian utama lapisan bumi.",
+      "answers": [
+        {
+          "text": "kerak bumi",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "mantel",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "inti luar",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "inti dalam",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "litosfer",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0083",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Ayo Berkenalan dengan Bumi Kita",
+      "type": "family100",
+      "question": "Sebutkan bentang alam di daratan.",
+      "answers": [
+        {
+          "text": "gunung",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "lembah",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "dataran tinggi",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "dataran rendah",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "bukit",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0084",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Ayo Berkenalan dengan Bumi Kita",
+      "type": "family100",
+      "question": "Sebutkan contoh kenampakan perairan.",
+      "answers": [
+        {
+          "text": "sungai",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "danau",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "laut",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "teluk",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "selat",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0085",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Ayo Berkenalan dengan Bumi Kita",
+      "type": "family100",
+      "question": "Sebutkan proses dalam siklus air.",
+      "answers": [
+        {
+          "text": "penguapan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "kondensasi",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "presipitasi",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "infiltrasi",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "aliran permukaan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0086",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Ayo Berkenalan dengan Bumi Kita",
+      "type": "family100",
+      "question": "Sebutkan contoh peristiwa cuaca.",
+      "answers": [
+        {
+          "text": "hujan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "angin",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "kabut",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "petir",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "awan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0087",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Ayo Berkenalan dengan Bumi Kita",
+      "type": "family100",
+      "question": "Sebutkan sumber air di alam.",
+      "answers": [
+        {
+          "text": "mata air",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "sungai",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "danau",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "air tanah",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "hujan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0088",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Bagaimana Kita Hidup dan Bertumbuh",
+      "type": "family100",
+      "question": "Sebutkan organ sistem pencernaan.",
+      "answers": [
+        {
+          "text": "mulut",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "kerongkongan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "lambung",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "usus halus",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "usus besar",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0089",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Bagaimana Kita Hidup dan Bertumbuh",
+      "type": "family100",
+      "question": "Sebutkan nutrisi yang dibutuhkan tubuh.",
+      "answers": [
+        {
+          "text": "karbohidrat",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "protein",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "lemak",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "vitamin",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "mineral",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0090",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Bagaimana Kita Hidup dan Bertumbuh",
+      "type": "family100",
+      "question": "Sebutkan organ dalam sistem pernapasan.",
+      "answers": [
+        {
+          "text": "hidung",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "trakea",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "bronkus",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "paru-paru",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "diafragma",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0091",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Bagaimana Kita Hidup dan Bertumbuh",
+      "type": "family100",
+      "question": "Sebutkan kebiasaan menjaga pencernaan.",
+      "answers": [
+        {
+          "text": "makan serat",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "minum air cukup",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "cuci tangan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "makan teratur",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "olahraga",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0092",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Bagaimana Kita Hidup dan Bertumbuh",
+      "type": "family100",
+      "question": "Sebutkan hal yang diperlukan untuk pertumbuhan sehat.",
+      "answers": [
+        {
+          "text": "makanan bergizi",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "istirahat",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "aktivitas fisik",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "air bersih",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "lingkungan sehat",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0093",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Bagaimana Kita Hidup dan Bertumbuh",
+      "type": "family100",
+      "question": "Sebutkan perubahan fisik yang dapat dialami saat tumbuh.",
+      "answers": [
+        {
+          "text": "tinggi bertambah",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "berat bertambah",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "gigi berganti",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "otot berkembang",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "ukuran kaki bertambah",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0094",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Indonesiaku Kaya Raya",
+      "type": "family100",
+      "question": "Sebutkan sumber daya alam yang dapat diperbarui.",
+      "answers": [
+        {
+          "text": "air",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "angin",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "cahaya matahari",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "tumbuhan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "hewan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0095",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Indonesiaku Kaya Raya",
+      "type": "family100",
+      "question": "Sebutkan hasil alam Indonesia.",
+      "answers": [
+        {
+          "text": "padi",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "karet",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "kopi",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "ikan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "kelapa",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0096",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Indonesiaku Kaya Raya",
+      "type": "family100",
+      "question": "Sebutkan kegiatan ekonomi yang memakai hasil alam.",
+      "answers": [
+        {
+          "text": "pertanian",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "perikanan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "perkebunan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "peternakan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "kehutanan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0097",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Indonesiaku Kaya Raya",
+      "type": "family100",
+      "question": "Sebutkan cara menghemat sumber daya alam.",
+      "answers": [
+        {
+          "text": "hemat air",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "hemat listrik",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "daur ulang",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "tanam pohon",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "kurangi sampah",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0098",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Indonesiaku Kaya Raya",
+      "type": "family100",
+      "question": "Sebutkan contoh keanekaragaman hayati Indonesia.",
+      "answers": [
+        {
+          "text": "komodo",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "orangutan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "rafflesia",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "anoa",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "burung cenderawasih",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0099",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Indonesiaku Kaya Raya",
+      "type": "family100",
+      "question": "Sebutkan manfaat tumbuhan bagi manusia.",
+      "answers": [
+        {
+          "text": "sumber pangan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "penghasil oksigen",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "bahan obat",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "bahan bangunan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "peneduh",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0100",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "Daerahku Kebanggaanku",
+      "type": "family100",
+      "question": "Sebutkan contoh budaya daerah.",
+      "answers": [
+        {
+          "text": "tarian tradisional",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "rumah adat",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "pakaian adat",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "bahasa daerah",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "makanan khas",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0101",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "Daerahku Kebanggaanku",
+      "type": "family100",
+      "question": "Sebutkan kegiatan menjaga budaya setempat.",
+      "answers": [
+        {
+          "text": "belajar tari daerah",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "merawat situs budaya",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "mempelajari bahasa daerah",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "mengikuti festival budaya",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menghormati adat",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0102",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "Daerahku Kebanggaanku",
+      "type": "family100",
+      "question": "Sebutkan tempat umum penting di daerah.",
+      "answers": [
+        {
+          "text": "pasar",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "sekolah",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "puskesmas",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "perpustakaan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "balai desa",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0103",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "Daerahku Kebanggaanku",
+      "type": "family100",
+      "question": "Sebutkan usaha ekonomi yang dijumpai di daerah.",
+      "answers": [
+        {
+          "text": "warung",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "bengkel",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "toko",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "usaha kerajinan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "pertanian",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0104",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "Daerahku Kebanggaanku",
+      "type": "family100",
+      "question": "Sebutkan cara mengenal sejarah daerah.",
+      "answers": [
+        {
+          "text": "wawancara tokoh",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "mengunjungi museum",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "membaca arsip",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "mengunjungi situs sejarah",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "mengamati benda peninggalan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0105",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "Daerahku Kebanggaanku",
+      "type": "family100",
+      "question": "Sebutkan sikap saat berinteraksi dengan keragaman budaya.",
+      "answers": [
+        {
+          "text": "menghormati",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "toleransi",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "tidak mengejek",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "bertanya dengan sopan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "menghargai perbedaan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0106",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "Bumiku Sayang, Bumiku Malang",
+      "type": "family100",
+      "question": "Sebutkan contoh bencana alam.",
+      "answers": [
+        {
+          "text": "banjir",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "gempa bumi",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "tanah longsor",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "tsunami",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "letusan gunung api",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0107",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "Bumiku Sayang, Bumiku Malang",
+      "type": "family100",
+      "question": "Sebutkan tindakan untuk mengurangi sampah.",
+      "answers": [
+        {
+          "text": "memakai botol isi ulang",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "memilah sampah",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "mengomposkan",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "memakai tas guna ulang",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "memperbaiki barang",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0108",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "Bumiku Sayang, Bumiku Malang",
+      "type": "family100",
+      "question": "Sebutkan penyebab pencemaran lingkungan.",
+      "answers": [
+        {
+          "text": "asap kendaraan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "limbah pabrik",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "sampah di sungai",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "pembakaran sampah",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "tumpahan minyak",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0109",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "Bumiku Sayang, Bumiku Malang",
+      "type": "family100",
+      "question": "Sebutkan kegiatan menjaga lingkungan sekolah.",
+      "answers": [
+        {
+          "text": "piket kelas",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "menanam pohon",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "memilah sampah",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "hemat air",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "membersihkan selokan",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0110",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "Bumiku Sayang, Bumiku Malang",
+      "type": "family100",
+      "question": "Sebutkan barang yang dapat didaur ulang.",
+      "answers": [
+        {
+          "text": "kertas",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "kardus",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "kaleng",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "botol kaca",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "botol plastik",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0111",
+      "subject": "IPAS",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "Bumiku Sayang, Bumiku Malang",
+      "type": "family100",
+      "question": "Sebutkan tindakan saat gempa ketika berada di kelas.",
+      "answers": [
+        {
+          "text": "berlindung di bawah meja",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "melindungi kepala",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "menjauhi kaca",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "ikuti arahan guru",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "evakuasi setelah guncangan berhenti",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0112",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Unsur dan Prinsip Seni Rupa di Sekitar Kita",
+      "type": "family100",
+      "question": "Sebutkan unsur seni rupa.",
+      "answers": [
+        {
+          "text": "titik",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "garis",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "bidang",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "bentuk",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "warna",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0113",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Unsur dan Prinsip Seni Rupa di Sekitar Kita",
+      "type": "family100",
+      "question": "Sebutkan jenis garis yang digunakan dalam gambar.",
+      "answers": [
+        {
+          "text": "lurus",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "lengkung",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "zigzag",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "putus-putus",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "spiral",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0114",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Unsur dan Prinsip Seni Rupa di Sekitar Kita",
+      "type": "family100",
+      "question": "Sebutkan warna primer dalam pencampuran warna cat tradisional.",
+      "answers": [
+        {
+          "text": "merah",
+          "aliases": [],
+          "points": 40
+        },
+        {
+          "text": "kuning",
+          "aliases": [],
+          "points": 35
+        },
+        {
+          "text": "biru",
+          "aliases": [],
+          "points": 25
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0115",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Unsur dan Prinsip Seni Rupa di Sekitar Kita",
+      "type": "family100",
+      "question": "Sebutkan prinsip dalam menyusun karya seni rupa.",
+      "answers": [
+        {
+          "text": "keseimbangan",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "kesatuan",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "irama",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "penekanan",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "proporsi",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "medium",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0116",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Unsur dan Prinsip Seni Rupa di Sekitar Kita",
+      "type": "family100",
+      "question": "Sebutkan bentuk geometris yang tampak dalam karya seni.",
+      "answers": [
+        {
+          "text": "lingkaran",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "persegi",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "segitiga",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "persegi panjang",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "oval",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0117",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Unsur dan Prinsip Seni Rupa di Sekitar Kita",
+      "type": "family100",
+      "question": "Sebutkan alat menggambar.",
+      "answers": [
+        {
+          "text": "pensil",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "penghapus",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "penggaris",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "krayon",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "spidol",
+          "aliases": [],
+          "points": 10
+        }
+      ],
+      "difficulty": "easy",
+      "explanation": "Tinjau setiap jawaban dan kaitkan dengan konsep bab bersama guru.",
+      "review_status": "source_page_review_pending",
+      "scoring_note": "Bobot edukatif, bukan hasil survei. Jawaban lain yang benar perlu pertimbangan guru."
+    },
+    {
+      "id": "F5-0118",
+      "subject": "Seni Rupa",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "Mengeksplorasi Ritme dalam Objek di Sekitar Kita",
+      "type": "family100",
+      "question": "Sebutkan bentuk pengulangan yang menciptakan irama visual.",
+      "answers": [
+        {
+          "text": "pengulangan garis",
+          "aliases": [],
+          "points": 30
+        },
+        {
+          "text": "pengulangan warna",
+          "aliases": [],
+          "points": 25
+        },
+        {
+          "text": "pengulangan bentuk",
+          "aliases": [],
+          "points": 20
+        },
+        {
+          "text": "pengulangan ukuran",
+          "aliases": [],
+          "points": 15
+        },
+        {
+          "text": "pengulangan arah",
+          "aliases": [],
+          "points": 10

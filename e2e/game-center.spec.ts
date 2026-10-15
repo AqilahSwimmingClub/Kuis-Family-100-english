@@ -1,0 +1,20 @@
+import { test, expect } from '@playwright/test'
+test('Game Center loads 1,091 questions and can start, score, and resume', async ({ page }) => {
+  const errors: string[] = []
+  page.on('pageerror', e => errors.push(e.message))
+  await page.goto('/game-center/')
+  await expect(page.locator('#total')).toContainText('soal tersedia')
+  await page.locator('#subjects input[data-sub="IPAS"]').check()
+  await expect(page.locator('#total')).toContainText('soal tersedia')
+  await page.locator('#start').click()
+  await expect(page.locator('#round')).toContainText('PERTANYAAN 1 / 30')
+  await expect(page.locator('#question')).not.toBeEmpty()
+  await page.locator('#manual').click()
+  await expect(page.locator('#key')).toBeVisible()
+  await page.locator('#key [data-award]').first().click()
+  await expect(page.locator('#scores')).toContainText('poin')
+  await page.reload()
+  await page.locator('#resume').click()
+  await expect(page.locator('#round')).toContainText('PERTANYAAN 1 / 30')
+  expect(errors).toEqual([])
+})
