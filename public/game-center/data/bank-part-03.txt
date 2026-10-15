@@ -1,0 +1,5000 @@
+          "text": "59344"
+        },
+        {
+          "label": "D",
+          "text": "59346"
+        }
+      ],
+      "correct_option": "D"
+    },
+    {
+      "id": "M5-0015",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Bilangan Cacah Sampai 100.000",
+      "subtopic": "place values",
+      "type": "multiple_choice",
+      "question": "Hitung 62198 − 2596.",
+      "correct_answer": "59602",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "62198 − 2596 = 59602.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "65562"
+        },
+        {
+          "label": "B",
+          "text": "59602"
+        },
+        {
+          "label": "C",
+          "text": "59600"
+        },
+        {
+          "label": "D",
+          "text": "59603"
+        }
+      ],
+      "correct_option": "B"
+    },
+    {
+      "id": "M5-0016",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Bilangan Cacah Sampai 100.000",
+      "subtopic": "place values",
+      "type": "multiple_choice",
+      "question": "Berapa nilai angka pada tempat satuan dari bilangan 65.307?",
+      "correct_answer": "7",
+      "difficulty": "easy",
+      "points": 10,
+      "explanation": "Angka pada tempat tersebut adalah 7; nilainya 7 × 1.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "8"
+        },
+        {
+          "label": "B",
+          "text": "7"
+        },
+        {
+          "label": "C",
+          "text": "5"
+        },
+        {
+          "label": "D",
+          "text": "10"
+        }
+      ],
+      "correct_option": "B"
+    },
+    {
+      "id": "M5-0017",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Bilangan Cacah Sampai 100.000",
+      "subtopic": "place values",
+      "type": "multiple_choice",
+      "question": "Hitung 68416 + 908.",
+      "correct_answer": "69324",
+      "difficulty": "medium",
+      "points": 20,
+      "explanation": "68416 + 908 = 69324.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "69322"
+        },
+        {
+          "label": "B",
+          "text": "69325"
+        },
+        {
+          "label": "C",
+          "text": "69324"
+        },
+        {
+          "label": "D",
+          "text": "76256"
+        }
+      ],
+      "correct_option": "C"
+    },
+    {
+      "id": "M5-0018",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Bilangan Cacah Sampai 100.000",
+      "subtopic": "place values",
+      "type": "multiple_choice",
+      "question": "Hitung 71525 − 3115.",
+      "correct_answer": "68410",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "71525 − 3115 = 68410.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "68410"
+        },
+        {
+          "label": "B",
+          "text": "75251"
+        },
+        {
+          "label": "C",
+          "text": "68408"
+        },
+        {
+          "label": "D",
+          "text": "68411"
+        }
+      ],
+      "correct_option": "A"
+    },
+    {
+      "id": "M5-0019",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Bilangan Cacah Sampai 100.000",
+      "subtopic": "place values",
+      "type": "multiple_choice",
+      "question": "Berapa nilai angka pada tempat ribuan dari bilangan 74.634?",
+      "correct_answer": "4000",
+      "difficulty": "easy",
+      "points": 10,
+      "explanation": "Angka pada tempat tersebut adalah 4; nilainya 4 × 1000.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "3998"
+        },
+        {
+          "label": "B",
+          "text": "4000"
+        },
+        {
+          "label": "C",
+          "text": "4400"
+        },
+        {
+          "label": "D",
+          "text": "4001"
+        }
+      ],
+      "correct_option": "B"
+    },
+    {
+      "id": "M5-0020",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Bilangan Cacah Sampai 100.000",
+      "subtopic": "place values",
+      "type": "multiple_choice",
+      "question": "Hitung 77743 + 609.",
+      "correct_answer": "78352",
+      "difficulty": "medium",
+      "points": 20,
+      "explanation": "77743 + 609 = 78352.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "78350"
+        },
+        {
+          "label": "B",
+          "text": "86187"
+        },
+        {
+          "label": "C",
+          "text": "78352"
+        },
+        {
+          "label": "D",
+          "text": "78353"
+        }
+      ],
+      "correct_option": "C"
+    },
+    {
+      "id": "M5-0021",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Bilangan Cacah Sampai 100.000",
+      "subtopic": "place values",
+      "type": "multiple_choice",
+      "question": "Hitung 80852 − 3634.",
+      "correct_answer": "77218",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "80852 − 3634 = 77218.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "77216"
+        },
+        {
+          "label": "B",
+          "text": "77219"
+        },
+        {
+          "label": "C",
+          "text": "84939"
+        },
+        {
+          "label": "D",
+          "text": "77218"
+        }
+      ],
+      "correct_option": "D"
+    },
+    {
+      "id": "M5-0022",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Bilangan Cacah Sampai 100.000",
+      "subtopic": "place values",
+      "type": "multiple_choice",
+      "question": "Berapa nilai angka pada tempat puluhan dari bilangan 83.961?",
+      "correct_answer": "60",
+      "difficulty": "easy",
+      "points": 10,
+      "explanation": "Angka pada tempat tersebut adalah 6; nilainya 6 × 10.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "66"
+        },
+        {
+          "label": "B",
+          "text": "61"
+        },
+        {
+          "label": "C",
+          "text": "60"
+        },
+        {
+          "label": "D",
+          "text": "58"
+        }
+      ],
+      "correct_option": "C"
+    },
+    {
+      "id": "M5-0023",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Bilangan Cacah Sampai 100.000",
+      "subtopic": "place values",
+      "type": "multiple_choice",
+      "question": "Hitung 87070 + 310.",
+      "correct_answer": "87380",
+      "difficulty": "medium",
+      "points": 20,
+      "explanation": "87070 + 310 = 87380.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "87378"
+        },
+        {
+          "label": "B",
+          "text": "87380"
+        },
+        {
+          "label": "C",
+          "text": "87381"
+        },
+        {
+          "label": "D",
+          "text": "96118"
+        }
+      ],
+      "correct_option": "B"
+    },
+    {
+      "id": "M5-0024",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Bilangan Cacah Sampai 100.000",
+      "subtopic": "place values",
+      "type": "multiple_choice",
+      "question": "Hitung 90179 − 4153.",
+      "correct_answer": "86026",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "90179 − 4153 = 86026.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "86027"
+        },
+        {
+          "label": "B",
+          "text": "94628"
+        },
+        {
+          "label": "C",
+          "text": "86026"
+        },
+        {
+          "label": "D",
+          "text": "86024"
+        }
+      ],
+      "correct_option": "C"
+    },
+    {
+      "id": "M5-0025",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Bilangan Cacah Sampai 100.000",
+      "subtopic": "place values",
+      "type": "multiple_choice",
+      "question": "Berapa nilai angka pada tempat puluh ribuan dari bilangan 93.288?",
+      "correct_answer": "90000",
+      "difficulty": "easy",
+      "points": 10,
+      "explanation": "Angka pada tempat tersebut adalah 9; nilainya 9 × 10000.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "90001"
+        },
+        {
+          "label": "B",
+          "text": "99000"
+        },
+        {
+          "label": "C",
+          "text": "90000"
+        },
+        {
+          "label": "D",
+          "text": "89998"
+        }
+      ],
+      "correct_option": "C"
+    },
+    {
+      "id": "M5-0026",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Bilangan Cacah Sampai 100.000",
+      "subtopic": "place values",
+      "type": "multiple_choice",
+      "question": "Hitung 96397 + 961.",
+      "correct_answer": "97358",
+      "difficulty": "medium",
+      "points": 20,
+      "explanation": "96397 + 961 = 97358.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "97358"
+        },
+        {
+          "label": "B",
+          "text": "97359"
+        },
+        {
+          "label": "C",
+          "text": "97356"
+        },
+        {
+          "label": "D",
+          "text": "107093"
+        }
+      ],
+      "correct_option": "A"
+    },
+    {
+      "id": "M5-0027",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Bilangan Cacah Sampai 100.000",
+      "subtopic": "place values",
+      "type": "multiple_choice",
+      "question": "Hitung 99506 − 4672.",
+      "correct_answer": "94834",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "99506 − 4672 = 94834.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "94832"
+        },
+        {
+          "label": "B",
+          "text": "94834"
+        },
+        {
+          "label": "C",
+          "text": "94835"
+        },
+        {
+          "label": "D",
+          "text": "104317"
+        }
+      ],
+      "correct_option": "B"
+    },
+    {
+      "id": "M5-0028",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Bilangan Cacah Sampai 100.000",
+      "subtopic": "place values",
+      "type": "multiple_choice",
+      "question": "Berapa nilai angka pada tempat ratusan dari bilangan 3.616?",
+      "correct_answer": "600",
+      "difficulty": "easy",
+      "points": 10,
+      "explanation": "Angka pada tempat tersebut adalah 6; nilainya 6 × 100.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "598"
+        },
+        {
+          "label": "B",
+          "text": "600"
+        },
+        {
+          "label": "C",
+          "text": "660"
+        },
+        {
+          "label": "D",
+          "text": "601"
+        }
+      ],
+      "correct_option": "B"
+    },
+    {
+      "id": "M5-0029",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Bilangan Cacah Sampai 100.000",
+      "subtopic": "place values",
+      "type": "multiple_choice",
+      "question": "Hitung 6725 + 662.",
+      "correct_answer": "7387",
+      "difficulty": "medium",
+      "points": 20,
+      "explanation": "6725 + 662 = 7387.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "7388"
+        },
+        {
+          "label": "B",
+          "text": "7387"
+        },
+        {
+          "label": "C",
+          "text": "7385"
+        },
+        {
+          "label": "D",
+          "text": "8125"
+        }
+      ],
+      "correct_option": "B"
+    },
+    {
+      "id": "M5-0030",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 1,
+      "chapter_title": "Bilangan Cacah Sampai 100.000",
+      "subtopic": "place values",
+      "type": "multiple_choice",
+      "question": "Hitung 9834 − 5191.",
+      "correct_answer": "4643",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "9834 − 5191 = 4643.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "4641"
+        },
+        {
+          "label": "B",
+          "text": "4643"
+        },
+        {
+          "label": "C",
+          "text": "4644"
+        },
+        {
+          "label": "D",
+          "text": "5107"
+        }
+      ],
+      "correct_option": "B"
+    },
+    {
+      "id": "M5-0031",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "KPK dan FPB",
+      "subtopic": "factors",
+      "type": "multiple_choice",
+      "question": "Tentukan FPB dari 9 dan 15.",
+      "correct_answer": "3",
+      "difficulty": "easy",
+      "points": 10,
+      "explanation": "FPB adalah faktor persekutuan terbesar. FPB(9,15) = 3.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "1"
+        },
+        {
+          "label": "B",
+          "text": "6"
+        },
+        {
+          "label": "C",
+          "text": "3"
+        },
+        {
+          "label": "D",
+          "text": "4"
+        }
+      ],
+      "correct_option": "C"
+    },
+    {
+      "id": "M5-0032",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "KPK dan FPB",
+      "subtopic": "factors",
+      "type": "multiple_choice",
+      "question": "Tentukan KPK dari 12 dan 22.",
+      "correct_answer": "132",
+      "difficulty": "medium",
+      "points": 20,
+      "explanation": "KPK adalah kelipatan persekutuan terkecil. KPK(12,22) = 132.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "145"
+        },
+        {
+          "label": "B",
+          "text": "132"
+        },
+        {
+          "label": "C",
+          "text": "133"
+        },
+        {
+          "label": "D",
+          "text": "130"
+        }
+      ],
+      "correct_option": "B"
+    },
+    {
+      "id": "M5-0033",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "KPK dan FPB",
+      "subtopic": "factors",
+      "type": "short_answer",
+      "question": "Tentukan FPB dari 15 dan 29.",
+      "correct_answer": "1",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "FPB adalah faktor persekutuan terbesar. FPB(15,29) = 1.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0034",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "KPK dan FPB",
+      "subtopic": "factors",
+      "type": "multiple_choice",
+      "question": "Tentukan KPK dari 18 dan 36.",
+      "correct_answer": "36",
+      "difficulty": "easy",
+      "points": 10,
+      "explanation": "KPK adalah kelipatan persekutuan terkecil. KPK(18,36) = 36.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "37"
+        },
+        {
+          "label": "B",
+          "text": "34"
+        },
+        {
+          "label": "C",
+          "text": "39"
+        },
+        {
+          "label": "D",
+          "text": "36"
+        }
+      ],
+      "correct_option": "D"
+    },
+    {
+      "id": "M5-0035",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "KPK dan FPB",
+      "subtopic": "factors",
+      "type": "short_answer",
+      "question": "Tentukan FPB dari 21 dan 43.",
+      "correct_answer": "1",
+      "difficulty": "medium",
+      "points": 20,
+      "explanation": "FPB adalah faktor persekutuan terbesar. FPB(21,43) = 1.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0036",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "KPK dan FPB",
+      "subtopic": "factors",
+      "type": "multiple_choice",
+      "question": "Tentukan KPK dari 24 dan 50.",
+      "correct_answer": "600",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "KPK adalah kelipatan persekutuan terkecil. KPK(24,50) = 600.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "601"
+        },
+        {
+          "label": "B",
+          "text": "598"
+        },
+        {
+          "label": "C",
+          "text": "660"
+        },
+        {
+          "label": "D",
+          "text": "600"
+        }
+      ],
+      "correct_option": "D"
+    },
+    {
+      "id": "M5-0037",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "KPK dan FPB",
+      "subtopic": "factors",
+      "type": "short_answer",
+      "question": "Tentukan FPB dari 27 dan 13.",
+      "correct_answer": "1",
+      "difficulty": "easy",
+      "points": 10,
+      "explanation": "FPB adalah faktor persekutuan terbesar. FPB(27,13) = 1.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0038",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "KPK dan FPB",
+      "subtopic": "factors",
+      "type": "multiple_choice",
+      "question": "Tentukan KPK dari 30 dan 20.",
+      "correct_answer": "60",
+      "difficulty": "medium",
+      "points": 20,
+      "explanation": "KPK adalah kelipatan persekutuan terkecil. KPK(30,20) = 60.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "60"
+        },
+        {
+          "label": "B",
+          "text": "66"
+        },
+        {
+          "label": "C",
+          "text": "61"
+        },
+        {
+          "label": "D",
+          "text": "58"
+        }
+      ],
+      "correct_option": "A"
+    },
+    {
+      "id": "M5-0039",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "KPK dan FPB",
+      "subtopic": "factors",
+      "type": "multiple_choice",
+      "question": "Tentukan FPB dari 33 dan 27.",
+      "correct_answer": "3",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "FPB adalah faktor persekutuan terbesar. FPB(33,27) = 3.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "4"
+        },
+        {
+          "label": "B",
+          "text": "1"
+        },
+        {
+          "label": "C",
+          "text": "6"
+        },
+        {
+          "label": "D",
+          "text": "3"
+        }
+      ],
+      "correct_option": "D"
+    },
+    {
+      "id": "M5-0040",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "KPK dan FPB",
+      "subtopic": "factors",
+      "type": "multiple_choice",
+      "question": "Tentukan KPK dari 36 dan 34.",
+      "correct_answer": "612",
+      "difficulty": "easy",
+      "points": 10,
+      "explanation": "KPK adalah kelipatan persekutuan terkecil. KPK(36,34) = 612.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "613"
+        },
+        {
+          "label": "B",
+          "text": "612"
+        },
+        {
+          "label": "C",
+          "text": "673"
+        },
+        {
+          "label": "D",
+          "text": "610"
+        }
+      ],
+      "correct_option": "B"
+    },
+    {
+      "id": "M5-0041",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "KPK dan FPB",
+      "subtopic": "factors",
+      "type": "short_answer",
+      "question": "Tentukan FPB dari 39 dan 41.",
+      "correct_answer": "1",
+      "difficulty": "medium",
+      "points": 20,
+      "explanation": "FPB adalah faktor persekutuan terbesar. FPB(39,41) = 1.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0042",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "KPK dan FPB",
+      "subtopic": "factors",
+      "type": "multiple_choice",
+      "question": "Tentukan KPK dari 42 dan 48.",
+      "correct_answer": "336",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "KPK adalah kelipatan persekutuan terkecil. KPK(42,48) = 336.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "336"
+        },
+        {
+          "label": "B",
+          "text": "337"
+        },
+        {
+          "label": "C",
+          "text": "369"
+        },
+        {
+          "label": "D",
+          "text": "334"
+        }
+      ],
+      "correct_option": "A"
+    },
+    {
+      "id": "M5-0043",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "KPK dan FPB",
+      "subtopic": "factors",
+      "type": "short_answer",
+      "question": "Tentukan FPB dari 45 dan 11.",
+      "correct_answer": "1",
+      "difficulty": "easy",
+      "points": 10,
+      "explanation": "FPB adalah faktor persekutuan terbesar. FPB(45,11) = 1.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0044",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "KPK dan FPB",
+      "subtopic": "factors",
+      "type": "multiple_choice",
+      "question": "Tentukan KPK dari 48 dan 18.",
+      "correct_answer": "144",
+      "difficulty": "medium",
+      "points": 20,
+      "explanation": "KPK adalah kelipatan persekutuan terkecil. KPK(48,18) = 144.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "144"
+        },
+        {
+          "label": "B",
+          "text": "145"
+        },
+        {
+          "label": "C",
+          "text": "142"
+        },
+        {
+          "label": "D",
+          "text": "158"
+        }
+      ],
+      "correct_option": "A"
+    },
+    {
+      "id": "M5-0045",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "KPK dan FPB",
+      "subtopic": "factors",
+      "type": "short_answer",
+      "question": "Tentukan FPB dari 51 dan 25.",
+      "correct_answer": "1",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "FPB adalah faktor persekutuan terbesar. FPB(51,25) = 1.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0046",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "KPK dan FPB",
+      "subtopic": "factors",
+      "type": "multiple_choice",
+      "question": "Tentukan KPK dari 54 dan 32.",
+      "correct_answer": "864",
+      "difficulty": "easy",
+      "points": 10,
+      "explanation": "KPK adalah kelipatan persekutuan terkecil. KPK(54,32) = 864.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "865"
+        },
+        {
+          "label": "B",
+          "text": "862"
+        },
+        {
+          "label": "C",
+          "text": "864"
+        },
+        {
+          "label": "D",
+          "text": "950"
+        }
+      ],
+      "correct_option": "C"
+    },
+    {
+      "id": "M5-0047",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "KPK dan FPB",
+      "subtopic": "factors",
+      "type": "multiple_choice",
+      "question": "Tentukan FPB dari 57 dan 39.",
+      "correct_answer": "3",
+      "difficulty": "medium",
+      "points": 20,
+      "explanation": "FPB adalah faktor persekutuan terbesar. FPB(57,39) = 3.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "3"
+        },
+        {
+          "label": "B",
+          "text": "6"
+        },
+        {
+          "label": "C",
+          "text": "4"
+        },
+        {
+          "label": "D",
+          "text": "1"
+        }
+      ],
+      "correct_option": "A"
+    },
+    {
+      "id": "M5-0048",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "KPK dan FPB",
+      "subtopic": "factors",
+      "type": "multiple_choice",
+      "question": "Tentukan KPK dari 60 dan 46.",
+      "correct_answer": "1380",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "KPK adalah kelipatan persekutuan terkecil. KPK(60,46) = 1380.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "1518"
+        },
+        {
+          "label": "B",
+          "text": "1380"
+        },
+        {
+          "label": "C",
+          "text": "1378"
+        },
+        {
+          "label": "D",
+          "text": "1381"
+        }
+      ],
+      "correct_option": "B"
+    },
+    {
+      "id": "M5-0049",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "KPK dan FPB",
+      "subtopic": "factors",
+      "type": "short_answer",
+      "question": "Tentukan FPB dari 8 dan 9.",
+      "correct_answer": "1",
+      "difficulty": "easy",
+      "points": 10,
+      "explanation": "FPB adalah faktor persekutuan terbesar. FPB(8,9) = 1.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0050",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "KPK dan FPB",
+      "subtopic": "factors",
+      "type": "multiple_choice",
+      "question": "Tentukan KPK dari 11 dan 16.",
+      "correct_answer": "176",
+      "difficulty": "medium",
+      "points": 20,
+      "explanation": "KPK adalah kelipatan persekutuan terkecil. KPK(11,16) = 176.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "193"
+        },
+        {
+          "label": "B",
+          "text": "174"
+        },
+        {
+          "label": "C",
+          "text": "176"
+        },
+        {
+          "label": "D",
+          "text": "177"
+        }
+      ],
+      "correct_option": "C"
+    },
+    {
+      "id": "M5-0051",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "KPK dan FPB",
+      "subtopic": "factors",
+      "type": "short_answer",
+      "question": "Tentukan FPB dari 14 dan 23.",
+      "correct_answer": "1",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "FPB adalah faktor persekutuan terbesar. FPB(14,23) = 1.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0052",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "KPK dan FPB",
+      "subtopic": "factors",
+      "type": "multiple_choice",
+      "question": "Tentukan KPK dari 17 dan 30.",
+      "correct_answer": "510",
+      "difficulty": "easy",
+      "points": 10,
+      "explanation": "KPK adalah kelipatan persekutuan terkecil. KPK(17,30) = 510.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "511"
+        },
+        {
+          "label": "B",
+          "text": "508"
+        },
+        {
+          "label": "C",
+          "text": "510"
+        },
+        {
+          "label": "D",
+          "text": "561"
+        }
+      ],
+      "correct_option": "C"
+    },
+    {
+      "id": "M5-0053",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "KPK dan FPB",
+      "subtopic": "factors",
+      "type": "short_answer",
+      "question": "Tentukan FPB dari 20 dan 37.",
+      "correct_answer": "1",
+      "difficulty": "medium",
+      "points": 20,
+      "explanation": "FPB adalah faktor persekutuan terbesar. FPB(20,37) = 1.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0054",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "KPK dan FPB",
+      "subtopic": "factors",
+      "type": "multiple_choice",
+      "question": "Tentukan KPK dari 23 dan 44.",
+      "correct_answer": "1012",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "KPK adalah kelipatan persekutuan terkecil. KPK(23,44) = 1012.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "1113"
+        },
+        {
+          "label": "B",
+          "text": "1012"
+        },
+        {
+          "label": "C",
+          "text": "1010"
+        },
+        {
+          "label": "D",
+          "text": "1013"
+        }
+      ],
+      "correct_option": "B"
+    },
+    {
+      "id": "M5-0055",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "KPK dan FPB",
+      "subtopic": "factors",
+      "type": "short_answer",
+      "question": "Tentukan FPB dari 26 dan 51.",
+      "correct_answer": "1",
+      "difficulty": "easy",
+      "points": 10,
+      "explanation": "FPB adalah faktor persekutuan terbesar. FPB(26,51) = 1.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0056",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "KPK dan FPB",
+      "subtopic": "factors",
+      "type": "multiple_choice",
+      "question": "Tentukan KPK dari 29 dan 14.",
+      "correct_answer": "406",
+      "difficulty": "medium",
+      "points": 20,
+      "explanation": "KPK adalah kelipatan persekutuan terkecil. KPK(29,14) = 406.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "406"
+        },
+        {
+          "label": "B",
+          "text": "446"
+        },
+        {
+          "label": "C",
+          "text": "404"
+        },
+        {
+          "label": "D",
+          "text": "407"
+        }
+      ],
+      "correct_option": "A"
+    },
+    {
+      "id": "M5-0057",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "KPK dan FPB",
+      "subtopic": "factors",
+      "type": "short_answer",
+      "question": "Tentukan FPB dari 32 dan 21.",
+      "correct_answer": "1",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "FPB adalah faktor persekutuan terbesar. FPB(32,21) = 1.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0058",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "KPK dan FPB",
+      "subtopic": "factors",
+      "type": "multiple_choice",
+      "question": "Tentukan KPK dari 35 dan 28.",
+      "correct_answer": "140",
+      "difficulty": "easy",
+      "points": 10,
+      "explanation": "KPK adalah kelipatan persekutuan terkecil. KPK(35,28) = 140.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "154"
+        },
+        {
+          "label": "B",
+          "text": "140"
+        },
+        {
+          "label": "C",
+          "text": "141"
+        },
+        {
+          "label": "D",
+          "text": "138"
+        }
+      ],
+      "correct_option": "B"
+    },
+    {
+      "id": "M5-0059",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "KPK dan FPB",
+      "subtopic": "factors",
+      "type": "short_answer",
+      "question": "Tentukan FPB dari 38 dan 35.",
+      "correct_answer": "1",
+      "difficulty": "medium",
+      "points": 20,
+      "explanation": "FPB adalah faktor persekutuan terbesar. FPB(38,35) = 1.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0060",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 2,
+      "chapter_title": "KPK dan FPB",
+      "subtopic": "factors",
+      "type": "multiple_choice",
+      "question": "Tentukan KPK dari 41 dan 42.",
+      "correct_answer": "1722",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "KPK adalah kelipatan persekutuan terkecil. KPK(41,42) = 1722.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "1723"
+        },
+        {
+          "label": "B",
+          "text": "1894"
+        },
+        {
+          "label": "C",
+          "text": "1720"
+        },
+        {
+          "label": "D",
+          "text": "1722"
+        }
+      ],
+      "correct_option": "D"
+    },
+    {
+      "id": "M5-0061",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Bilangan Pecahan",
+      "subtopic": "fractions",
+      "type": "multiple_choice",
+      "question": "Hitung 2/3 + 3/4 dalam bentuk pecahan paling sederhana.",
+      "correct_answer": "17/12",
+      "difficulty": "easy",
+      "points": 10,
+      "explanation": "2/3 + 3/4 = 17/12.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "17/12"
+        },
+        {
+          "label": "B",
+          "text": "19/12"
+        },
+        {
+          "label": "C",
+          "text": "17/13"
+        },
+        {
+          "label": "D",
+          "text": "3/2"
+        }
+      ],
+      "correct_option": "A"
+    },
+    {
+      "id": "M5-0062",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Bilangan Pecahan",
+      "subtopic": "fractions",
+      "type": "multiple_choice",
+      "question": "Hitung 3/4 × 4/5 dalam bentuk pecahan paling sederhana.",
+      "correct_answer": "3/5",
+      "difficulty": "medium",
+      "points": 20,
+      "explanation": "3/4 × 4/5 = 3/5.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "1"
+        },
+        {
+          "label": "B",
+          "text": "4/5"
+        },
+        {
+          "label": "C",
+          "text": "3/5"
+        },
+        {
+          "label": "D",
+          "text": "1/2"
+        }
+      ],
+      "correct_option": "C"
+    },
+    {
+      "id": "M5-0063",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Bilangan Pecahan",
+      "subtopic": "fractions",
+      "type": "multiple_choice",
+      "question": "Hitung 4/5 + 5/6 dalam bentuk pecahan paling sederhana.",
+      "correct_answer": "49/30",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "4/5 + 5/6 = 49/30.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "49/31"
+        },
+        {
+          "label": "B",
+          "text": "5/3"
+        },
+        {
+          "label": "C",
+          "text": "49/30"
+        },
+        {
+          "label": "D",
+          "text": "17/10"
+        }
+      ],
+      "correct_option": "C"
+    },
+    {
+      "id": "M5-0064",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Bilangan Pecahan",
+      "subtopic": "fractions",
+      "type": "multiple_choice",
+      "question": "Hitung 1/6 × 6/7 dalam bentuk pecahan paling sederhana.",
+      "correct_answer": "1/7",
+      "difficulty": "easy",
+      "points": 10,
+      "explanation": "1/6 × 6/7 = 1/7.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "2/7"
+        },
+        {
+          "label": "B",
+          "text": "3/7"
+        },
+        {
+          "label": "C",
+          "text": "1/7"
+        },
+        {
+          "label": "D",
+          "text": "1/8"
+        }
+      ],
+      "correct_option": "C"
+    },
+    {
+      "id": "M5-0065",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Bilangan Pecahan",
+      "subtopic": "fractions",
+      "type": "multiple_choice",
+      "question": "Hitung 1 + 7/8 dalam bentuk pecahan paling sederhana.",
+      "correct_answer": "15/8",
+      "difficulty": "medium",
+      "points": 20,
+      "explanation": "1 + 7/8 = 15/8.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "2"
+        },
+        {
+          "label": "B",
+          "text": "17/8"
+        },
+        {
+          "label": "C",
+          "text": "5/3"
+        },
+        {
+          "label": "D",
+          "text": "15/8"
+        }
+      ],
+      "correct_option": "D"
+    },
+    {
+      "id": "M5-0066",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Bilangan Pecahan",
+      "subtopic": "fractions",
+      "type": "multiple_choice",
+      "question": "Hitung 1 × 2/9 dalam bentuk pecahan paling sederhana.",
+      "correct_answer": "2/9",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "1 × 2/9 = 2/9.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "1/5"
+        },
+        {
+          "label": "B",
+          "text": "1/3"
+        },
+        {
+          "label": "C",
+          "text": "2/9"
+        },
+        {
+          "label": "D",
+          "text": "4/9"
+        }
+      ],
+      "correct_option": "C"
+    },
+    {
+      "id": "M5-0067",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Bilangan Pecahan",
+      "subtopic": "fractions",
+      "type": "multiple_choice",
+      "question": "Hitung 1/3 + 1 dalam bentuk pecahan paling sederhana.",
+      "correct_answer": "4/3",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "1/3 + 1 = 4/3.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "2"
+        },
+        {
+          "label": "B",
+          "text": "4/3"
+        },
+        {
+          "label": "C",
+          "text": "1"
+        },
+        {
+          "label": "D",
+          "text": "5/3"
+        }
+      ],
+      "correct_option": "B"
+    },
+    {
+      "id": "M5-0068",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Bilangan Pecahan",
+      "subtopic": "fractions",
+      "type": "multiple_choice",
+      "question": "Hitung 4/3 + 1 dalam bentuk pecahan paling sederhana.",
+      "correct_answer": "7/3",
+      "difficulty": "medium",
+      "points": 20,
+      "explanation": "4/3 + 1 = 7/3.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "8/3"
+        },
+        {
+          "label": "B",
+          "text": "7/4"
+        },
+        {
+          "label": "C",
+          "text": "7/3"
+        },
+        {
+          "label": "D",
+          "text": "3"
+        }
+      ],
+      "correct_option": "C"
+    },
+    {
+      "id": "M5-0069",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Bilangan Pecahan",
+      "subtopic": "fractions",
+      "type": "multiple_choice",
+      "question": "Hitung 1/4 × 1/4 dalam bentuk pecahan paling sederhana.",
+      "correct_answer": "1/16",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "1/4 × 1/4 = 1/16.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "1/8"
+        },
+        {
+          "label": "B",
+          "text": "1/17"
+        },
+        {
+          "label": "C",
+          "text": "3/16"
+        },
+        {
+          "label": "D",
+          "text": "1/16"
+        }
+      ],
+      "correct_option": "D"
+    },
+    {
+      "id": "M5-0070",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Bilangan Pecahan",
+      "subtopic": "fractions",
+      "type": "multiple_choice",
+      "question": "Hitung 2/5 + 1/3 dalam bentuk pecahan paling sederhana.",
+      "correct_answer": "11/15",
+      "difficulty": "easy",
+      "points": 10,
+      "explanation": "2/5 + 1/3 = 11/15.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "11/15"
+        },
+        {
+          "label": "B",
+          "text": "4/5"
+        },
+        {
+          "label": "C",
+          "text": "13/15"
+        },
+        {
+          "label": "D",
+          "text": "11/16"
+        }
+      ],
+      "correct_option": "A"
+    },
+    {
+      "id": "M5-0071",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Bilangan Pecahan",
+      "subtopic": "fractions",
+      "type": "multiple_choice",
+      "question": "Hitung 1/2 × 4/3 dalam bentuk pecahan paling sederhana.",
+      "correct_answer": "2/3",
+      "difficulty": "medium",
+      "points": 20,
+      "explanation": "1/2 × 4/3 = 2/3.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "4/3"
+        },
+        {
+          "label": "B",
+          "text": "1/2"
+        },
+        {
+          "label": "C",
+          "text": "2/3"
+        },
+        {
+          "label": "D",
+          "text": "1"
+        }
+      ],
+      "correct_option": "C"
+    },
+    {
+      "id": "M5-0072",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Bilangan Pecahan",
+      "subtopic": "fractions",
+      "type": "multiple_choice",
+      "question": "Hitung 2 + 5/4 dalam bentuk pecahan paling sederhana.",
+      "correct_answer": "13/4",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "2 + 5/4 = 13/4.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "15/4"
+        },
+        {
+          "label": "B",
+          "text": "13/4"
+        },
+        {
+          "label": "C",
+          "text": "7/2"
+        },
+        {
+          "label": "D",
+          "text": "13/5"
+        }
+      ],
+      "correct_option": "B"
+    },
+    {
+      "id": "M5-0073",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Bilangan Pecahan",
+      "subtopic": "fractions",
+      "type": "multiple_choice",
+      "question": "Hitung 1/3 × 6/5 dalam bentuk pecahan paling sederhana.",
+      "correct_answer": "2/5",
+      "difficulty": "easy",
+      "points": 10,
+      "explanation": "1/3 × 6/5 = 2/5.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "1/3"
+        },
+        {
+          "label": "B",
+          "text": "3/5"
+        },
+        {
+          "label": "C",
+          "text": "4/5"
+        },
+        {
+          "label": "D",
+          "text": "2/5"
+        }
+      ],
+      "correct_option": "D"
+    },
+    {
+      "id": "M5-0074",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Bilangan Pecahan",
+      "subtopic": "fractions",
+      "type": "multiple_choice",
+      "question": "Hitung 1/2 + 7/6 dalam bentuk pecahan paling sederhana.",
+      "correct_answer": "5/3",
+      "difficulty": "medium",
+      "points": 20,
+      "explanation": "1/2 + 7/6 = 5/3.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "7/3"
+        },
+        {
+          "label": "B",
+          "text": "5/4"
+        },
+        {
+          "label": "C",
+          "text": "5/3"
+        },
+        {
+          "label": "D",
+          "text": "2"
+        }
+      ],
+      "correct_option": "C"
+    },
+    {
+      "id": "M5-0075",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Bilangan Pecahan",
+      "subtopic": "fractions",
+      "type": "multiple_choice",
+      "question": "Hitung 3/5 × 2/7 dalam bentuk pecahan paling sederhana.",
+      "correct_answer": "6/35",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "3/5 × 2/7 = 6/35.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "1/5"
+        },
+        {
+          "label": "B",
+          "text": "8/35"
+        },
+        {
+          "label": "C",
+          "text": "1/6"
+        },
+        {
+          "label": "D",
+          "text": "6/35"
+        }
+      ],
+      "correct_option": "D"
+    },
+    {
+      "id": "M5-0076",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Bilangan Pecahan",
+      "subtopic": "fractions",
+      "type": "multiple_choice",
+      "question": "Hitung 2/3 + 3/8 dalam bentuk pecahan paling sederhana.",
+      "correct_answer": "25/24",
+      "difficulty": "easy",
+      "points": 10,
+      "explanation": "2/3 + 3/8 = 25/24.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "1"
+        },
+        {
+          "label": "B",
+          "text": "25/24"
+        },
+        {
+          "label": "C",
+          "text": "13/12"
+        },
+        {
+          "label": "D",
+          "text": "9/8"
+        }
+      ],
+      "correct_option": "B"
+    },
+    {
+      "id": "M5-0077",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Bilangan Pecahan",
+      "subtopic": "fractions",
+      "type": "multiple_choice",
+      "question": "Hitung 1/2 × 4/9 dalam bentuk pecahan paling sederhana.",
+      "correct_answer": "2/9",
+      "difficulty": "medium",
+      "points": 20,
+      "explanation": "1/2 × 4/9 = 2/9.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "1/5"
+        },
+        {
+          "label": "B",
+          "text": "4/9"
+        },
+        {
+          "label": "C",
+          "text": "1/3"
+        },
+        {
+          "label": "D",
+          "text": "2/9"
+        }
+      ],
+      "correct_option": "D"
+    },
+    {
+      "id": "M5-0078",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Bilangan Pecahan",
+      "subtopic": "fractions",
+      "type": "multiple_choice",
+      "question": "Hitung 2/3 + 5/3 dalam bentuk pecahan paling sederhana.",
+      "correct_answer": "7/3",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "2/3 + 5/3 = 7/3.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "8/3"
+        },
+        {
+          "label": "B",
+          "text": "7/3"
+        },
+        {
+          "label": "C",
+          "text": "3"
+        },
+        {
+          "label": "D",
+          "text": "7/4"
+        }
+      ],
+      "correct_option": "B"
+    },
+    {
+      "id": "M5-0079",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Bilangan Pecahan",
+      "subtopic": "fractions",
+      "type": "multiple_choice",
+      "question": "Hitung 3/4 × 3/2 dalam bentuk pecahan paling sederhana.",
+      "correct_answer": "9/8",
+      "difficulty": "easy",
+      "points": 10,
+      "explanation": "3/4 × 3/2 = 9/8.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "11/8"
+        },
+        {
+          "label": "B",
+          "text": "5/4"
+        },
+        {
+          "label": "C",
+          "text": "9/8"
+        },
+        {
+          "label": "D",
+          "text": "1"
+        }
+      ],
+      "correct_option": "C"
+    },
+    {
+      "id": "M5-0080",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Bilangan Pecahan",
+      "subtopic": "fractions",
+      "type": "multiple_choice",
+      "question": "Hitung 4/5 + 7/5 dalam bentuk pecahan paling sederhana.",
+      "correct_answer": "11/5",
+      "difficulty": "medium",
+      "points": 20,
+      "explanation": "4/5 + 7/5 = 11/5.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "11/6"
+        },
+        {
+          "label": "B",
+          "text": "13/5"
+        },
+        {
+          "label": "C",
+          "text": "11/5"
+        },
+        {
+          "label": "D",
+          "text": "12/5"
+        }
+      ],
+      "correct_option": "C"
+    },
+    {
+      "id": "M5-0081",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Bilangan Pecahan",
+      "subtopic": "fractions",
+      "type": "multiple_choice",
+      "question": "Hitung 1/6 × 1/3 dalam bentuk pecahan paling sederhana.",
+      "correct_answer": "1/18",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "1/6 × 1/3 = 1/18.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "1/19"
+        },
+        {
+          "label": "B",
+          "text": "1/18"
+        },
+        {
+          "label": "C",
+          "text": "1/9"
+        },
+        {
+          "label": "D",
+          "text": "1/6"
+        }
+      ],
+      "correct_option": "B"
+    },
+    {
+      "id": "M5-0082",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Bilangan Pecahan",
+      "subtopic": "fractions",
+      "type": "multiple_choice",
+      "question": "Hitung 1 + 3/7 dalam bentuk pecahan paling sederhana.",
+      "correct_answer": "10/7",
+      "difficulty": "easy",
+      "points": 10,
+      "explanation": "1 + 3/7 = 10/7.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "10/7"
+        },
+        {
+          "label": "B",
+          "text": "12/7"
+        },
+        {
+          "label": "C",
+          "text": "11/7"
+        },
+        {
+          "label": "D",
+          "text": "5/4"
+        }
+      ],
+      "correct_option": "A"
+    },
+    {
+      "id": "M5-0083",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Bilangan Pecahan",
+      "subtopic": "fractions",
+      "type": "multiple_choice",
+      "question": "Hitung 1 + 5/9 dalam bentuk pecahan paling sederhana.",
+      "correct_answer": "14/9",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "1 + 5/9 = 14/9.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "7/5"
+        },
+        {
+          "label": "B",
+          "text": "5/3"
+        },
+        {
+          "label": "C",
+          "text": "14/9"
+        },
+        {
+          "label": "D",
+          "text": "16/9"
+        }
+      ],
+      "correct_option": "C"
+    },
+    {
+      "id": "M5-0084",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Bilangan Pecahan",
+      "subtopic": "fractions",
+      "type": "multiple_choice",
+      "question": "Hitung 1/5 × 2 dalam bentuk pecahan paling sederhana.",
+      "correct_answer": "2/5",
+      "difficulty": "easy",
+      "points": 10,
+      "explanation": "1/5 × 2 = 2/5.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "2/5"
+        },
+        {
+          "label": "B",
+          "text": "3/5"
+        },
+        {
+          "label": "C",
+          "text": "1/3"
+        },
+        {
+          "label": "D",
+          "text": "4/5"
+        }
+      ],
+      "correct_option": "A"
+    },
+    {
+      "id": "M5-0085",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Bilangan Pecahan",
+      "subtopic": "fractions",
+      "type": "multiple_choice",
+      "question": "Hitung 1/3 + 7/4 dalam bentuk pecahan paling sederhana.",
+      "correct_answer": "25/12",
+      "difficulty": "medium",
+      "points": 20,
+      "explanation": "1/3 + 7/4 = 25/12.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "13/6"
+        },
+        {
+          "label": "B",
+          "text": "25/12"
+        },
+        {
+          "label": "C",
+          "text": "25/13"
+        },
+        {
+          "label": "D",
+          "text": "9/4"
+        }
+      ],
+      "correct_option": "B"
+    },
+    {
+      "id": "M5-0086",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 3,
+      "chapter_title": "Bilangan Pecahan",
+      "subtopic": "fractions",
+      "type": "multiple_choice",
+      "question": "Hitung 3/2 × 2/5 dalam bentuk pecahan paling sederhana.",
+      "correct_answer": "3/5",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "3/2 × 2/5 = 3/5.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "4/5"
+        },
+        {
+          "label": "B",
+          "text": "3/5"
+        },
+        {
+          "label": "C",
+          "text": "1"
+        },
+        {
+          "label": "D",
+          "text": "1/2"
+        }
+      ],
+      "correct_option": "B"
+    },
+    {
+      "id": "M5-0087",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Keliling Bangun Datar",
+      "subtopic": "perimeter",
+      "type": "multiple_choice",
+      "question": "Sebuah persegi memiliki sisi 4 cm. Berapa kelilingnya?",
+      "correct_answer": "16",
+      "difficulty": "easy",
+      "points": 10,
+      "explanation": "Keliling = 4 × 4 = 16 cm.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "cm",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "14"
+        },
+        {
+          "label": "B",
+          "text": "16"
+        },
+        {
+          "label": "C",
+          "text": "19"
+        },
+        {
+          "label": "D",
+          "text": "17"
+        }
+      ],
+      "correct_option": "B"
+    },
+    {
+      "id": "M5-0088",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Keliling Bangun Datar",
+      "subtopic": "perimeter",
+      "type": "multiple_choice",
+      "question": "Sebuah persegi memiliki sisi 6 cm. Berapa kelilingnya?",
+      "correct_answer": "24",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "Keliling = 4 × 6 = 24 cm.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "cm",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "22"
+        },
+        {
+          "label": "B",
+          "text": "27"
+        },
+        {
+          "label": "C",
+          "text": "24"
+        },
+        {
+          "label": "D",
+          "text": "25"
+        }
+      ],
+      "correct_option": "C"
+    },
+    {
+      "id": "M5-0089",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Keliling Bangun Datar",
+      "subtopic": "perimeter",
+      "type": "multiple_choice",
+      "question": "Sebuah persegi memiliki sisi 8 cm. Berapa kelilingnya?",
+      "correct_answer": "32",
+      "difficulty": "medium",
+      "points": 20,
+      "explanation": "Keliling = 4 × 8 = 32 cm.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "cm",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "35"
+        },
+        {
+          "label": "B",
+          "text": "32"
+        },
+        {
+          "label": "C",
+          "text": "30"
+        },
+        {
+          "label": "D",
+          "text": "33"
+        }
+      ],
+      "correct_option": "B"
+    },
+    {
+      "id": "M5-0090",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Keliling Bangun Datar",
+      "subtopic": "perimeter",
+      "type": "multiple_choice",
+      "question": "Sebuah persegi memiliki sisi 10 cm. Berapa kelilingnya?",
+      "correct_answer": "40",
+      "difficulty": "easy",
+      "points": 10,
+      "explanation": "Keliling = 4 × 10 = 40 cm.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "cm",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "41"
+        },
+        {
+          "label": "B",
+          "text": "44"
+        },
+        {
+          "label": "C",
+          "text": "40"
+        },
+        {
+          "label": "D",
+          "text": "38"
+        }
+      ],
+      "correct_option": "C"
+    },
+    {
+      "id": "M5-0091",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Keliling Bangun Datar",
+      "subtopic": "perimeter",
+      "type": "multiple_choice",
+      "question": "Sebuah persegi memiliki sisi 12 cm. Berapa kelilingnya?",
+      "correct_answer": "48",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "Keliling = 4 × 12 = 48 cm.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "cm",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "46"
+        },
+        {
+          "label": "B",
+          "text": "49"
+        },
+        {
+          "label": "C",
+          "text": "48"
+        },
+        {
+          "label": "D",
+          "text": "52"
+        }
+      ],
+      "correct_option": "C"
+    },
+    {
+      "id": "M5-0092",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Keliling Bangun Datar",
+      "subtopic": "perimeter",
+      "type": "multiple_choice",
+      "question": "Sebuah persegi memiliki sisi 14 cm. Berapa kelilingnya?",
+      "correct_answer": "56",
+      "difficulty": "medium",
+      "points": 20,
+      "explanation": "Keliling = 4 × 14 = 56 cm.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "cm",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "56"
+        },
+        {
+          "label": "B",
+          "text": "54"
+        },
+        {
+          "label": "C",
+          "text": "61"
+        },
+        {
+          "label": "D",
+          "text": "57"
+        }
+      ],
+      "correct_option": "A"
+    },
+    {
+      "id": "M5-0093",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Keliling Bangun Datar",
+      "subtopic": "perimeter",
+      "type": "multiple_choice",
+      "question": "Sebuah persegi memiliki sisi 16 cm. Berapa kelilingnya?",
+      "correct_answer": "64",
+      "difficulty": "easy",
+      "points": 10,
+      "explanation": "Keliling = 4 × 16 = 64 cm.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "cm",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "65"
+        },
+        {
+          "label": "B",
+          "text": "70"
+        },
+        {
+          "label": "C",
+          "text": "62"
+        },
+        {
+          "label": "D",
+          "text": "64"
+        }
+      ],
+      "correct_option": "D"
+    },
+    {
+      "id": "M5-0094",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Keliling Bangun Datar",
+      "subtopic": "perimeter",
+      "type": "multiple_choice",
+      "question": "Sebuah persegi memiliki sisi 18 cm. Berapa kelilingnya?",
+      "correct_answer": "72",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "Keliling = 4 × 18 = 72 cm.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "cm",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "70"
+        },
+        {
+          "label": "B",
+          "text": "73"
+        },
+        {
+          "label": "C",
+          "text": "79"
+        },
+        {
+          "label": "D",
+          "text": "72"
+        }
+      ],
+      "correct_option": "D"
+    },
+    {
+      "id": "M5-0095",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Keliling Bangun Datar",
+      "subtopic": "perimeter",
+      "type": "multiple_choice",
+      "question": "Sebuah persegi memiliki sisi 20 cm. Berapa kelilingnya?",
+      "correct_answer": "80",
+      "difficulty": "medium",
+      "points": 20,
+      "explanation": "Keliling = 4 × 20 = 80 cm.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "cm",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "78"
+        },
+        {
+          "label": "B",
+          "text": "81"
+        },
+        {
+          "label": "C",
+          "text": "88"
+        },
+        {
+          "label": "D",
+          "text": "80"
+        }
+      ],
+      "correct_option": "D"
+    },
+    {
+      "id": "M5-0096",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Keliling Bangun Datar",
+      "subtopic": "perimeter",
+      "type": "multiple_choice",
+      "question": "Sebuah persegi memiliki sisi 22 cm. Berapa kelilingnya?",
+      "correct_answer": "88",
+      "difficulty": "easy",
+      "points": 10,
+      "explanation": "Keliling = 4 × 22 = 88 cm.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "cm",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "86"
+        },
+        {
+          "label": "B",
+          "text": "88"
+        },
+        {
+          "label": "C",
+          "text": "89"
+        },
+        {
+          "label": "D",
+          "text": "96"
+        }
+      ],
+      "correct_option": "B"
+    },
+    {
+      "id": "M5-0097",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Keliling Bangun Datar",
+      "subtopic": "perimeter",
+      "type": "multiple_choice",
+      "question": "Sebuah persegi memiliki sisi 24 cm. Berapa kelilingnya?",
+      "correct_answer": "96",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "Keliling = 4 × 24 = 96 cm.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "cm",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "97"
+        },
+        {
+          "label": "B",
+          "text": "94"
+        },
+        {
+          "label": "C",
+          "text": "96"
+        },
+        {
+          "label": "D",
+          "text": "105"
+        }
+      ],
+      "correct_option": "C"
+    },
+    {
+      "id": "M5-0098",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Keliling Bangun Datar",
+      "subtopic": "perimeter",
+      "type": "multiple_choice",
+      "question": "Sebuah persegi memiliki sisi 26 cm. Berapa kelilingnya?",
+      "correct_answer": "104",
+      "difficulty": "medium",
+      "points": 20,
+      "explanation": "Keliling = 4 × 26 = 104 cm.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "cm",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "104"
+        },
+        {
+          "label": "B",
+          "text": "102"
+        },
+        {
+          "label": "C",
+          "text": "105"
+        },
+        {
+          "label": "D",
+          "text": "114"
+        }
+      ],
+      "correct_option": "A"
+    },
+    {
+      "id": "M5-0099",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Keliling Bangun Datar",
+      "subtopic": "perimeter",
+      "type": "multiple_choice",
+      "question": "Sebuah persegi memiliki sisi 28 cm. Berapa kelilingnya?",
+      "correct_answer": "112",
+      "difficulty": "easy",
+      "points": 10,
+      "explanation": "Keliling = 4 × 28 = 112 cm.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "cm",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "110"
+        },
+        {
+          "label": "B",
+          "text": "113"
+        },
+        {
+          "label": "C",
+          "text": "123"
+        },
+        {
+          "label": "D",
+          "text": "112"
+        }
+      ],
+      "correct_option": "D"
+    },
+    {
+      "id": "M5-0100",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Keliling Bangun Datar",
+      "subtopic": "perimeter",
+      "type": "multiple_choice",
+      "question": "Sebuah persegi memiliki sisi 30 cm. Berapa kelilingnya?",
+      "correct_answer": "120",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "Keliling = 4 × 30 = 120 cm.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "cm",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "118"
+        },
+        {
+          "label": "B",
+          "text": "120"
+        },
+        {
+          "label": "C",
+          "text": "132"
+        },
+        {
+          "label": "D",
+          "text": "121"
+        }
+      ],
+      "correct_option": "B"
+    },
+    {
+      "id": "M5-0101",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 4,
+      "chapter_title": "Keliling Bangun Datar",
+      "subtopic": "perimeter",
+      "type": "multiple_choice",
+      "question": "Sebuah persegi memiliki sisi 32 cm. Berapa kelilingnya?",
+      "correct_answer": "128",
+      "difficulty": "medium",
+      "points": 20,
+      "explanation": "Keliling = 4 × 32 = 128 cm.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "cm",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "128"
+        },
+        {
+          "label": "B",
+          "text": "126"
+        },
+        {
+          "label": "C",
+          "text": "140"
+        },
+        {
+          "label": "D",
+          "text": "129"
+        }
+      ],
+      "correct_option": "A"
+    },
+    {
+      "id": "M5-0102",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Luas Daerah Bangun Datar",
+      "subtopic": "area",
+      "type": "multiple_choice",
+      "question": "Hitung luas persegi dengan sisi 5 cm.",
+      "correct_answer": "25",
+      "difficulty": "easy",
+      "points": 10,
+      "explanation": "Luas persegi = 5 × 5 = 25 cm².",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "cm²",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "options": [
+        {
+          "label": "A",
+          "text": "26"
+        },
+        {
+          "label": "B",
+          "text": "28"
+        },
+        {
+          "label": "C",
+          "text": "23"
+        },
+        {
+          "label": "D",
+          "text": "25"
+        }
+      ],
+      "correct_option": "D"
+    },
+    {
+      "id": "M5-0103",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Luas Daerah Bangun Datar",
+      "subtopic": "area",
+      "type": "short_answer",
+      "question": "Hitung luas persegi panjang 6 cm × 5 cm.",
+      "correct_answer": "30",
+      "difficulty": "medium",
+      "points": 20,
+      "explanation": "Luas = 6 × 5 = 30 cm².",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "cm²",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0104",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Luas Daerah Bangun Datar",
+      "subtopic": "area",
+      "type": "short_answer",
+      "question": "Hitung luas persegi dengan sisi 7 cm.",
+      "correct_answer": "49",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "Luas persegi = 7 × 7 = 49 cm².",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "cm²",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0105",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Luas Daerah Bangun Datar",
+      "subtopic": "area",
+      "type": "short_answer",
+      "question": "Hitung luas persegi panjang 8 cm × 7 cm.",
+      "correct_answer": "56",
+      "difficulty": "easy",
+      "points": 10,
+      "explanation": "Luas = 8 × 7 = 56 cm².",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "cm²",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0106",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Luas Daerah Bangun Datar",
+      "subtopic": "area",
+      "type": "short_answer",
+      "question": "Hitung luas persegi dengan sisi 9 cm.",
+      "correct_answer": "81",
+      "difficulty": "medium",
+      "points": 20,
+      "explanation": "Luas persegi = 9 × 9 = 81 cm².",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "cm²",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0107",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Luas Daerah Bangun Datar",
+      "subtopic": "area",
+      "type": "short_answer",
+      "question": "Hitung luas persegi panjang 10 cm × 9 cm.",
+      "correct_answer": "90",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "Luas = 10 × 9 = 90 cm².",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "cm²",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0108",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Luas Daerah Bangun Datar",
+      "subtopic": "area",
+      "type": "short_answer",
+      "question": "Hitung luas persegi dengan sisi 11 cm.",
+      "correct_answer": "121",
+      "difficulty": "easy",
+      "points": 10,
+      "explanation": "Luas persegi = 11 × 11 = 121 cm².",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "cm²",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0109",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Luas Daerah Bangun Datar",
+      "subtopic": "area",
+      "type": "short_answer",
+      "question": "Hitung luas persegi panjang 12 cm × 11 cm.",
+      "correct_answer": "132",
+      "difficulty": "medium",
+      "points": 20,
+      "explanation": "Luas = 12 × 11 = 132 cm².",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "cm²",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0110",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Luas Daerah Bangun Datar",
+      "subtopic": "area",
+      "type": "short_answer",
+      "question": "Hitung luas persegi dengan sisi 13 cm.",
+      "correct_answer": "169",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "Luas persegi = 13 × 13 = 169 cm².",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "cm²",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0111",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Luas Daerah Bangun Datar",
+      "subtopic": "area",
+      "type": "short_answer",
+      "question": "Hitung luas persegi panjang 14 cm × 13 cm.",
+      "correct_answer": "182",
+      "difficulty": "easy",
+      "points": 10,
+      "explanation": "Luas = 14 × 13 = 182 cm².",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "cm²",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0112",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Luas Daerah Bangun Datar",
+      "subtopic": "area",
+      "type": "short_answer",
+      "question": "Hitung luas persegi dengan sisi 15 cm.",
+      "correct_answer": "225",
+      "difficulty": "medium",
+      "points": 20,
+      "explanation": "Luas persegi = 15 × 15 = 225 cm².",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "cm²",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0113",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Luas Daerah Bangun Datar",
+      "subtopic": "area",
+      "type": "short_answer",
+      "question": "Hitung luas persegi panjang 16 cm × 15 cm.",
+      "correct_answer": "240",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "Luas = 16 × 15 = 240 cm².",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "cm²",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0114",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Luas Daerah Bangun Datar",
+      "subtopic": "area",
+      "type": "short_answer",
+      "question": "Hitung luas persegi dengan sisi 17 cm.",
+      "correct_answer": "289",
+      "difficulty": "easy",
+      "points": 10,
+      "explanation": "Luas persegi = 17 × 17 = 289 cm².",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "cm²",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0115",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Luas Daerah Bangun Datar",
+      "subtopic": "area",
+      "type": "short_answer",
+      "question": "Hitung luas persegi panjang 18 cm × 17 cm.",
+      "correct_answer": "306",
+      "difficulty": "medium",
+      "points": 20,
+      "explanation": "Luas = 18 × 17 = 306 cm².",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "cm²",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0116",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Luas Daerah Bangun Datar",
+      "subtopic": "area",
+      "type": "short_answer",
+      "question": "Hitung luas persegi dengan sisi 19 cm.",
+      "correct_answer": "361",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "Luas persegi = 19 × 19 = 361 cm².",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "cm²",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0117",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Luas Daerah Bangun Datar",
+      "subtopic": "area",
+      "type": "short_answer",
+      "question": "Hitung luas persegi panjang 20 cm × 19 cm.",
+      "correct_answer": "380",
+      "difficulty": "easy",
+      "points": 10,
+      "explanation": "Luas = 20 × 19 = 380 cm².",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "cm²",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0118",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Luas Daerah Bangun Datar",
+      "subtopic": "area",
+      "type": "short_answer",
+      "question": "Hitung luas persegi dengan sisi 21 cm.",
+      "correct_answer": "441",
+      "difficulty": "medium",
+      "points": 20,
+      "explanation": "Luas persegi = 21 × 21 = 441 cm².",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "cm²",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0119",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Luas Daerah Bangun Datar",
+      "subtopic": "area",
+      "type": "short_answer",
+      "question": "Hitung luas persegi panjang 22 cm × 4 cm.",
+      "correct_answer": "88",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "Luas = 22 × 4 = 88 cm².",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "cm²",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0120",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Luas Daerah Bangun Datar",
+      "subtopic": "area",
+      "type": "short_answer",
+      "question": "Hitung luas persegi dengan sisi 23 cm.",
+      "correct_answer": "529",
+      "difficulty": "easy",
+      "points": 10,
+      "explanation": "Luas persegi = 23 × 23 = 529 cm².",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "cm²",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0121",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Luas Daerah Bangun Datar",
+      "subtopic": "area",
+      "type": "short_answer",
+      "question": "Hitung luas persegi panjang 24 cm × 6 cm.",
+      "correct_answer": "144",
+      "difficulty": "medium",
+      "points": 20,
+      "explanation": "Luas = 24 × 6 = 144 cm².",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "cm²",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0122",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Luas Daerah Bangun Datar",
+      "subtopic": "area",
+      "type": "short_answer",
+      "question": "Hitung luas persegi dengan sisi 25 cm.",
+      "correct_answer": "625",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "Luas persegi = 25 × 25 = 625 cm².",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "cm²",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0123",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Luas Daerah Bangun Datar",
+      "subtopic": "area",
+      "type": "short_answer",
+      "question": "Hitung luas persegi panjang 26 cm × 8 cm.",
+      "correct_answer": "208",
+      "difficulty": "easy",
+      "points": 10,
+      "explanation": "Luas = 26 × 8 = 208 cm².",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "cm²",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0124",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Luas Daerah Bangun Datar",
+      "subtopic": "area",
+      "type": "short_answer",
+      "question": "Hitung luas persegi dengan sisi 27 cm.",
+      "correct_answer": "729",
+      "difficulty": "medium",
+      "points": 20,
+      "explanation": "Luas persegi = 27 × 27 = 729 cm².",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "cm²",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0125",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Luas Daerah Bangun Datar",
+      "subtopic": "area",
+      "type": "short_answer",
+      "question": "Hitung luas persegi panjang 28 cm × 10 cm.",
+      "correct_answer": "280",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "Luas = 28 × 10 = 280 cm².",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "cm²",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0126",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Luas Daerah Bangun Datar",
+      "subtopic": "area",
+      "type": "short_answer",
+      "question": "Hitung luas persegi dengan sisi 29 cm.",
+      "correct_answer": "841",
+      "difficulty": "easy",
+      "points": 10,
+      "explanation": "Luas persegi = 29 × 29 = 841 cm².",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "cm²",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0127",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Luas Daerah Bangun Datar",
+      "subtopic": "area",
+      "type": "short_answer",
+      "question": "Hitung luas persegi panjang 30 cm × 12 cm.",
+      "correct_answer": "360",
+      "difficulty": "medium",
+      "points": 20,
+      "explanation": "Luas = 30 × 12 = 360 cm².",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "cm²",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0128",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Luas Daerah Bangun Datar",
+      "subtopic": "area",
+      "type": "short_answer",
+      "question": "Hitung luas persegi dengan sisi 31 cm.",
+      "correct_answer": "961",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "Luas persegi = 31 × 31 = 961 cm².",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "cm²",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0129",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Luas Daerah Bangun Datar",
+      "subtopic": "area",
+      "type": "short_answer",
+      "question": "Hitung luas persegi panjang 32 cm × 14 cm.",
+      "correct_answer": "448",
+      "difficulty": "easy",
+      "points": 10,
+      "explanation": "Luas = 32 × 14 = 448 cm².",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "cm²",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0130",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Luas Daerah Bangun Datar",
+      "subtopic": "area",
+      "type": "short_answer",
+      "question": "Hitung luas persegi dengan sisi 33 cm.",
+      "correct_answer": "1089",
+      "difficulty": "medium",
+      "points": 20,
+      "explanation": "Luas persegi = 33 × 33 = 1089 cm².",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "cm²",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0131",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 5,
+      "chapter_title": "Luas Daerah Bangun Datar",
+      "subtopic": "area",
+      "type": "short_answer",
+      "question": "Hitung luas persegi panjang 34 cm × 16 cm.",
+      "correct_answer": "544",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "Luas = 34 × 16 = 544 cm².",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "cm²",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0132",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Sudut",
+      "subtopic": "angles",
+      "type": "short_answer",
+      "question": "Sudut sebesar 30° termasuk sudut apa?",
+      "correct_answer": "lancip",
+      "difficulty": "easy",
+      "points": 10,
+      "explanation": "30° diklasifikasikan sebagai sudut lancip.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0133",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Sudut",
+      "subtopic": "angles",
+      "type": "short_answer",
+      "question": "Dua sudut membentuk garis lurus. Jika satu sudut 45°, berapa sudut pasangannya?",
+      "correct_answer": "135",
+      "difficulty": "medium",
+      "points": 20,
+      "explanation": "Jumlah sudut pada garis lurus 180°. 180 − 45 = 135°.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "derajat",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0134",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Sudut",
+      "subtopic": "angles",
+      "type": "short_answer",
+      "question": "Sudut sebesar 60° termasuk sudut apa?",
+      "correct_answer": "lancip",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "60° diklasifikasikan sebagai sudut lancip.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0135",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Sudut",
+      "subtopic": "angles",
+      "type": "short_answer",
+      "question": "Dua sudut membentuk garis lurus. Jika satu sudut 90°, berapa sudut pasangannya?",
+      "correct_answer": "90",
+      "difficulty": "easy",
+      "points": 10,
+      "explanation": "Jumlah sudut pada garis lurus 180°. 180 − 90 = 90°.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "derajat",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0136",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Sudut",
+      "subtopic": "angles",
+      "type": "short_answer",
+      "question": "Sudut sebesar 110° termasuk sudut apa?",
+      "correct_answer": "tumpul",
+      "difficulty": "medium",
+      "points": 20,
+      "explanation": "110° diklasifikasikan sebagai sudut tumpul.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0137",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Sudut",
+      "subtopic": "angles",
+      "type": "short_answer",
+      "question": "Dua sudut membentuk garis lurus. Jika satu sudut 135°, berapa sudut pasangannya?",
+      "correct_answer": "45",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "Jumlah sudut pada garis lurus 180°. 180 − 135 = 45°.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "derajat",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0138",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Sudut",
+      "subtopic": "angles",
+      "type": "short_answer",
+      "question": "Sudut sebesar 180° termasuk sudut apa?",
+      "correct_answer": "lurus",
+      "difficulty": "easy",
+      "points": 10,
+      "explanation": "180° diklasifikasikan sebagai sudut lurus.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0139",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 6,
+      "chapter_title": "Sudut",
+      "subtopic": "angles",
+      "type": "short_answer",
+      "question": "Dua sudut membentuk garis lurus. Jika satu sudut 110°, berapa sudut pasangannya?",
+      "correct_answer": "70",
+      "difficulty": "medium",
+      "points": 20,
+      "explanation": "Jumlah sudut pada garis lurus 180°. 180 − 110 = 70°.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "derajat",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0140",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "Membandingkan Ciri-Ciri Bangun Datar",
+      "subtopic": "geometry",
+      "type": "short_answer",
+      "question": "Berapa jumlah sudut siku-siku pada persegi panjang?",
+      "correct_answer": "4",
+      "difficulty": "medium",
+      "points": 20,
+      "explanation": "Persegi panjang memiliki empat sudut siku-siku.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0141",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "Membandingkan Ciri-Ciri Bangun Datar",
+      "subtopic": "geometry",
+      "type": "short_answer",
+      "question": "Bangun datar dengan tiga sisi dan tiga titik sudut disebut apa?",
+      "correct_answer": "segitiga",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "Segitiga memiliki tiga sisi dan tiga titik sudut.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0142",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "Data",
+      "subtopic": "data",
+      "type": "short_answer",
+      "question": "Data jumlah buku adalah 4, 11, 3, 10, 2. Berapa jumlah seluruh buku?",
+      "correct_answer": "30",
+      "difficulty": "easy",
+      "points": 10,
+      "explanation": "Jumlah = 4 + 11 + 3 + 10 + 2 = 30.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0143",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "Data",
+      "subtopic": "data",
+      "type": "short_answer",
+      "question": "Data 7, 14, 6, 13, 5. Berapa nilai terbesar?",
+      "correct_answer": "14",
+      "difficulty": "medium",
+      "points": 20,
+      "explanation": "Nilai terbesar adalah 14.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0144",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "Data",
+      "subtopic": "data",
+      "type": "short_answer",
+      "question": "Data 10, 2, 9, 1, 8. Berapa selisih nilai terbesar dan terkecil?",
+      "correct_answer": "9",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "10 − 1 = 9.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0145",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "Data",
+      "subtopic": "data",
+      "type": "short_answer",
+      "question": "Data jumlah buku adalah 13, 5, 12, 4, 11. Berapa jumlah seluruh buku?",
+      "correct_answer": "45",
+      "difficulty": "easy",
+      "points": 10,
+      "explanation": "Jumlah = 13 + 5 + 12 + 4 + 11 = 45.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0146",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "Data",
+      "subtopic": "data",
+      "type": "short_answer",
+      "question": "Data 1, 8, 15, 7, 14. Berapa nilai terbesar?",
+      "correct_answer": "15",
+      "difficulty": "medium",
+      "points": 20,
+      "explanation": "Nilai terbesar adalah 15.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0147",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "Data",
+      "subtopic": "data",
+      "type": "short_answer",
+      "question": "Data 4, 11, 3, 10, 2. Berapa selisih nilai terbesar dan terkecil?",
+      "correct_answer": "9",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "11 − 2 = 9.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0148",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "Data",
+      "subtopic": "data",
+      "type": "short_answer",
+      "question": "Data jumlah buku adalah 7, 14, 6, 13, 5. Berapa jumlah seluruh buku?",
+      "correct_answer": "45",
+      "difficulty": "easy",
+      "points": 10,
+      "explanation": "Jumlah = 7 + 14 + 6 + 13 + 5 = 45.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0149",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "Data",
+      "subtopic": "data",
+      "type": "short_answer",
+      "question": "Data 10, 2, 9, 1, 8. Berapa nilai terbesar?",
+      "correct_answer": "10",
+      "difficulty": "medium",
+      "points": 20,
+      "explanation": "Nilai terbesar adalah 10.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0150",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "Data",
+      "subtopic": "data",
+      "type": "short_answer",
+      "question": "Data 13, 5, 12, 4, 11. Berapa selisih nilai terbesar dan terkecil?",
+      "correct_answer": "9",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "13 − 4 = 9.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0151",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "Data",
+      "subtopic": "data",
+      "type": "short_answer",
+      "question": "Data jumlah buku adalah 1, 8, 15, 7, 14. Berapa jumlah seluruh buku?",
+      "correct_answer": "45",
+      "difficulty": "easy",
+      "points": 10,
+      "explanation": "Jumlah = 1 + 8 + 15 + 7 + 14 = 45.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0152",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "Data",
+      "subtopic": "data",
+      "type": "short_answer",
+      "question": "Data 4, 11, 3, 10, 2. Berapa nilai terbesar?",
+      "correct_answer": "11",
+      "difficulty": "medium",
+      "points": 20,
+      "explanation": "Nilai terbesar adalah 11.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0153",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "Data",
+      "subtopic": "data",
+      "type": "short_answer",
+      "question": "Data 7, 14, 6, 13, 5. Berapa selisih nilai terbesar dan terkecil?",
+      "correct_answer": "9",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "14 − 5 = 9.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0154",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "Data",
+      "subtopic": "data",
+      "type": "short_answer",
+      "question": "Data jumlah buku adalah 10, 2, 9, 1, 8. Berapa jumlah seluruh buku?",
+      "correct_answer": "30",
+      "difficulty": "easy",
+      "points": 10,
+      "explanation": "Jumlah = 10 + 2 + 9 + 1 + 8 = 30.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0155",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "Data",
+      "subtopic": "data",
+      "type": "short_answer",
+      "question": "Data 13, 5, 12, 4, 11. Berapa nilai terbesar?",
+      "correct_answer": "13",
+      "difficulty": "medium",
+      "points": 20,
+      "explanation": "Nilai terbesar adalah 13.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0156",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 8,
+      "chapter_title": "Data",
+      "subtopic": "data",
+      "type": "short_answer",
+      "question": "Data 1, 8, 15, 7, 14. Berapa selisih nilai terbesar dan terkecil?",
+      "correct_answer": "14",
+      "difficulty": "hard",
+      "points": 30,
+      "explanation": "15 − 1 = 14.",
+      "status": "calculation_verified_draft_requires_curriculum_review",
+      "review_required": true,
+      "source_basis": "generated_original_exercises_not_directly_page_mapped",
+      "unit": "",
+      "review_status": "arithmetic_independently_verified_source_page_pending"
+    },
+    {
+      "id": "M5-0157",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "Bilangan Cacah Sampai 1.000.000",
+      "subtopic": "bilangan hingga 1.000.000",
+      "type": "short_answer",
+      "question": "Pada bilangan 594.079. berapa nilai angka pada tempat puluhan?",
+      "correct_answer": "70",
+      "points": 20,
+      "difficulty": "medium",
+      "explanation": "Angka 7 dikali nilai tempat 10 = 70.",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "source_basis": "original_generated_exercise"
+    },
+    {
+      "id": "M5-0158",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "Bilangan Cacah Sampai 1.000.000",
+      "subtopic": "bilangan hingga 1.000.000",
+      "type": "short_answer",
+      "question": "Hitung 373.240 + 9.385.",
+      "correct_answer": "382625",
+      "points": 20,
+      "difficulty": "hard",
+      "explanation": "373.240 + 9.385 = 382.625.",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "source_basis": "original_generated_exercise"
+    },
+    {
+      "id": "M5-0159",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "Bilangan Cacah Sampai 1.000.000",
+      "subtopic": "bilangan hingga 1.000.000",
+      "type": "short_answer",
+      "question": "Hitung 586.030 − 38.523.",
+      "correct_answer": "547507",
+      "points": 20,
+      "difficulty": "easy",
+      "explanation": "586.030 − 38.523 = 547.507.",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "source_basis": "original_generated_exercise"
+    },
+    {
+      "id": "M5-0160",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "Bilangan Cacah Sampai 1.000.000",
+      "subtopic": "bilangan hingga 1.000.000",
+      "type": "short_answer",
+      "question": "Bulatkan 655.760 ke kelipatan 100 terdekat.",
+      "correct_answer": "655800",
+      "points": 20,
+      "difficulty": "medium",
+      "explanation": "Pembulatan ke 100 terdekat menghasilkan 655.800.",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "source_basis": "original_generated_exercise"
+    },
+    {
+      "id": "M5-0161",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "Bilangan Cacah Sampai 1.000.000",
+      "subtopic": "bilangan hingga 1.000.000",
+      "type": "short_answer",
+      "question": "Bilangan mana yang lebih besar. 637.664 atau 653.700?",
+      "correct_answer": "653700",
+      "points": 20,
+      "difficulty": "hard",
+      "explanation": "Karena 653.700 > 637.664. bilangan yang lebih besar adalah 653.700.",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "source_basis": "original_generated_exercise"
+    },
+    {
+      "id": "M5-0162",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "Bilangan Cacah Sampai 1.000.000",
+      "subtopic": "bilangan hingga 1.000.000",
+      "type": "short_answer",
+      "question": "Pada bilangan 995.165. berapa nilai angka pada tempat ratus ribuan?",
+      "correct_answer": "900000",
+      "points": 20,
+      "difficulty": "easy",
+      "explanation": "Angka 9 dikali nilai tempat 100.000 = 900.000.",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "source_basis": "original_generated_exercise"
+    },
+    {
+      "id": "M5-0163",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "Bilangan Cacah Sampai 1.000.000",
+      "subtopic": "bilangan hingga 1.000.000",
+      "type": "short_answer",
+      "question": "Hitung 595.567 + 75.368.",
+      "correct_answer": "670935",
+      "points": 20,
+      "difficulty": "medium",
+      "explanation": "595.567 + 75.368 = 670.935.",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "source_basis": "original_generated_exercise"
+    },
+    {
+      "id": "M5-0164",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "Bilangan Cacah Sampai 1.000.000",
+      "subtopic": "bilangan hingga 1.000.000",
+      "type": "short_answer",
+      "question": "Hitung 727.315 − 24.942.",
+      "correct_answer": "702373",
+      "points": 20,
+      "difficulty": "hard",
+      "explanation": "727.315 − 24.942 = 702.373.",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "source_basis": "original_generated_exercise"
+    },
+    {
+      "id": "M5-0165",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "Bilangan Cacah Sampai 1.000.000",
+      "subtopic": "bilangan hingga 1.000.000",
+      "type": "short_answer",
+      "question": "Bulatkan 567.236 ke kelipatan 10 terdekat.",
+      "correct_answer": "567240",
+      "points": 20,
+      "difficulty": "easy",
+      "explanation": "Pembulatan ke 10 terdekat menghasilkan 567.240.",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "source_basis": "original_generated_exercise"
+    },
+    {
+      "id": "M5-0166",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "Bilangan Cacah Sampai 1.000.000",
+      "subtopic": "bilangan hingga 1.000.000",
+      "type": "short_answer",
+      "question": "Bilangan mana yang lebih besar. 907.392 atau 920.430?",
+      "correct_answer": "920430",
+      "points": 20,
+      "difficulty": "medium",
+      "explanation": "Karena 920.430 > 907.392. bilangan yang lebih besar adalah 920.430.",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "source_basis": "original_generated_exercise"
+    },
+    {
+      "id": "M5-0167",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "Bilangan Cacah Sampai 1.000.000",
+      "subtopic": "bilangan hingga 1.000.000",
+      "type": "short_answer",
+      "question": "Pada bilangan 743.846. berapa nilai angka pada tempat puluhan?",
+      "correct_answer": "40",
+      "points": 20,
+      "difficulty": "hard",
+      "explanation": "Angka 4 dikali nilai tempat 10 = 40.",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "source_basis": "original_generated_exercise"
+    },
+    {
+      "id": "M5-0168",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "Bilangan Cacah Sampai 1.000.000",
+      "subtopic": "bilangan hingga 1.000.000",
+      "type": "short_answer",
+      "question": "Hitung 158.741 + 70.508.",
+      "correct_answer": "229249",
+      "points": 20,
+      "difficulty": "easy",
+      "explanation": "158.741 + 70.508 = 229.249.",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "source_basis": "original_generated_exercise"
+    },
+    {
+      "id": "M5-0169",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "Bilangan Cacah Sampai 1.000.000",
+      "subtopic": "bilangan hingga 1.000.000",
+      "type": "short_answer",
+      "question": "Hitung 982.732 − 35.925.",
+      "correct_answer": "946807",
+      "points": 20,
+      "difficulty": "medium",
+      "explanation": "982.732 − 35.925 = 946.807.",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "source_basis": "original_generated_exercise"
+    },
+    {
+      "id": "M5-0170",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "Bilangan Cacah Sampai 1.000.000",
+      "subtopic": "bilangan hingga 1.000.000",
+      "type": "short_answer",
+      "question": "Bulatkan 604.309 ke kelipatan 10 terdekat.",
+      "correct_answer": "604310",
+      "points": 20,
+      "difficulty": "hard",
+      "explanation": "Pembulatan ke 10 terdekat menghasilkan 604.310.",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "source_basis": "original_generated_exercise"
+    },
+    {
+      "id": "M5-0171",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "Bilangan Cacah Sampai 1.000.000",
+      "subtopic": "bilangan hingga 1.000.000",
+      "type": "short_answer",
+      "question": "Bilangan mana yang lebih besar. 733.301 atau 806.557?",
+      "correct_answer": "806557",
+      "points": 20,
+      "difficulty": "easy",
+      "explanation": "Karena 806.557 > 733.301. bilangan yang lebih besar adalah 806.557.",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "source_basis": "original_generated_exercise"
+    },
+    {
+      "id": "M5-0172",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "Bilangan Cacah Sampai 1.000.000",
+      "subtopic": "bilangan hingga 1.000.000",
+      "type": "short_answer",
+      "question": "Pada bilangan 950.924. berapa nilai angka pada tempat puluhan?",
+      "correct_answer": "20",
+      "points": 20,
+      "difficulty": "medium",
+      "explanation": "Angka 2 dikali nilai tempat 10 = 20.",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "source_basis": "original_generated_exercise"
+    },
+    {
+      "id": "M5-0173",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "Bilangan Cacah Sampai 1.000.000",
+      "subtopic": "bilangan hingga 1.000.000",
+      "type": "short_answer",
+      "question": "Hitung 110.677 + 26.164.",
+      "correct_answer": "136841",
+      "points": 20,
+      "difficulty": "hard",
+      "explanation": "110.677 + 26.164 = 136.841.",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "source_basis": "original_generated_exercise"
+    },
+    {
+      "id": "M5-0174",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "Bilangan Cacah Sampai 1.000.000",
+      "subtopic": "bilangan hingga 1.000.000",
+      "type": "short_answer",
+      "question": "Hitung 103.989 − 23.743.",
+      "correct_answer": "80246",
+      "points": 20,
+      "difficulty": "easy",
+      "explanation": "103.989 − 23.743 = 80.246.",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "source_basis": "original_generated_exercise"
+    },
+    {
+      "id": "M5-0175",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "Bilangan Cacah Sampai 1.000.000",
+      "subtopic": "bilangan hingga 1.000.000",
+      "type": "short_answer",
+      "question": "Bulatkan 539.502 ke kelipatan 100 terdekat.",
+      "correct_answer": "539500",
+      "points": 20,
+      "difficulty": "medium",
+      "explanation": "Pembulatan ke 100 terdekat menghasilkan 539.500.",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "source_basis": "original_generated_exercise"
+    },
+    {
+      "id": "M5-0176",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "Bilangan Cacah Sampai 1.000.000",
+      "subtopic": "bilangan hingga 1.000.000",
+      "type": "short_answer",
+      "question": "Bilangan mana yang lebih besar. 775.221 atau 804.758?",
+      "correct_answer": "804758",
+      "points": 20,
+      "difficulty": "hard",
+      "explanation": "Karena 804.758 > 775.221. bilangan yang lebih besar adalah 804.758.",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "source_basis": "original_generated_exercise"
+    },
+    {
+      "id": "M5-0177",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "Bilangan Cacah Sampai 1.000.000",
+      "subtopic": "bilangan hingga 1.000.000",
+      "type": "short_answer",
+      "question": "Pada bilangan 703.141. berapa nilai angka pada tempat ratus ribuan?",
+      "correct_answer": "700000",
+      "points": 20,
+      "difficulty": "easy",
+      "explanation": "Angka 7 dikali nilai tempat 100.000 = 700.000.",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "source_basis": "original_generated_exercise"
+    },
+    {
+      "id": "M5-0178",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "Bilangan Cacah Sampai 1.000.000",
+      "subtopic": "bilangan hingga 1.000.000",
+      "type": "short_answer",
+      "question": "Hitung 212.968 + 13.055.",
+      "correct_answer": "226023",
+      "points": 20,
+      "difficulty": "medium",
+      "explanation": "212.968 + 13.055 = 226.023.",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "source_basis": "original_generated_exercise"
+    },
+    {
+      "id": "M5-0179",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "Bilangan Cacah Sampai 1.000.000",
+      "subtopic": "bilangan hingga 1.000.000",
+      "type": "short_answer",
+      "question": "Hitung 799.779 − 85.888.",
+      "correct_answer": "713891",
+      "points": 20,
+      "difficulty": "hard",
+      "explanation": "799.779 − 85.888 = 713.891.",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "source_basis": "original_generated_exercise"
+    },
+    {
+      "id": "M5-0180",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "Bilangan Cacah Sampai 1.000.000",
+      "subtopic": "bilangan hingga 1.000.000",
+      "type": "short_answer",
+      "question": "Bulatkan 707.001 ke kelipatan 10 terdekat.",
+      "correct_answer": "707000",
+      "points": 20,
+      "difficulty": "easy",
+      "explanation": "Pembulatan ke 10 terdekat menghasilkan 707.000.",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "source_basis": "original_generated_exercise"
+    },
+    {
+      "id": "M5-0181",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "Bilangan Cacah Sampai 1.000.000",
+      "subtopic": "bilangan hingga 1.000.000",
+      "type": "short_answer",
+      "question": "Bilangan mana yang lebih besar. 207.632 atau 211.849?",
+      "correct_answer": "211849",
+      "points": 20,
+      "difficulty": "medium",
+      "explanation": "Karena 211.849 > 207.632. bilangan yang lebih besar adalah 211.849.",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "source_basis": "original_generated_exercise"
+    },
+    {
+      "id": "M5-0182",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "Bilangan Cacah Sampai 1.000.000",
+      "subtopic": "bilangan hingga 1.000.000",
+      "type": "short_answer",
+      "question": "Pada bilangan 574.625. berapa nilai angka pada tempat ratus ribuan?",
+      "correct_answer": "500000",
+      "points": 20,
+      "difficulty": "hard",
+      "explanation": "Angka 5 dikali nilai tempat 100.000 = 500.000.",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "source_basis": "original_generated_exercise"
+    },
+    {
+      "id": "M5-0183",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "Bilangan Cacah Sampai 1.000.000",
+      "subtopic": "bilangan hingga 1.000.000",
+      "type": "short_answer",
+      "question": "Hitung 869.186 + 37.912.",
+      "correct_answer": "907098",
+      "points": 20,
+      "difficulty": "easy",
+      "explanation": "869.186 + 37.912 = 907.098.",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "source_basis": "original_generated_exercise"
+    },
+    {
+      "id": "M5-0184",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "Bilangan Cacah Sampai 1.000.000",
+      "subtopic": "bilangan hingga 1.000.000",
+      "type": "short_answer",
+      "question": "Hitung 503.148 − 30.161.",
+      "correct_answer": "472987",
+      "points": 20,
+      "difficulty": "medium",
+      "explanation": "503.148 − 30.161 = 472.987.",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "source_basis": "original_generated_exercise"
+    },
+    {
+      "id": "M5-0185",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "Bilangan Cacah Sampai 1.000.000",
+      "subtopic": "bilangan hingga 1.000.000",
+      "type": "short_answer",
+      "question": "Bulatkan 318.689 ke kelipatan 10 terdekat.",
+      "correct_answer": "318690",
+      "points": 20,
+      "difficulty": "hard",
+      "explanation": "Pembulatan ke 10 terdekat menghasilkan 318.690.",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "source_basis": "original_generated_exercise"
+    },
+    {
+      "id": "M5-0186",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "Bilangan Cacah Sampai 1.000.000",
+      "subtopic": "bilangan hingga 1.000.000",
+      "type": "short_answer",
+      "question": "Bilangan mana yang lebih besar. 261.234 atau 340.564?",
+      "correct_answer": "340564",
+      "points": 20,
+      "difficulty": "easy",
+      "explanation": "Karena 340.564 > 261.234. bilangan yang lebih besar adalah 340.564.",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "source_basis": "original_generated_exercise"
+    },
+    {
+      "id": "M5-0187",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "Bilangan Cacah Sampai 1.000.000",
+      "subtopic": "bilangan hingga 1.000.000",
+      "type": "short_answer",
+      "question": "Pada bilangan 830.135. berapa nilai angka pada tempat ratus ribuan?",
+      "correct_answer": "800000",
+      "points": 20,
+      "difficulty": "medium",
+      "explanation": "Angka 8 dikali nilai tempat 100.000 = 800.000.",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "source_basis": "original_generated_exercise"
+    },
+    {
+      "id": "M5-0188",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "Bilangan Cacah Sampai 1.000.000",
+      "subtopic": "bilangan hingga 1.000.000",
+      "type": "short_answer",
+      "question": "Hitung 281.193 + 65.464.",
+      "correct_answer": "346657",
+      "points": 20,
+      "difficulty": "hard",
+      "explanation": "281.193 + 65.464 = 346.657.",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "source_basis": "original_generated_exercise"
+    },
+    {
+      "id": "M5-0189",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "Bilangan Cacah Sampai 1.000.000",
+      "subtopic": "bilangan hingga 1.000.000",
+      "type": "short_answer",
+      "question": "Hitung 636.427 − 30.084.",
+      "correct_answer": "606343",
+      "points": 20,
+      "difficulty": "easy",
+      "explanation": "636.427 − 30.084 = 606.343.",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "source_basis": "original_generated_exercise"
+    },
+    {
+      "id": "M5-0190",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "Bilangan Cacah Sampai 1.000.000",
+      "subtopic": "bilangan hingga 1.000.000",
+      "type": "short_answer",
+      "question": "Bulatkan 779.098 ke kelipatan 1.000 terdekat.",
+      "correct_answer": "779000",
+      "points": 20,
+      "difficulty": "medium",
+      "explanation": "Pembulatan ke 1.000 terdekat menghasilkan 779.000.",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "source_basis": "original_generated_exercise"
+    },
+    {
+      "id": "M5-0191",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "Bilangan Cacah Sampai 1.000.000",
+      "subtopic": "bilangan hingga 1.000.000",
+      "type": "short_answer",
+      "question": "Bilangan mana yang lebih besar. 722.857 atau 802.121?",
+      "correct_answer": "802121",
+      "points": 20,
+      "difficulty": "hard",
+      "explanation": "Karena 802.121 > 722.857. bilangan yang lebih besar adalah 802.121.",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "source_basis": "original_generated_exercise"
+    },
+    {
+      "id": "M5-0192",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "Bilangan Cacah Sampai 1.000.000",
+      "subtopic": "bilangan hingga 1.000.000",
+      "type": "short_answer",
+      "question": "Pada bilangan 159.518. berapa nilai angka pada tempat satuan?",
+      "correct_answer": "8",
+      "points": 20,
+      "difficulty": "easy",
+      "explanation": "Angka 8 dikali nilai tempat 1 = 8.",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "source_basis": "original_generated_exercise"
+    },
+    {
+      "id": "M5-0193",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "Bilangan Cacah Sampai 1.000.000",
+      "subtopic": "bilangan hingga 1.000.000",
+      "type": "short_answer",
+      "question": "Hitung 724.323 + 65.970.",
+      "correct_answer": "790293",
+      "points": 20,
+      "difficulty": "medium",
+      "explanation": "724.323 + 65.970 = 790.293.",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "source_basis": "original_generated_exercise"
+    },
+    {
+      "id": "M5-0194",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "Bilangan Cacah Sampai 1.000.000",
+      "subtopic": "bilangan hingga 1.000.000",
+      "type": "short_answer",
+      "question": "Hitung 442.671 − 73.942.",
+      "correct_answer": "368729",
+      "points": 20,
+      "difficulty": "hard",
+      "explanation": "442.671 − 73.942 = 368.729.",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "source_basis": "original_generated_exercise"
+    },
+    {
+      "id": "M5-0195",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "Bilangan Cacah Sampai 1.000.000",
+      "subtopic": "bilangan hingga 1.000.000",
+      "type": "short_answer",
+      "question": "Bulatkan 116.173 ke kelipatan 100 terdekat.",
+      "correct_answer": "116200",
+      "points": 20,
+      "difficulty": "easy",
+      "explanation": "Pembulatan ke 100 terdekat menghasilkan 116.200.",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "source_basis": "original_generated_exercise"
+    },
+    {
+      "id": "M5-0196",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "Bilangan Cacah Sampai 1.000.000",
+      "subtopic": "bilangan hingga 1.000.000",
+      "type": "short_answer",
+      "question": "Bilangan mana yang lebih besar. 129.985 atau 131.423?",
+      "correct_answer": "131423",
+      "points": 20,
+      "difficulty": "medium",
+      "explanation": "Karena 131.423 > 129.985. bilangan yang lebih besar adalah 131.423.",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "source_basis": "original_generated_exercise"
+    },
+    {
+      "id": "M5-0197",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "Bilangan Cacah Sampai 1.000.000",
+      "subtopic": "bilangan hingga 1.000.000",
+      "type": "short_answer",
+      "question": "Pada bilangan 923.812. berapa nilai angka pada tempat ratusan?",
+      "correct_answer": "800",
+      "points": 20,
+      "difficulty": "hard",
+      "explanation": "Angka 8 dikali nilai tempat 100 = 800.",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "source_basis": "original_generated_exercise"
+    },
+    {
+      "id": "M5-0198",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "Bilangan Cacah Sampai 1.000.000",
+      "subtopic": "bilangan hingga 1.000.000",
+      "type": "short_answer",
+      "question": "Hitung 218.399 + 71.013.",
+      "correct_answer": "289412",
+      "points": 20,
+      "difficulty": "easy",
+      "explanation": "218.399 + 71.013 = 289.412.",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "source_basis": "original_generated_exercise"
+    },
+    {
+      "id": "M5-0199",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "Bilangan Cacah Sampai 1.000.000",
+      "subtopic": "bilangan hingga 1.000.000",
+      "type": "short_answer",
+      "question": "Hitung 167.605 − 24.271.",
+      "correct_answer": "143334",
+      "points": 20,
+      "difficulty": "medium",
+      "explanation": "167.605 − 24.271 = 143.334.",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "source_basis": "original_generated_exercise"
+    },
+    {
+      "id": "M5-0200",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "Bilangan Cacah Sampai 1.000.000",
+      "subtopic": "bilangan hingga 1.000.000",
+      "type": "short_answer",
+      "question": "Bulatkan 545.963 ke kelipatan 1.000 terdekat.",
+      "correct_answer": "546000",
+      "points": 20,
+      "difficulty": "hard",
+      "explanation": "Pembulatan ke 1.000 terdekat menghasilkan 546.000.",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "source_basis": "original_generated_exercise"
+    },
+    {
+      "id": "M5-0201",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 9,
+      "chapter_title": "Bilangan Cacah Sampai 1.000.000",
+      "subtopic": "bilangan hingga 1.000.000",
+      "type": "short_answer",
+      "question": "Bilangan mana yang lebih besar. 802.954 atau 820.921?",
+      "correct_answer": "820921",
+      "points": 20,
+      "difficulty": "easy",
+      "explanation": "Karena 820.921 > 802.954. bilangan yang lebih besar adalah 820.921.",
+      "review_status": "arithmetic_independently_verified_source_page_pending",
+      "source_basis": "original_generated_exercise"
+    },
+    {
+      "id": "M5-0202",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "Membandingkan Ciri-Ciri Bangun Datar",
+      "type": "short_answer",
+      "question": "Bangun dengan empat sisi sama panjang dan empat sudut siku-siku adalah ...",
+      "correct_answer": "persegi",
+      "answer": "persegi",
+      "difficulty": "medium",
+      "explanation": "Jelaskan ciri bangun datar yang digunakan untuk menentukan jawabannya.",
+      "review_status": "concept_review_pending"
+    },
+    {
+      "id": "M5-0203",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "Membandingkan Ciri-Ciri Bangun Datar",
+      "type": "short_answer",
+      "question": "Bangun dengan dua pasang sisi berhadapan sejajar dan empat sudut siku-siku adalah ...",
+      "correct_answer": "persegi panjang",
+      "answer": "persegi panjang",
+      "difficulty": "medium",
+      "explanation": "Jelaskan ciri bangun datar yang digunakan untuk menentukan jawabannya.",
+      "review_status": "concept_review_pending"
+    },
+    {
+      "id": "M5-0204",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "Membandingkan Ciri-Ciri Bangun Datar",
+      "type": "short_answer",
+      "question": "Bangun datar yang memiliki tepat satu pasang sisi sejajar adalah ...",
+      "correct_answer": "trapesium",
+      "answer": "trapesium",
+      "difficulty": "medium",
+      "explanation": "Jelaskan ciri bangun datar yang digunakan untuk menentukan jawabannya.",
+      "review_status": "concept_review_pending"
+    },
+    {
+      "id": "M5-0205",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "Membandingkan Ciri-Ciri Bangun Datar",
+      "type": "short_answer",
+      "question": "Bangun segiempat dengan dua pasang sisi berhadapan sejajar disebut ...",
+      "correct_answer": "jajar genjang",
+      "answer": "jajar genjang",
+      "difficulty": "medium",
+      "explanation": "Jelaskan ciri bangun datar yang digunakan untuk menentukan jawabannya.",
+      "review_status": "concept_review_pending"
+    },
+    {
+      "id": "M5-0206",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "Membandingkan Ciri-Ciri Bangun Datar",
+      "type": "short_answer",
+      "question": "Bangun dengan empat sisi sama panjang tetapi tidak harus memiliki empat sudut siku-siku disebut ...",
+      "correct_answer": "belah ketupat",
+      "answer": "belah ketupat",
+      "difficulty": "medium",
+      "explanation": "Jelaskan ciri bangun datar yang digunakan untuk menentukan jawabannya.",
+      "review_status": "concept_review_pending"
+    },
+    {
+      "id": "M5-0207",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "Membandingkan Ciri-Ciri Bangun Datar",
+      "type": "short_answer",
+      "question": "Segitiga yang memiliki tiga sisi sama panjang adalah ...",
+      "correct_answer": "segitiga sama sisi",
+      "answer": "segitiga sama sisi",
+      "difficulty": "medium",
+      "explanation": "Jelaskan ciri bangun datar yang digunakan untuk menentukan jawabannya.",
+      "review_status": "concept_review_pending"
+    },
+    {
+      "id": "M5-0208",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "Membandingkan Ciri-Ciri Bangun Datar",
+      "type": "short_answer",
+      "question": "Segitiga yang mempunyai satu sudut 90° adalah ...",
+      "correct_answer": "segitiga siku-siku",
+      "answer": "segitiga siku-siku",
+      "difficulty": "medium",
+      "explanation": "Jelaskan ciri bangun datar yang digunakan untuk menentukan jawabannya.",
+      "review_status": "concept_review_pending"
+    },
+    {
+      "id": "M5-0209",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "Membandingkan Ciri-Ciri Bangun Datar",
+      "type": "short_answer",
+      "question": "Segitiga yang memiliki dua sisi sama panjang disebut ...",
+      "correct_answer": "segitiga sama kaki",
+      "answer": "segitiga sama kaki",
+      "difficulty": "medium",
+      "explanation": "Jelaskan ciri bangun datar yang digunakan untuk menentukan jawabannya.",
+      "review_status": "concept_review_pending"
+    },
+    {
+      "id": "M5-0210",
+      "subject": "Matematika",
+      "grade": 5,
+      "chapter": 7,
+      "chapter_title": "Membandingkan Ciri-Ciri Bangun Datar",
+      "type": "short_answer",
+      "question": "Bangun datar yang memiliki empat sudut dan sisi berhadapan sama panjang adalah ...",
+      "correct_answer": "persegi panjang",
+      "answer": "persegi panjang",
+      "difficulty": "medium",
+      "explanation": "Jelaskan ciri bangun datar yang digunakan untuk menentukan jawabannya.",
+      "review_status": "concept_review_pending"
+    },
+    {
+      "id": "F5-IPAS-EXP-001",
+      "subject": "IPAS",
