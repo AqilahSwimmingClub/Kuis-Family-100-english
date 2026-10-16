@@ -33,6 +33,7 @@ import {
 } from "lucide-react";
 import { catalog, number } from "../data/catalog";
 import "./homepage.css";
+import { SoundSettings } from "./SoundSettings";
 
 const subjects = [
   {
@@ -264,6 +265,7 @@ export function HomePage() {
               <small>BELAJAR · BERMAIN · BERSAMA</small>
             </span>
           </a>
+          <SoundSettings />
           <button
             ref={menuToggle}
             className="edu-menu-toggle"

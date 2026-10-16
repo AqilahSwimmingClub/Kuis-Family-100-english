@@ -13,6 +13,10 @@ Refleksi pembelajaran **SDN SATRIA JAYA 01 · KELAS 5 · Tahun Pelajaran 2026/20
 
 Data Game Center tetap berada dalam delapan berkas `public/game-center/data/bank-part-*.txt`. Homepage memakai ringkasan kecil yang dihasilkan `vite.config.ts`; tidak ada salinan bank soal untuk homepage. Animasi ikon menghormati reduced motion. Tidak ada backend atau secret baru.
 
+## Suara game show
+
+**Pengaturan Suara** tersedia di homepage, English Challenge, dan Game Center. Efek suara aktif dengan volume 65% dan profil Game Show; tersedia mute, volume 0–100%, profil Normal, serta Tes Suara. Preferensi tersimpan otomatis. Audio mulai setelah interaksi pengguna dan disintesis lokal tanpa aset berhak cipta atau dependency tambahan. Rincian event, pemulihan browser, dan batas pengujian ada di [SOUND-SYSTEM.md](docs/SOUND-SYSTEM.md).
+
 ## Menjalankan
 
 Node.js 22.12+ (disarankan Node 24) dan npm.

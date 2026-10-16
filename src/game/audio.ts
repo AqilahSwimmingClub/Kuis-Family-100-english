@@ -1,23 +1,70 @@
-let context: AudioContext | undefined
-export type Sound = 'opening' | 'correct' | 'wrong' | 'round' | 'timeout' | 'steal' | 'winner' | 'countdown' | 'confetti'
-const notes: Record<Sound, number[]> = {
-  opening: [262, 330, 392, 523], correct: [523, 659, 784], wrong: [180, 130], round: [392, 523],
-  timeout: [300, 200, 100], steal: [330, 440, 660], winner: [523, 659, 784, 1047, 784, 1047], countdown: [880], confetti: [1047, 1318, 1568],
+/** One browser audio engine is loaded before either application entry point. */
+export type Sound =
+  | "intro"
+  | "opening"
+  | "question"
+  | "correct"
+  | "wrong"
+  | "reveal"
+  | "score"
+  | "celebration"
+  | "steal"
+  | "steal-success"
+  | "steal-fail"
+  | "countdown"
+  | "timeout"
+  | "turn"
+  | "discussion"
+  | "winner"
+  | "click";
+export type AudioSettings = {
+  enabled: boolean;
+  volume: number;
+  profile: "normal" | "game-show";
+};
+export type SoundOptions = { id?: string; points?: number };
+export type AudioEngine = {
+  getSettings: () => AudioSettings;
+  setSettings: (settings: Partial<AudioSettings>) => AudioSettings;
+  play: (name: Sound, options?: SoundOptions) => Promise<boolean>;
+  unlock: () => Promise<boolean>;
+  stop: () => void;
+  test: () => Promise<boolean>;
+  subscribe: (listener: (settings: AudioSettings) => void) => () => void;
+};
+declare global {
+  interface Window {
+    family100Audio?: AudioEngine;
+  }
 }
-export function playSound(name: Sound, enabled: boolean) {
-  if (!enabled) return
+const defaults: AudioSettings = {
+  enabled: true,
+  volume: 65,
+  profile: "game-show",
+};
+export const getAudioSettings = (): AudioSettings =>
+  window.family100Audio?.getSettings() ?? defaults;
+export const setAudioSettings = (patch: Partial<AudioSettings>) =>
+  window.family100Audio?.setSettings(patch) ?? defaults;
+export const subscribeAudio = (listener: (settings: AudioSettings) => void) =>
+  window.family100Audio?.subscribe(listener) ?? (() => undefined);
+export function playSound(name: Sound, options?: SoundOptions) {
+  void window.family100Audio?.play(name, options).catch(() => undefined);
+}
+export function stopSound() {
+  window.family100Audio?.stop();
+}
+export async function testSound() {
+  const engine = window.family100Audio;
+  if (!engine || !(await engine.unlock())) return false;
+  return engine.test();
+}
+/** Honour an old mute only when no new global preference has ever been saved. */
+export function migrateLegacyMute(sound: boolean) {
   try {
-    context ??= new AudioContext()
-    void context.resume().catch(() => undefined)
-    const start = context.currentTime
-    notes[name].forEach((frequency, i) => {
-      const oscillator = context!.createOscillator(), gain = context!.createGain()
-      oscillator.type = name === 'wrong' ? 'sawtooth' : 'sine'; oscillator.frequency.value = frequency
-      gain.gain.setValueAtTime(0, start + i * .12)
-      gain.gain.linearRampToValueAtTime(.08, start + i * .12 + .015)
-      gain.gain.exponentialRampToValueAtTime(.001, start + i * .12 + .2)
-      oscillator.connect(gain); gain.connect(context!.destination)
-      oscillator.start(start + i * .12); oscillator.stop(start + i * .12 + .22)
-    })
-  } catch { /* Audio is optional on unsupported browsers. */ }
+    if (!sound && localStorage.getItem("family100.audio.v1") === null)
+      setAudioSettings({ enabled: false });
+  } catch {
+    /* The engine can still keep settings in memory when storage is unavailable. */
+  }
 }
