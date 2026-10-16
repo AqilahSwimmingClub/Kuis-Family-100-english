@@ -4,9 +4,11 @@ import { resolve } from 'node:path'
 
 export type AudioSettings = { enabled: boolean; volume: number; profile: 'normal' | 'game-show' }
 export type AudioApi = {
+  getEffects(): { id: string; label: string; description: string }[]
   getSettings(): AudioSettings
   setSettings(value: Partial<AudioSettings>): AudioSettings
   play(name: string, options?: { id?: string; points?: number }): Promise<boolean>
+  preview(name: string): Promise<boolean>
   unlock(): Promise<boolean>
   stop(): void
   test(): Promise<boolean>

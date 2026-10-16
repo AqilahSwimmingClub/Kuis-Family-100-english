@@ -1,6 +1,13 @@
 import { useEffect, useId, useRef, useState } from "react";
-import { Volume2, VolumeX, X } from "lucide-react";
-import { setAudioSettings, testSound } from "../game/audio";
+import { Play, Volume2, VolumeX, X } from "lucide-react";
+import {
+  getSoundEffects,
+  previewSound,
+  setAudioSettings,
+  stopSound,
+  testSound,
+  type SoundEffect,
+} from "../game/audio";
 import { useAudioSettings } from "../game/useAudioSettings";
 import "./sound-settings.css";
 
@@ -10,7 +17,9 @@ export function SoundSettings({ compact = false }: { compact?: boolean }) {
   const [status, setStatus] = useState("");
   const dialog = useRef<HTMLDialogElement>(null);
   const trigger = useRef<HTMLButtonElement>(null);
+  const previewRequest = useRef(0);
   const volumeId = useId();
+  const effects = getSoundEffects();
   useEffect(() => {
     const element = dialog.current;
     if (open && element) {
@@ -19,16 +28,22 @@ export function SoundSettings({ compact = false }: { compact?: boolean }) {
     }
   }, [open]);
   function close() {
+    previewRequest.current++;
+    stopSound();
     dialog.current?.close();
     setOpen(false);
     trigger.current?.focus();
   }
-  async function test() {
-    const played = await testSound().catch(() => false);
+  async function test(effect?: SoundEffect) {
+    const request = ++previewRequest.current;
+    const played = await (effect ? previewSound(effect.id) : testSound()).catch(
+      () => false,
+    );
+    if (request !== previewRequest.current || !dialog.current?.open) return;
     setStatus(
       played
-        ? "Tes suara diputar. Sesuaikan juga volume perangkat Anda."
-        : "Suara belum aktif. Ketuk Tes Suara lagi atau periksa izin audio browser.",
+        ? `${effect?.label ?? "Tes suara"} diputar. Sesuaikan juga volume perangkat Anda.`
+        : "Suara belum aktif. Ketuk Putar atau Tes Suara lagi dan periksa volume perangkat.",
     );
   }
   return (
@@ -85,6 +100,7 @@ export function SoundSettings({ compact = false }: { compact?: boolean }) {
               checked={settings.enabled}
               data-audio-silent
               onChange={(event) => {
+                previewRequest.current++;
                 setAudioSettings({ enabled: event.target.checked });
                 setStatus("");
               }}
@@ -104,6 +120,7 @@ export function SoundSettings({ compact = false }: { compact?: boolean }) {
               value={settings.volume}
               data-audio-silent
               onChange={(event) => {
+                previewRequest.current++;
                 setAudioSettings({ volume: Number(event.target.value) });
                 setStatus("");
               }}
@@ -120,6 +137,7 @@ export function SoundSettings({ compact = false }: { compact?: boolean }) {
               value={settings.profile}
               data-audio-silent
               onChange={(event) => {
+                previewRequest.current++;
                 setAudioSettings({
                   profile: event.target.value as "normal" | "game-show",
                 });
@@ -149,6 +167,36 @@ export function SoundSettings({ compact = false }: { compact?: boolean }) {
               : status ||
                 "Suara aktif setelah interaksi Anda. Pengaturan tersimpan otomatis di perangkat ini."}
           </p>
+          <section
+            className="sound-gallery"
+            aria-labelledby={`${volumeId}-gallery`}
+          >
+            <h3 id={`${volumeId}-gallery`}>Galeri Efek Suara</h3>
+            <p>
+              Dengarkan {effects.length} efek satu per satu. Efek sebelumnya
+              berhenti saat Anda memutar efek lain.
+            </p>
+            <ul className="sound-gallery-list">
+              {effects.map((effect) => (
+                <li key={effect.id}>
+                  <div>
+                    <strong>{effect.label}</strong>
+                    <small>{effect.description}</small>
+                  </div>
+                  <button
+                    type="button"
+                    aria-label={`Putar ${effect.label}`}
+                    data-audio-preview={effect.id}
+                    data-audio-silent
+                    disabled={!settings.enabled || settings.volume === 0}
+                    onClick={() => void test(effect)}
+                  >
+                    <Play size={16} aria-hidden="true" /> Putar
+                  </button>
+                </li>
+              ))}
+            </ul>
+          </section>
         </dialog>
       )}
     </>
