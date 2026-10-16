@@ -24,6 +24,7 @@
 .sound-dialog {
   width: min(480px, calc(100% - 32px));
   max-height: calc(100dvh - 32px);
+  margin: auto;
   padding: 26px;
   border: 1px solid #e2e8f0;
   border-radius: 20px;
@@ -196,6 +197,77 @@
 .sound-settings-trigger:focus-visible {
   outline: 3px solid #2563eb;
   outline-offset: 3px;
+}
+.sound-gallery {
+  border-top: 1px solid #e2e8f0;
+  margin-top: 20px;
+  padding-top: 20px;
+}
+.sound-gallery h3 {
+  margin: 0 0 8px;
+  font-size: 18px;
+  color: #0f172a;
+}
+.sound-gallery > p {
+  margin: 0 0 16px;
+  color: #475569;
+  font-size: 14px;
+}
+.sound-gallery-list {
+  display: grid;
+  gap: 10px;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+.sound-gallery-list li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 12px;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  background: #f8fafc;
+}
+.sound-gallery-list li > div {
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+.sound-gallery-list strong {
+  display: block;
+  font-size: 14px;
+  font-weight: 700;
+}
+.sound-gallery-list small {
+  display: block;
+  margin-top: 3px;
+  font-size: 13px;
+  color: #475569;
+}
+.sound-gallery-list button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  flex-shrink: 0;
+  min-width: 84px;
+  min-height: 44px;
+  padding: 10px;
+  border: 1px solid #2563eb;
+  border-radius: 9px;
+  background: #fff;
+  color: #1e40af;
+  font: inherit;
+  font-weight: 700;
+  cursor: pointer;
+}
+.sound-gallery-list button:hover {
+  background: #eff6ff;
+}
+.sound-gallery-list button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
 }
 .education-home .edu-header-inner {
   column-gap: 18px;

@@ -23,10 +23,13 @@ export type AudioSettings = {
   profile: "normal" | "game-show";
 };
 export type SoundOptions = { id?: string; points?: number };
+export type SoundEffect = { id: Sound; label: string; description: string };
 export type AudioEngine = {
+  getEffects: () => SoundEffect[];
   getSettings: () => AudioSettings;
   setSettings: (settings: Partial<AudioSettings>) => AudioSettings;
   play: (name: Sound, options?: SoundOptions) => Promise<boolean>;
+  preview: (name: Sound) => Promise<boolean>;
   unlock: () => Promise<boolean>;
   stop: () => void;
   test: () => Promise<boolean>;
@@ -42,6 +45,8 @@ const defaults: AudioSettings = {
   volume: 65,
   profile: "game-show",
 };
+export const getSoundEffects = (): SoundEffect[] =>
+  window.family100Audio?.getEffects() ?? [];
 export const getAudioSettings = (): AudioSettings =>
   window.family100Audio?.getSettings() ?? defaults;
 export const setAudioSettings = (patch: Partial<AudioSettings>) =>
@@ -54,10 +59,12 @@ export function playSound(name: Sound, options?: SoundOptions) {
 export function stopSound() {
   window.family100Audio?.stop();
 }
+export async function previewSound(name: Sound) {
+  return window.family100Audio?.preview(name) ?? false;
+}
 export async function testSound() {
   const engine = window.family100Audio;
-  if (!engine || !(await engine.unlock())) return false;
-  return engine.test();
+  return engine?.test() ?? false;
 }
 /** Honour an old mute only when no new global preference has ever been saved. */
 export function migrateLegacyMute(sound: boolean) {

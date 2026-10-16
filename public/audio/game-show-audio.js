@@ -274,12 +274,12 @@
         if (rich) sweep(0, .16, .075);
         bell(name === 'steal-success' ? 987.77 : 1046.5, .06, .42);
         bell(1567.98, .12, .35, .1);
-        if (rich) coins(.25);
+        if (rich || points > 0) coins(.25);
         if (name === 'steal-success') {
           sequence([659.25, 783.99, 1046.5], .42, .1, .3, .1, 'triangle');
           if (rich) tone(261.63, .42, .4, .09, 'triangle');
         }
-        if (rich && points >= 30) flourish(name === 'steal-success' ? .8 : .48);
+        if (points >= 30) flourish(name === 'steal-success' ? .8 : .48);
         break;
       case 'wrong':
         tone(155.56, 0, .34, .14, 'sawtooth', 123.47);
@@ -310,7 +310,28 @@
     }
   }
 
-  const cueNames = new Set(['intro', 'opening', 'question', 'correct', 'wrong', 'reveal', 'score', 'celebration', 'steal', 'steal-success', 'steal-fail', 'countdown', 'timeout', 'turn', 'discussion', 'winner', 'click']);
+  // One catalog supplies both settings menus; IDs are also used by live game events.
+  const effects = [
+    { id: 'intro', label: 'Intro aplikasi', description: 'Sapaan game show singkat setelah interaksi pertama.' },
+    { id: 'opening', label: 'Mulai permainan', description: 'Fanfare pembuka saat permainan dimulai.' },
+    { id: 'question', label: 'Soal berikutnya', description: 'Whoosh dan transisi digital menuju soal baru.' },
+    { id: 'correct', label: 'Jawaban benar', description: 'Ding kemenangan saat jawaban dinyatakan benar.' },
+    { id: 'wrong', label: 'Jawaban salah', description: 'Buzzer saat guru menandai jawaban salah.' },
+    { id: 'reveal', label: 'Buka jawaban', description: 'Sapuan dan bel saat kotak jawaban dibuka.' },
+    { id: 'score', label: 'Tambah poin', description: 'Rangkaian bunyi koin saat tim memperoleh poin.' },
+    { id: 'celebration', label: 'Bonus / poin tinggi', description: 'Perayaan singkat untuk jawaban bernilai minimal 30 poin.' },
+    { id: 'steal', label: 'Final Steal dimulai', description: 'Sting suspense saat kesempatan Final Steal dimulai.' },
+    { id: 'steal-success', label: 'Final Steal berhasil', description: 'Bel kemenangan dan fanfare untuk Final Steal berhasil.' },
+    { id: 'steal-fail', label: 'Final Steal gagal', description: 'Nada dramatis menurun saat Final Steal gagal.' },
+    { id: 'countdown', label: 'Countdown 5 detik', description: 'Satu ketukan dari hitung mundur lima detik terakhir.' },
+    { id: 'timeout', label: 'Waktu habis', description: 'Buzzer penutup ketika timer mencapai nol.' },
+    { id: 'turn', label: 'Pergantian giliran', description: 'Chime saat giliran berpindah ke tim berikutnya.' },
+    { id: 'discussion', label: 'Pembahasan', description: 'Notifikasi lembut ketika pembahasan dibuka.' },
+    { id: 'winner', label: 'Pengumuman pemenang', description: 'Fanfare kemenangan utama saat hasil diumumkan.' },
+    { id: 'click', label: 'Tombol biasa', description: 'Klik lembut untuk tombol dan navigasi biasa.' },
+  ];
+  const cueNames = new Set(effects.map(effect => effect.id));
+  function getEffects() { return effects.map(effect => ({ ...effect })); }
 
   async function play(name, options) {
     if (!cueNames.has(name)) return false;
@@ -350,6 +371,16 @@
     }
   }
 
+  async function preview(name, options) {
+    if (!cueNames.has(name)) return false;
+    // Explicit previews may replace even a primary fanfare with a quiet click/tick.
+    // Advancing the generation also invalidates earlier taps still awaiting resume.
+    stop();
+    const ticket = generation;
+    if (!await unlock() || ticket !== generation) return false;
+    return play(name, options);
+  }
+
   async function activate(event) {
     if (!event.isTrusted) return;
     if (event.type === 'keydown' && (event.repeat || event.ctrlKey || event.metaKey || event.altKey || !['Enter', ' ', 'Spacebar'].includes(event.key))) return;
@@ -376,12 +407,14 @@
   }
 
   win.family100Audio = {
+    getEffects,
     getSettings,
     setSettings,
     play,
+    preview: (name) => preview(name),
     unlock,
     stop,
-    test: () => play('correct', { points: 35 }),
+    test: () => preview('correct', { points: 35 }),
     subscribe: (listener) => {
       if (typeof listener !== 'function') return () => {};
       listeners.add(listener);

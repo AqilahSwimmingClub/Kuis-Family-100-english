@@ -157,9 +157,10 @@ describe('shared game show audio', () => {
     await h.api.play('correct', { points: 35 })
     expect(context.sources.length - regularCount).toBeGreaterThan(regularCount)
     const richCount = context.sources.length
+    const richHighPointCount = richCount - regularCount
     h.api.setSettings({ profile: 'normal' })
     await h.api.play('correct', { points: 35 })
-    expect(context.sources.length - richCount).toBeLessThan(regularCount)
+    expect(context.sources.length - richCount).toBeLessThan(richHighPointCount)
   })
 
   it('lets an explicit first-action cue take precedence over the automatic intro', async () => {
